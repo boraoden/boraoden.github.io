@@ -7,10 +7,10 @@
    - title: reach me via
      entries:
       - title: spotify
-      - title: letterboxd
-      - title: goodreads
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: "<a href= "https://letterboxd.com/wiseonn">letterboxd</a>/" and "a href= "https://goodreads"> goodreads</a>"
+        url: 
+
+#      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
    - title: all posts
      post_list:
