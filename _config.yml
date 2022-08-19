@@ -2,7 +2,7 @@ title: Bora Öden # name of the site
 author: Bora Öden # name of site's author
 email: boraoden.bo@outlook.com # email of site's author
 url: boraodeon.github.io # root address of the site
-baseurl: "boraodeon.github.io" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   deneme1
 
@@ -17,7 +17,7 @@ theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
   back_home_text: ".." # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
-  show_description: false # show blog description in home page
+  show_description: true # show blog description in home page
 
 sass:
   style: :compressed
