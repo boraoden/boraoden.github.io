@@ -3,7 +3,8 @@
 
 entries:
   - title: a bit info about me
-  - title: reach me via:
+  	entries: 
+  - title: reach me via
     entries:
       - title: spotify
       - title: letterboxd
