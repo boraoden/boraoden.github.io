@@ -3,7 +3,8 @@
    entries:
    
    - title: about me
-     entries: i am just a medical student who is enthuastic about tech, cinema and stuff. 
+     entries: 
+      - title: i am just a medical student who is enthuastic about tech, cinema and stuff.
    - title: contact me via
      entries:
       - title: boraoden.bo [at] outlook.com
