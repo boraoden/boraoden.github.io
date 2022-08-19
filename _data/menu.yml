@@ -1,6 +1,7 @@
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
    entries:
+   
    - title: about me
      entries: 
    - title: reach me via
@@ -11,15 +12,15 @@
         url: https://github.com/riggraz/no-style-please
       - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
-  - title: all posts
-    post_list:
+   - title: all posts
+     post_list:
       limit: 5
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: posts by category
-    post_list:
+   - title: posts by category
+     post_list:
       category: example2
       show_more: true
       show_more_text: See more posts...
