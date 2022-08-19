@@ -2,10 +2,12 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: a bit info about me
+  - title: reach me via:
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
+      - title: spotify
+      - title: letterboxd
+      - title: goodreads
         url: https://github.com/riggraz/no-style-please
       - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
@@ -23,16 +25,17 @@ entries:
       show_more_text: See more posts...
       show_more_url: example2-archive.html
 
-  - title: rss
-    url: feed.xml
+#  - title: rss
+#    url: feed.xml
   
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
+#  - title: another list
+#    entries:
+#      - title: with subitems
+#       entries:
+#          - title: with subsubitems
+#          - title: example page
+#            url: about
+
+#  - title: PRO TIP
+#    entries:
+#      - title: to edit this menu, edit _data/menu.yml file
