@@ -2,10 +2,10 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: about me
-  	entries: 
-  - title: reach me via
-    entries:
+   - title: about me
+     entries: 
+   - title: reach me via
+     entries:
       - title: spotify
       - title: letterboxd
       - title: goodreads
