@@ -1,10 +1,10 @@
-title: Bora Öden # name of the site
+title: welcome! # name of the site
 author: Bora Öden # name of site's author
 email: boraoden.bo@outlook.com # email of site's author
 url: borao.de # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  deneme1
+  welcome to my inn, dear stranger, it's bora!
 
 permalink: /:slug.html
 
