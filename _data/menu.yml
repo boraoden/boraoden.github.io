@@ -16,22 +16,24 @@ entries:
       show_more: true
       show_more_text: see archive...
       show_more_url: archive.html
+  - title: categories   
+    entries: <a href="archive/movies.html">movies</a> <a href="archive/personal.html/">personal</a>
       
-  - title: personal      
-    post_list:
-      limit: 0
-      category: personal
-      show_more: true
-      show_more_text: see more...
-      show_more_url: archive/personal.html
+#  - title: personal      
+#    post_list:
+#      limit: 0
+#      category: personal
+#      show_more: true
+#      show_more_text: see more...
+#      show_more_url: archive/personal.html
       
-  - title: movies
-    post_list:
-     limit: 0
-     category: movies
-     show_more: true
-     show_more_text: see more...
-     show_more_url: archive/movies.html
+#  - title: movies
+#    post_list:
+#     limit: 0
+#     category: movies
+#     show_more: true
+#     show_more_text: see more...
+#     show_more_url: archive/movies.html
       
 
 
