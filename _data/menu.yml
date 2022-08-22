@@ -1,7 +1,8 @@
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
 entries:
-  - title: i am just a fourth year medical student from turkey who is enthuastic about tech, cinema, sports, cats and coffee. <img src="bora4.png" alt="yeah, that's nine year old me there!" width="150" height="150" style="float:right"> 
+  - title: i am just a fourth year medical student from turkey who is enthuastic about tech, cinema, sports, cats and coffee. 
+  - title: <img src="bora4.png" alt="yeah, that's nine year old me there!" width="150" height="150" style="float:right"> 
 
   - title: contact me via
     entries:
