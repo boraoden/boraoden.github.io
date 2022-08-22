@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-category: personal
+category: movies
 ---
 You always know that there'll be a mirror right opposite to you _before_ opening a Richard Linklater movie. This essence of Linklater cinema make me think, look behind to my past and make me stop a bit in my life. His creativity and success while reflecting us to us is what makes Richard Linklater one of my favourite directors.
 
