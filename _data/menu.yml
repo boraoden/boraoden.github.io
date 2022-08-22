@@ -19,14 +19,6 @@
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
-
-   - title: movies
-     post_list:
-      limit: 3
-      category: letterboxd
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: letterboxd-archive.html
       
    - title: personal      
      post_list:
@@ -35,6 +27,16 @@
       show_more: true
       show_more_text: See more posts...
       show_more_url: personal-archive.html
+      
+   - title: movies
+     post_list:
+      limit: 3
+      category: movies
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: letterboxd-archive.html
+      
+
 
 #  - title: rss
 #    url: feed.xml
