@@ -16,6 +16,7 @@ entries:
       show_more: true
       show_more_text: see archive...
       show_more_url: archive.html
+      
   - title: categories   
     entries: <a href="archive/movies.html">movies</a> <a href="archive/personal.html/">personal</a>
       
