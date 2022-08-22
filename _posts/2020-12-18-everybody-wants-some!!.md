@@ -1,5 +1,7 @@
 ---
 published: false
+layout: post
+category: movies
 ---
 I want some too!
 
