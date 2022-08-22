@@ -1,2 +1,2 @@
- layout: archive
+layout: archive
 which_category: movies
