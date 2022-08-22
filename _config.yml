@@ -4,7 +4,7 @@ email: boraoden.bo@outlook.com # email of site's author
 url: borao.de # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  welcome to my inn, dear stranger, it's bora!
+  hey, welcome!
 
 permalink: /:slug.html
 
