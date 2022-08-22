@@ -34,7 +34,7 @@
       category: movies
       show_more: true
       show_more_text: See more posts...
-      show_more_url: archive-movies.html
+      show_more_url: archive/movies.html
       
 
 
