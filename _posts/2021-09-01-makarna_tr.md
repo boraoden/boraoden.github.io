@@ -1,0 +1,90 @@
+---
+published: true
+layout: post
+category: personal
+---
+&nbsp; &nbsp; Bilmezler onu iliklerine kadar hissetmemiş olanlar esas "yalnızlık"ın ne olduğunu. Öyle
+Instagram'dan üç kez mesajlaşıp cumartesi gecesi buluşmaya sözleştiğin kızın ekmesi
+değildir yalnızlık, hele ekilme sonucu evde Netflix izlemeye "zorunlu kalmak", 21. yüzyıl
+orta sınıf duygusallığı yapmak hiç değildir.
+
+&nbsp; &nbsp; "Instagram" nedir bilmemektir, flört nedir bilmemektir, dokunamamaktır, dokunmamış
+olmaktır yalnızlık. Ucuz romantizmi hiç sevmemek, varoş edebiyatından da nefret
+etmektir ama aynı zamanda çok iyi empati yapabilmektir onlarla. Alelade ama yine de
+huzurlu bir saç kokusundan mahrumiyettir yalnızlık.  
+
+&nbsp; &nbsp; Sadece gönül muhabbetleri değildir elbette yoksunluğu çekilen. Anlayamamaktır,
+anlaşılamamaktır. Daha kötüsü bunun ölene kadar böyle süreceğini hissetmek,
+vücudundaki en ufak kılcal damara kadar korkuyla dolmaktır. Arada gelen "ulan şimdi ölsem
+kaç gün sonra fark edilirim acaba?" düşüncesidir. İyice kokmadan eşek cennetini
+boyladığının kimse tarafından fark edilmeyeceğini düşünmektir hafif ürkerek.  
+
+&nbsp; &nbsp; 20 yaşını bitirmeye yaklaşırken bastıran "ne yapıyorum ben?" sorusudur. Ersen ve Dadaşlar'ın
+"Geçti Bor'un Pazarı Sür Eşeği Niğde'ye" yorumunu buruk tebessümle, hatta tebessüm
+değil de ne idüğü belirsiz bir ağız hareketiyle dinlemektir. Şarkının kendin için yazıldığını
+fark etmektir, refleks olarak minik bir kahkaha atmaktır ardından, gözlerin hafifçe dolmasıdır.
+
+&nbsp; &nbsp; Her şeyden öte, bilmezsin ne yapacağını. En son çare açarsın defteri, bilgisayarı ve
+yazmaya başlarsın. Önemi yoktur da ne yazdığının, maksat konuşmaktır işte kendinle.
+Konuşacak biri olsa zaten hiç düşünür müydün yazmayı?  
+
+&nbsp; &nbsp; Bir kurtarıcının geleceğini hayal etmektir aynı zamanda yoğun yalnızlık, bu tuhaf
+ıssızlık. Bilirsin sen adım atmadığın sürece kimse seninle ilgilenmeyecektir ama sen
+adım atmayı geçtim, emeklemeyi dahi bilmiyorsundur. Tümüyle yabancısındır, aklına
+Bozkırkurdu gelir, Harry Haller'i hatırlar; kendi kurdunu, kendi yabaniliğini aklına
+getirirsin bir tekrardan. Böyle kendine kendine edebiyat yahut müzik göndermesi
+yapınca zeki hissetmektir yalnızlık.  
+
+&nbsp; &nbsp; Açsındır ama uyduruk, plastik gibi bir makarna yapacak halin dahi yoktur. Damardan
+hazır gıda almak ne tatlı olurdu dersin, sonra "hadi ordan"ı çekersin kendine, "hadi
+ordan" da demezsin de sansür uyguluyorsundur tüm bu yazdıklarına, bilirsin yoksa
+esasında ne dediğini orada. Her şeye rağmen koyarsın o makarna suyunu. Ton balığı
+ya da buzlukta köfte varsa az da olsa keyfin yerine gelir. Eh, "protein giriyor işte vücuda"
+dersin, sırıtırsın neredeyse hiç belli olmayacak şekilde.  
+
+&nbsp; &nbsp; Kitaplara daha çok sarılırsın ama bilirsin zihinsel bir mastürbasyondur yaptığın.
+Sanaldır onlar, sana ifade ettikleri anlamın pratik değeri çok azdır. Amiyane tabirle,
+kitaplar "karın doyurmaz" yani hocam. Okuduğun iki kıçı kırık filozofla dünya görüşü
+belirleyebileceğini zannedersin ama kitabın kapağını açmadan önce dahi biliyorsundur
+kendini kandırdığını. Eh, ortamlarda satmak için okuyacak halin de yoktur zaten, halin
+de olsa ortamın yoktur, haha.  
+
+&nbsp; &nbsp; İnsan gibi hissetmek için rutinler yaratır, alışkanlıklar koyarsın kendine. Dersin ki "her
+gün meditasyon yapacağım, düşüncelerimi bir deftere yazacağım, spor salonu düzenini
+oturtacağım, kariyer için uğraşacağım..." fakat yine de bilirsin kendinle yaptığın bu akdi
+bozacağını, "birkaç gün oyalar beni en azından" diye düşünür, sarılırsın bu başlangıçta
+tatlı gözüken ancak sonra havası aniden sönen "hayatımı düzene sokacağım" fikrine.  
+
+&nbsp; &nbsp; Hayaller kurarsın fakat daha kötüsü haftalar, aylar, seneler önce düşleyip
+planladıklarını gerçekleştirmediğini hatırlarsın. Zamanın geçişi tokat gibi vurur suratına yeniden. Klişedir ama Pink Floyd hakikaten güzel eşlik eder bu bölüm geldiğinde.
+Ergen gibi hissedersin ama iyi gelir yine de. En azından kelimenin tam anlamıyla
+"yalnız" olmadığını görürsün. David Gilmour da benzer şeyler hissediyordur seninle.
+Üstelik dededir zaten o, kendine mahsus ve kendinden gelen bir bilgeliği vardır.
+"Childhood's End"i maymunlar daktiloda yazmamıştır nihayetinde, sesin titreştirdiği hava
+atomları kulağında yaşanmışlıkla beraber at sürüyordur, bilirsin bunu. Bilmesen bile ilk
+dinleyişte hissedersin zaten. O ortak ruha hitap ediyordur çünkü. Böyle sosyal medyada
+paylaşmalık laflar üretmeyi de iyi biliyorsundur, aniden "'sesin titreştirdiği hava atomları
+at sürüyordur' ne be?" dersin kendi kendine gülerek.  
+
+&nbsp; &nbsp; Paylaşmak istersin bu yazdıklarını, pek yüksek ihtimal değil ama paylaşırsın belki
+birileriyle. Laf olsun diye ama sırf, çare beklemezsin kimseden. Bekleyemeyeceğinin
+farkındasındır daha doğrusu. Hem güçlü olmak zorundasındır hem de devası pek de
+yoktur sanki senin derdinin, zehrin kendisi tam anlaşılamışken panzehiri bulmayı,
+hazırlamayı umamazsın herhalde. Farkındasındır zira, tek mevzu sayısız kez tekrar
+ettiğin şu meşhur "yalnızlık" değildir çünkü. İçini bir kurt kemiriyordur, bulup çeksen
+güzel bir nefes alacak gibi hissedersin ama böyle çirkin metaforlar yaptığınla kalırsın
+sadece. "Kimseden ama hakikaten kimseden hayır yok bana" der, derin bir nefes alırsın,
+tencereye koyduğun su kaynıyordur sanki fakat ton balığı da peynir de kalmamıştır bu
+sefer, sade makarnanın tadı nasıldır çok iyi bilirsin herhalde?  
+
+&nbsp; &nbsp; 1 Eylül 2021 diye boktan bir tarih koyarsın kendinle yaptığın bu konuşmayı bitirirken
+en alta. Eylül bitince beni uyandırın diyesin gelir ama ağzından çıkamadan durmak
+zorunda kalır boğazında kelimeler. Hem bu dediğin gerçekleşse ne olur, ekimde yahut
+ocakta farklı bir senaryo beklemiyordur ki seni. Kaderci olursun birdenbire, diyeceğin
+çok şey vardır ama ya kalemi tutacak mecalin kalmamıştır ya da parmağını klavyeye
+basacak gücün.  
+
+&nbsp; &nbsp; Bilmezler tüm bunları yazdıranın ne olduğunu onlar. Bir edebi gönderme daha
+yapacaksındır ama "yeter artık" dersin, "sonraya kalsın". Eh, elinden gelen tek şey de ilk
+lokmanı ağzına atarken bu satırları kapatmaktır, "haydi eyvallah, acıktım ben" der,
+inceden kaçarsın.
