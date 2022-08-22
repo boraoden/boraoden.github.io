@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-category: personal
+category: movies
 ---
 Beyond George's spiritual personality, we have seen the relationship between members of the Fab Four, we have seen what others thought about George, his music and his persona. 
 
