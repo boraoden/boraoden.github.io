@@ -20,7 +20,7 @@ entries:
       
   - title: categories   
     entries: 
-      - title: <a href="archive/movies.html">movies</a> & <a href="archive/personal.html/">personal</a>
+      - title: <a href="archive/movies.html">movies</a> - <a href="archive/personal.html">personal</a>
       
 #  - title: personal      
 #    post_list:
