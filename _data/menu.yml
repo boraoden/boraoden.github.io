@@ -4,7 +4,6 @@
 entries:
   - title: about me
     url: about.html
-  - title: <img src="bora4.png" alt="yeah, that's nine year old me there!" width="120" height="120" style="float:right"> hey! i am just a medical student from turkey who is enthuastic about tech, books, cinema, sports, cats and coffee. 
   - title: if you wanna talk or ask about anything, don't hesisate to reach me via below;
     entries:
       - title: boraoden.bo [at] outlook.com
@@ -15,7 +14,7 @@ entries:
 
   - title: latest posts
     post_list:
-      limit: 5
+      limit: 4
       show_more: true
       show_more_text: see archive...
       show_more_url: archive.html
