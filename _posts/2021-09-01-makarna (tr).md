@@ -8,7 +8,7 @@ Instagram'dan üç kez mesajlaşıp cumartesi gecesi buluşmaya sözleştiğin k
 değildir yalnızlık, hele ekilme sonucu evde Netflix izlemeye "zorunlu kalmak", 21. yüzyıl
 orta sınıf duygusallığı yapmak hiç değildir.
 
-&nbsp; &nbsp; "Instagram" nedir bilmemektir, flört nedir bilmemektir, dokunamamaktır, dokunmamış
+&nbsp; &nbsp; Instagram nedir bilmemektir, flört nedir bilmemektir, dokunamamaktır, dokunmamış
 olmaktır yalnızlık. Ucuz romantizmi hiç sevmemek, varoş edebiyatından da nefret
 etmektir ama aynı zamanda çok iyi empati yapabilmektir onlarla. Alelade ama yine de
 huzurlu bir saç kokusundan mahrumiyettir yalnızlık.  
@@ -19,8 +19,8 @@ vücudundaki en ufak kılcal damara kadar korkuyla dolmaktır. Arada gelen "ulan
 kaç gün sonra fark edilirim acaba?" düşüncesidir. İyice kokmadan eşek cennetini
 boyladığının kimse tarafından fark edilmeyeceğini düşünmektir hafif ürkerek.  
 
-&nbsp; &nbsp; 20 yaşını bitirmeye yaklaşırken bastıran "ne yapıyorum ben?" sorusudur. Ersen ve Dadaşlar'ın
-"Geçti Bor'un Pazarı Sür Eşeği Niğde'ye" yorumunu buruk tebessümle, hatta tebessüm
+&nbsp; &nbsp; 20 yaşını bitirmeye yaklaşırken bastıran "ne yapıyorum ben?" sorusudur. _Ersen ve Dadaşlar_'ın
+_Geçti Bor'un Pazarı Sür Eşeği Niğde'ye_ yorumunu buruk tebessümle, hatta tebessüm
 değil de ne idüğü belirsiz bir ağız hareketiyle dinlemektir. Şarkının kendin için yazıldığını
 fark etmektir, refleks olarak minik bir kahkaha atmaktır ardından, gözlerin hafifçe dolmasıdır.
 
@@ -31,7 +31,7 @@ Konuşacak biri olsa zaten hiç düşünür müydün yazmayı?
 &nbsp; &nbsp; Bir kurtarıcının geleceğini hayal etmektir aynı zamanda yoğun yalnızlık, bu tuhaf
 ıssızlık. Bilirsin sen adım atmadığın sürece kimse seninle ilgilenmeyecektir ama sen
 adım atmayı geçtim, emeklemeyi dahi bilmiyorsundur. Tümüyle yabancısındır, aklına
-Bozkırkurdu gelir, Harry Haller'i hatırlar; kendi kurdunu, kendi yabaniliğini aklına
+_Bozkırkurdu_ gelir, _Harry Haller_'i hatırlar; kendi kurdunu, kendi yabaniliğini aklına
 getirirsin bir tekrardan. Böyle kendine kendine edebiyat yahut müzik göndermesi
 yapınca zeki hissetmektir yalnızlık.  
 
@@ -56,11 +56,11 @@ bozacağını, "birkaç gün oyalar beni en azından" diye düşünür, sarılı
 tatlı gözüken ancak sonra havası aniden sönen "hayatımı düzene sokacağım" fikrine.  
 
 &nbsp; &nbsp; Hayaller kurarsın fakat daha kötüsü haftalar, aylar, seneler önce düşleyip
-planladıklarını gerçekleştirmediğini hatırlarsın. Zamanın geçişi tokat gibi vurur suratına yeniden. Klişedir ama Pink Floyd hakikaten güzel eşlik eder bu bölüm geldiğinde.
+planladıklarını gerçekleştirmediğini hatırlarsın. Zamanın geçişi tokat gibi vurur suratına yeniden. Klişedir ama _Pink Floyd_ hakikaten güzel eşlik eder bu bölüm geldiğinde.
 Ergen gibi hissedersin ama iyi gelir yine de. En azından kelimenin tam anlamıyla
-"yalnız" olmadığını görürsün. David Gilmour da benzer şeyler hissediyordur seninle.
+"yalnız" olmadığını görürsün. _David Gilmour_ da benzer şeyler hissediyordur seninle.
 Üstelik dededir zaten o, kendine mahsus ve kendinden gelen bir bilgeliği vardır.
-"Childhood's End"i maymunlar daktiloda yazmamıştır nihayetinde, sesin titreştirdiği hava
+_Childhood's End_'i maymunlar daktiloda yazmamıştır nihayetinde, sesin titreştirdiği hava
 atomları kulağında yaşanmışlıkla beraber at sürüyordur, bilirsin bunu. Bilmesen bile ilk
 dinleyişte hissedersin zaten. O ortak ruha hitap ediyordur çünkü. Böyle sosyal medyada
 paylaşmalık laflar üretmeyi de iyi biliyorsundur, aniden "'sesin titreştirdiği hava atomları
@@ -78,7 +78,7 @@ tencereye koyduğun su kaynıyordur sanki fakat ton balığı da peynir de kalma
 sefer, sade makarnanın tadı nasıldır çok iyi bilirsin herhalde?  
 
 &nbsp; &nbsp; 1 Eylül 2021 diye boktan bir tarih koyarsın kendinle yaptığın bu konuşmayı bitirirken
-en alta. Eylül bitince beni uyandırın diyesin gelir ama ağzından çıkamadan durmak
+en alta. **Eylül bitince beni uyandırın** diyesin gelir ama ağzından çıkamadan durmak
 zorunda kalır boğazında kelimeler. Hem bu dediğin gerçekleşse ne olur, ekimde yahut
 ocakta farklı bir senaryo beklemiyordur ki seni. Kaderci olursun birdenbire, diyeceğin
 çok şey vardır ama ya kalemi tutacak mecalin kalmamıştır ya da parmağını klavyeye
