@@ -1,1 +1,1 @@
-- [meu - faculty of medicine - 3rd grade - anki decks (past questions & labs)](projects/med-third-grade-anki-decks.md)
+- [mersin - faculty of medicine - third grade - anki decks (past questions & labs)](projects/med-third-grade-anki-decks.md)
