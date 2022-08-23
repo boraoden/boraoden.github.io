@@ -1,3 +1,3 @@
 [this one goes to google drive link of project](https://drive.google.com/drive/folders/1NkZBE5DgrjkfSPE9R6oR8rPbMm-Kqw14?usp=sharing)
 
-i've prepared flashcards on **anki** in third grade which includes past questions for almost all exams of a full year period. after i've categorized and supported it with some other pdfs and additional info/guide, i thought i should open it for common use, so here it is! 
+i've prepared a flashcards collection on **anki** through a full year period in mersin university faculty of medicine's third grade. this collection includes past questions for almost of the all exams, heavily suggest you to read _readme_ file in link above. after i've tagged, categorized and supported the collection with some other pdfs and additional info, i thought i should open it for common use, so here it is! 
