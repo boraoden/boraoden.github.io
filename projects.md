@@ -1,0 +1,1 @@
+- [Mersin University Faculty of Medicine - Third Grade - Anki Decks (Past Questions and Labs)](https://drive.google.com/drive/folders/1NkZBE5DgrjkfSPE9R6oR8rPbMm-Kqw14?usp=sharing)
