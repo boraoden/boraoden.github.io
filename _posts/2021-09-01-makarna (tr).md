@@ -74,7 +74,7 @@ hazırlamayı umamazsın herhalde. Farkındasındır zira, tek mevzu sayısız k
 ettiğin şu meşhur "yalnızlık" değildir. İçini bir kurt kemiriyordur, bulup çeksen
 güzel bir nefes alacak gibi hissedersin ama böyle çirkin metaforlar yaptığınla kalırsın
 sadece. "Kimseden ama hakikaten kimseden hayır yok bana" der, derin bir nefes alırsın,
-tencereye koyduğun su kaynıyordur sanki fakat ton balığı da peynir de kalmamıştır bu
+tencereye koyduğun su kaynıyordur fakat ton balığı da peynir de kalmamıştır bu
 sefer, sade makarnanın tadı nasıldır çok iyi bilirsin herhalde?  
 
 1 Eylül 2021 diye boktan bir tarih koyarsın kendinle yaptığın bu konuşmayı bitirirken
