@@ -4,7 +4,7 @@ email: boraoden.bo@outlook.com # email of site's author
 url: borao.de # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  hey, welcome!
+# hey, welcome!
 
 permalink: /:slug.html
 
@@ -15,7 +15,7 @@ remote_theme: riggraz/no-style-please # if you are using GitHub Pages, change it
 
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
-  back_home_text: "back" # customize text for homepage link in post layout
+  back_home_text: "home" # customize text for homepage link in post layout
   date_format: "%d-%m-%Y" # customize how date is formatted
   show_description: false # show blog description in home page
 
