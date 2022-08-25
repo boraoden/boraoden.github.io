@@ -71,7 +71,7 @@ birileriyle. Laf olsun diye ama sırf, çare beklemezsin kimseden. Bekleyemeyece
 farkındasındır daha doğrusu. Hem güçlü olmak zorundasındır hem de devası pek de
 yoktur sanki senin derdinin, zehrin kendisi tam anlaşılamışken panzehiri bulmayı,
 hazırlamayı umamazsın herhalde. Farkındasındır zira, tek mevzu sayısız kez tekrar
-ettiğin şu meşhur "yalnızlık" değildir çünkü. İçini bir kurt kemiriyordur, bulup çeksen
+ettiğin şu meşhur "yalnızlık" değildir. İçini bir kurt kemiriyordur, bulup çeksen
 güzel bir nefes alacak gibi hissedersin ama böyle çirkin metaforlar yaptığınla kalırsın
 sadece. "Kimseden ama hakikaten kimseden hayır yok bana" der, derin bir nefes alırsın,
 tencereye koyduğun su kaynıyordur sanki fakat ton balığı da peynir de kalmamıştır bu
