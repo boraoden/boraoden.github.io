@@ -8,14 +8,14 @@ entries:
 
 #      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
-  - title: latest posts
+  - title: recent posts
     post_list:
       limit: 3
       show_more: true
       show_more_text: see archive...
       show_more_url: archive.html
       
-  - title: categories   
+  - title: posts by category   
     entries: 
       - title: <a href="archive/movies.html">movies</a> - <a href="archive/personal.html">personal</a>
       
