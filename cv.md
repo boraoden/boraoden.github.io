@@ -1,1 +1,1 @@
-<a href="CV_BoraOden.pdf">here is my cv if you're looking forward to get to know me more!</a>
+<a href="CV_BoraOden.pdf">it' in pdf format in here if you're looking for it!</a>
