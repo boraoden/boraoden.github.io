@@ -1,7 +1,8 @@
 ---
-published: false
+published: true
 layout: post
-categories: cinema 
+categories: cinema
+title: george harrison living in the material world - en
 ---
 beyond _george_'s spiritual personality, we have seen the relationship between members of the _fab four_, we have seen what others thought about _george_, his music and his persona. 
 
