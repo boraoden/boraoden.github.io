@@ -3,6 +3,7 @@ published: true
 layout: post
 categories: cinema
 title: waking life - en
+permalink: /waking-life-en
 ---
 i thought it is requisite to honor this beauty on its twentieth anniversary.
 
