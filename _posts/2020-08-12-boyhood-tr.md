@@ -2,6 +2,8 @@
 published: true
 layout: post
 categories: cinema eksi
+title: boyhood - tr
+permalink: /boyhood-tr
 ---
 kendisi aracılığıyla richard linklater, sinema, edebiyat, felsefe, müzik hakkında birkaç laf etmek istediğim film. sayfalarca övgü, methiye ve empati dolu girdi varken bunlara bir tane daha eklemek istemiyorum doğrusu. hoş, övmemek mümkün değil bunları yazarken, yine de yazı hafifçe kişisel olacak gibi gözüküyor.
 
