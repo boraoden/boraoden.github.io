@@ -10,8 +10,8 @@ albümün tuhaflıkları yok değil şüphesiz; the beatles resmi olarak dağıl
 ilaveten, the beatles'ın beraber kaydettiği son şarkı için the end incelenebilir.
 ve yine bu "unvanın" 3 ocak 1970 tarihinde kaydedilen şahane george harrison parçası i me mine'a verilmemesinin nedeni o şarkıda john lennon'un grubu terk etmiş ve yoko ono ile danimarka'da bulunuyor olmasıdır. yani the end dörtlünün beraber kaydettiği son şarkıdır, onu özel yapan da bu özelliğidir sonundaki harika
 
-> and in the end
-the love you take
+> and in the end   
+the love you take  
 is equal to the love you make.
 
 sözlerinin yanında.
