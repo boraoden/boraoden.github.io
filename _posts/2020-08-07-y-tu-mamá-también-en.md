@@ -1,8 +1,9 @@
 ---
 published: true
 layout: post
-category: cinema
 categories: cinema
+title: let y tu mamá también - en
+permalink: /y-tu-mamá-también-en.md
 ---
 beyond _y tu mamá también_'s approach to love, relations, jealousy, adolescence, desire to create a memory in other people's life and mortality there is pure, true and intense portion of life in it. we witness a journey of three well-written human being and that's it!
 
