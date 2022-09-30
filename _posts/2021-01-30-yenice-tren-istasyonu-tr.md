@@ -2,6 +2,8 @@
 published: true
 layout: post
 categories: ramble eksi
+title: yenice tren istasyonu - tr
+permalink: /yenice-tren-istasyonu-tr
 ---
 tam 78 sene önce bugün gerçekleşmiş olan adana görüşmesi'ne ev sahipliği yapmış olan tren istasyonu. görüşmenin kendi başlığında gayet güzel girdiler olduğu için ben daha çok lokasyona odaklanmak istiyorum. bana hem tarihin minik, gülümseten inceliklerini hatırlatan hem de çukurova bölgesinin kendine has zenginliğini ortaya seren onlarca küçük ayrıntısından biri yenice tren istasyonu.
 
