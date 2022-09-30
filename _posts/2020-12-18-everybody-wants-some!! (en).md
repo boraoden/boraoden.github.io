@@ -2,6 +2,7 @@
 published: true
 layout: post
 category: cinema
+categories: cinema
 ---
 i want some too!
 
