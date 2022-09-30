@@ -1,6 +1,5 @@
 ---
 layout: post
-title: _posts/2000-01-01-trash-language-tests.md
 category: example2
 published: false
 ---
