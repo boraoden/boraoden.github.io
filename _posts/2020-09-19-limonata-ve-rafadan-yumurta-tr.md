@@ -2,6 +2,8 @@
 published: true
 layout: post
 categories: ramble eksi
+title: limonata ve rafadan yumurta - tr
+permalink: /limonata-ve-rafadan-yumurta-tr
 ---
 m. serdar kuzuloğlu'nun da 7 sene önce oldukça tatlı bir [noktadan](https://www.mserdark.com/beyogluna-kitapci-degil-kafe-lazim/) değindiği, memleketin en önemli fikir adamlarından biri olan merhum çetin altan'ın hem üzücü türkiye gerçeğini fark ettiren hem de bu konuda hafiften umutsuzluğa sokan enfes yazısı. aşağıdaki kısmı tüm yazının anlatmak istediği noktadır zaten, öncesi biraz hikaye içindir.  
 
