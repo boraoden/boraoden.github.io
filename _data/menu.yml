@@ -17,7 +17,7 @@ entries:
       
   - title: posts by category   
     entries: 
-      - title: <a href="archive/movies.html">movies</a> - <a href="archive/personal.html">personal</a>
+      - title: <a href="archive/personal.html">personal</a> - <a href="archive/cinema.html">cinema</a> - <a href="archive/music.html">music</a> - <a href="archive/ramble.html">ramble</a> - <a href="archive/eksi.html">eksi</a>
       
   - title: if you wanna talk or ask about anything, don't hesisate to reach me via below;
     entries:
