@@ -12,7 +12,7 @@ ve yine bu "unvanın" 3 ocak 1970 tarihinde kaydedilen şahane george harrison p
 
 > and in the end   
 the love you take  
-is equal to the love you make.
+is equal to the love you make
 
 sözlerinin yanında.
 
