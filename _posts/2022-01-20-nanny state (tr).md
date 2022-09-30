@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: ramble eksi
 ---
@@ -33,4 +33,4 @@ evet, isveç ekonomik anlamda liberaldir, serbest piyasası vardır ve yabancı 
 
 değinilmesi gerek diğer mevzu özel sermaye kısmıdır ama çok uzatmayacağım o tarafı. "özgürlük" nedir ve sadece devlet tarafından mı kısıtlanır? devletin küçültülmesi şirketlerin "özgürlüğümüze" müdahalesine yol açmaz mı? amerika'da sigortasız milyonlarca kişiyi, sağlık sistemi yüzünden borç batağında olanları özgür addetmek mümkün müdür? hiçbir şeye karışmayan ve "özgürlükçü" minik bir hükümet, marketten aldığınız ürünlere kimi regülasyonlar uygulamazsa bunun sonuçları vahim olmaz mı?
 
-her neyse, sona yaklaşırken bu entryde vurgulanmak istenen noktanın biraz da ölçülülük ve denge olduğunun altını çizmek isterim. devlet nereye, ne kadar müdahale etmelidir, bunu bilmiyorum. dünya üzerinde farklı politikaların farklı yansımalarını kolayca görebiliyoruz. yine de mesele "özgürlük" anlayışımıza geldiğinde yaşanan ironik durum benim nezdimde kesinlikle irdelenmeye değer. bu tartışmanın 21. yüzyılın bir başka düşündürten ve gülümseten soru işareti olduğunu reddetmemek gerekir zira artık ideolojilerin sınırları da eriştikleri noktalar da pek bir bulanık, pek bir girifttir. 
+her neyse, sona yaklaşırken bu entryde vurgulanmak istenen noktanın biraz da ölçülülük ve denge olduğunun altını çizmek isterim. devlet nereye, ne kadar müdahale etmelidir, bunu bilmiyorum. dünya üzerinde farklı politikaların farklı yansımalarını kolayca görebiliyoruz. yine de mesele "özgürlük" anlayışımıza geldiğinde yaşanan ironik durum benim nezdimde kesinlikle irdelenmeye değer. bu tartışmanın 21. yüzyılın bir başka düşündürten ve gülümseten soru işareti olduğunu reddetmemek gerekir zira artık ideolojilerin sınırları da eriştikleri noktalar da pek bir bulanık, pek bir girifttir.
