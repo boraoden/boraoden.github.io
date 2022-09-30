@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: ramble eksi
 ---
@@ -13,4 +13,4 @@ toplumların duygusal ve düşünsel olgunlaşmalarında da bu gerçek kendini b
 
 bırakın beş kişiyi, milyonluk bir insan grubunun zihin yapısı ve anlayışı söz konusu olur burada. sadece var olmaktan dahi keyif alanların, bilhassa hayatın kendisiyle gelen zarafeti ve hoşnutluğu özlerinde, içlerinde birazcık bulunduranların da kafasına "toplum" gerçeği balyoz gibi iner. avamlık, benliğinize işleyecek kadar kuvvetli nüfuz edemez size belki ama potansiyeliniz engellenmiştir nihayetinde. sanatçının, aydının yalnızlığı da buradan doğar çoğunlukla. sartre da aynı doğrultudan gitmese de yakın bir sonuca varır aydınlar üzerine'de. kaldı ki bunu fransız milletine mensup birinin demesi bizdeki eksikliğin ne kadar derin ve düzeltilemez olduğunu fark ettirir acı şekilde. bir anlaşamama, olağanüstü çabaya rağmen kendini anlatamama ve karşının ruhunu tanıyamama vardır yani. bu durum kimi zamansa yabancılaşmaya doğru ilerler.
 
-velhasılıkelam, artık o basit ama leziz limonatayı içemeyecek, şöyle güzel bir rafadan yumurta yiyemeyeceksinizdir. 
+velhasılıkelam, artık o basit ama leziz limonatayı içemeyecek, şöyle güzel bir rafadan yumurta yiyemeyeceksinizdir.
