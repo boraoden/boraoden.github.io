@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: ramble eksi
 ---
@@ -15,4 +15,4 @@ wilbur smith'in ölümüyle beni ben yapan tuğlalardan biri bu dünyayı terk e
 
 afrika'yı ve afrika'nın yaşadıklarını onun kadar iyi ve bütüncül anlatacak bir başka yazar olduğunu veya olacağını düşünmüyorum. eğer bir diğer dünya varsa umuyorum ki taita'ya, şasa courtney'e, dorian courtney'e, centaine de thiry'e, moses gama'ya kavuşmuştur nihayet.
 
-bana ve benim çocukluğuma kattığın sonsuz değer için çok teşekkür ederim. 
+bana ve benim çocukluğuma kattığın sonsuz değer için çok teşekkür ederim.
