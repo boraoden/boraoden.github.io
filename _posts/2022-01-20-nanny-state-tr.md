@@ -2,6 +2,8 @@
 published: true
 layout: post
 categories: ramble eksi
+title: nanny state - tr
+permalink: /nanny-state-tr
 ---
 postmodernizm ve onun yarattığı kavramsal kafa karışıklığının sayısız vücut bulma şeklinden politikaya yansımış olan bir tanesi nanny state. tıpkı liberal kelimesi gibi, neyi ifade ettiği tam olarak anlaşılamayan ve coğrafyadan coğrafyaya değişkenlik gösteren bir terim. nasıl "liberalism" günümüzde özellikle amerikan solculuğunun etiketi olmuşsa ve orijinal anlamının ve doğuşunun bizzat aksi bir rota çizip kısmen de olsa devletçiliğin bayrak taşıyıcılığını yapıyorsa, nanny state olarak adlandırılabilecek ülkeler de böyle bir çelişkili durum içerisinde sayılabilir.
 
