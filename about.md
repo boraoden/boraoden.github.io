@@ -2,6 +2,7 @@
 layout: page
 title: about me
 published: true
+permalink: about-me
 ---
 ![looking handsome, eh?]({{site.baseurl}}/images/bora1a.png)    
 
