@@ -2,6 +2,7 @@
 published: true
 layout: post
 category: cinema
+categories: cinema
 ---
 _jean-luc godard_ once said:
 
