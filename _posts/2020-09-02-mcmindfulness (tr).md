@@ -9,8 +9,8 @@ categories: ramble eksi
 
 haliyle mindfulness, gayet faydalı ve tıbbi olarak da sıkça tavsiye edilen bir mefhum lakin hemen hemen son yüz yılda değişen abd endeksli tüketim anlayışı nedeniyle de bu güzel mantalite gerçek anlamını ve özünü yitirmekte, insanların zayıf yönlerini ustaca ayıklayan şirketler ve insanlar tarafından suistimal edilmekte. bu durumu biraz daha irdeleyelim şimdi.
 
-![]({{https://ibb.co/pKWsm90}})
-![]({{https://ibb.co/Y79L66M}})
+![]({{https://ibb.co/pKWsm90}}) ![]({{https://ibb.co/Y79L66M}})
+
 
 öncelikle yukarıdaki şu iki grafiğe bakalım. bunlar google'ın ngram viewer servisinden. taranmış milyonlarca kitaptan derledikleri ile belli kelimelerin ne oranda tekrarladığının bilgisini veren epey kullanışlı bir araç bu ngram viewer. mindful ve mindfulness kavramlarının 2000 yılı sonrası yükselişleri kuşkusuz tesadüfle açıklanabilecek bir durum değil ama tek başına bir şey de ifade etmiyor elbette ama biz devam edelim.
 
