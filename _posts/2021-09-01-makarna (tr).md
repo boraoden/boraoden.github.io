@@ -2,6 +2,7 @@
 published: true
 layout: post
 category: personal
+categories: personal
 ---
 bilmezler onu iliklerine kadar hissetmemiş olanlar esas "yalnızlık"ın ne olduğunu. öyle
 instagram'dan üç kez mesajlaşıp cumartesi gecesi buluşmaya sözleştiğin kızın ekmesi
