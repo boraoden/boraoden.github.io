@@ -1,5 +1,7 @@
 ---
 published: true
+layout: post
+category: personal
 ---
 ilk defa bugün yaşayacağım ve bana, kendime verdiğim “sakın sözlük’e duygusal şeyler yazma!” kararımı bozdurmuş ruh halidir. yirmi birinci doğum günüm ile başlamış olan bu durumun, bu tatsız ve buruk olayın kaçıncı doğum günüme kadar süreceğini ise düşünmeyi pek de istemiyorum.
 
