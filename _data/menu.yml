@@ -8,12 +8,12 @@ entries:
 
 #      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
-  - title: recent posts
-    post_list:
-      limit: 3
-      show_more: true
-      show_more_text: see archive...
-      show_more_url: archive
+#  - title: recent posts
+#    post_list:
+#      limit: 3
+#      show_more: true
+#     show_more_text: see archive...
+#      show_more_url: archive
       
   - title: posts by category   
     entries: 
