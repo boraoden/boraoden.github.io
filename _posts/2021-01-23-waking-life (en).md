@@ -2,6 +2,7 @@
 published: true
 layout: post
 category: cinema
+categories: cinema
 ---
 i thought it is requisite to honor this beauty on its twentieth anniversary.
 
