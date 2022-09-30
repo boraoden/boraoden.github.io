@@ -1,7 +1,6 @@
 ---
 published: true
 layout: post
-category: cinema
 categories: cinema
 title: waking life - en
 ---
