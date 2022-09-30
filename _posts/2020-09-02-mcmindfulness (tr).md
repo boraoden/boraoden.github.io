@@ -9,7 +9,9 @@ categories: ramble eksi
 
 haliyle mindfulness, gayet faydalı ve tıbbi olarak da sıkça tavsiye edilen bir mefhum lakin hemen hemen son yüz yılda değişen abd endeksli tüketim anlayışı nedeniyle de bu güzel mantalite gerçek anlamını ve özünü yitirmekte, insanların zayıf yönlerini ustaca ayıklayan şirketler ve insanlar tarafından suistimal edilmekte. bu durumu biraz daha irdeleyelim şimdi.
 
-![]({{https://i.ibb.co/X5ydwv2/Screenshot-2020-08-31-Google-Books-Ngram-Viewer-1.png}}) ![]({{https://i.ibb.co/gM1RGGp/Screenshot-2020-08-31-Google-Books-Ngram-Viewer.png}})  
+![]({{site.baseurl}}//images/mcmindfulness1.png) 
+
+![]({{site.baseurl}}//images/mcmindfulness2.png)
 
 öncelikle yukarıdaki şu iki grafiğe bakalım. bunlar google'ın ngram viewer servisinden. taranmış milyonlarca kitaptan derledikleri ile belli kelimelerin ne oranda tekrarladığının bilgisini veren epey kullanışlı bir araç bu ngram viewer. mindful ve mindfulness kavramlarının 2000 yılı sonrası yükselişleri kuşkusuz tesadüfle açıklanabilecek bir durum değil ama tek başına bir şey de ifade etmiyor elbette ama biz devam edelim.
 
@@ -19,7 +21,7 @@ mcmindfulness; bir hayat tarzı sunuyor, kimlik vaadediyor insanlara. geçmişte
 
 uygulama dedim, biraz da o tarafı incelemek istiyorum. bu uygulama ve pratiklerin yoğun şekilde teknoloji şirketlerinde denendiği ve öğretilmeye çalışıldığı bir gerçek. çarkın yarattığı modern zaman stresi ile yine çarkın sunduğu çözümlerle baş etmeye çalışılıyor yani. bu da yarım yamalak, ne olduğu belirsiz, spekülasyona ve yanlış kullanıma açık, ortak bir malzeme havuzu oluşturuyor kısaca.
 
-![]({{site.baseurl}}/https://www.factmr.com/images/reports/mindfulness-meditation-application-market-snapshot.jpg)
+![](https://www.factmr.com/images/reports/mindfulness-meditation-application-market-snapshot.jpg)
 
 hemen yukarıdaki imajda da mevzubahis sektörle ilgili önemli bilgiler görüyoruz. meditasyon uygulamaları veya benzer eksenli girişimler son yıllarda inkar edilemez bir yükselişte. işin ilginç yanı bu furyaya budizm'in esas vatanı hindistan gibi ülkelerdeki insanlar da epey ilgi gösteriyor. bunların tümüyle anlamsız ve faydasız olduğunu söylemiyor mcmindfulness fakat doğduğu şeklinden de zararlı şekilde uzaklaştığını beyân ediyor.
 
