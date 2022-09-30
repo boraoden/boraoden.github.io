@@ -1,8 +1,9 @@
 ---
 published: true
 layout: post
-category: personal
 categories: personal
+title: makarna - tr
+permalink: /makarna-tr
 ---
 bilmezler onu iliklerine kadar hissetmemiş olanlar esas "yalnızlık"ın ne olduğunu. öyle
 instagram'dan üç kez mesajlaşıp cumartesi gecesi buluşmaya sözleştiğin kızın ekmesi
