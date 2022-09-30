@@ -1,8 +1,9 @@
 ---
 published: true
 layout: post
-category: cinema
 categories: cinema
+title: vivre sa vie - en
+post-url: /vivre-sa-vie-en
 ---
 _jean-luc godard_ once said:
 
