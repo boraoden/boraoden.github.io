@@ -4,6 +4,7 @@ layout: post
 category: personal
 categories: personal eksi
 permalink: doğum-gününde-yalnız-olmak-tr
+title: doğum gününde yalnız olmak - tr
 ---
 ilk defa bugün yaşayacağım ve bana, kendime verdiğim “sakın sözlük’e duygusal şeyler yazma!” kararımı bozdurmuş ruh halidir. yirmi birinci doğum günüm ile başlamış olan bu durumun, bu tatsız ve buruk olayın kaçıncı doğum günüme kadar süreceğini ise düşünmeyi pek de istemiyorum.
 
