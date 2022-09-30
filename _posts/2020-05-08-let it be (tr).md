@@ -3,6 +3,7 @@ published: true
 layout: post
 category: music
 categort: eksi
+categories: music eksi
 ---
 bugün, albüm olanın 50. yıl dönümü. üzücü şekilde sgt. pepper's lonely hearts club band'e, white album'e, abbey road'a gösterilen 50. yıl ilgisi bu albüme gösterilmiyor. zaten ilginç bir albüm let it be; albümle aynı adı taşıyan let it be'den tutun across the universe'e; get back'ten tutun i me mine'a, for you blue'den the long and winding road'a kadar içinde hiç de kaliteli şarkılar yok değil esasında.
 
