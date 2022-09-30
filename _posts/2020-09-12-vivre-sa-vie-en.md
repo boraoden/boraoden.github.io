@@ -3,7 +3,7 @@ published: true
 layout: post
 categories: cinema
 title: vivre sa vie - en
-post-url: /vivre-sa-vie-en
+permalink: /vivre-sa-vie-en
 ---
 _jean-luc godard_ once said:
 
