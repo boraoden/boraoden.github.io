@@ -23,5 +23,5 @@ bitirmeden belirtmek istiyorum ki kesinlikle sedanter, miskin ve hedoni dolu bir
 bu girdinin amacını da kestirebilmiş değilim; sadece küreselleşen dünyanın bizi, çoğunluğu, düz insanı kutuplaştırmasını, bir şekilde manipüle etmesini, ürün haline getirmesini hazmedemiyorum. bize düşen; birkaç yıl kaldığımız dünya üzerinde hayatımızı, hayatımızdan para ve güç kazanmaya susamış ve bunu iyi niyet perdesi altında yapan kişilerden korumak kanaatimce.
 
 bonus, konuyla ilgili güzel bir tweet:
-![tweet.jpg](https://imageproxy.ifunny.co/crop:x-20,resize:640x,quality:90x75/images/7bf9791399a26f5e631e16b89955a140cf308666011639ab07508d4eba240368_1.jpg)
+![]({{site.baseurl}}/images/tw2.jpg)
 
