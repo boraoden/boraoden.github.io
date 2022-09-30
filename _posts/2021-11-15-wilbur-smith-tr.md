@@ -2,6 +2,8 @@
 published: true
 layout: post
 categories: ramble eksi
+title: wilbur smith - tr
+permalink: /wilbur-smith-tr
 ---
 seneler önce, henüz yeni bir sözlük ergeniyken kendisi hakkında [şöyle](https://eksisozluk.com/entry/71808818) bir entry yazdığım ve ölüm haberinin ardından yeniden o entryi okuyunca bir garip hissettiğim, akabinde de minik bir tribute kaleme dökmek istediğim yazar.
 
