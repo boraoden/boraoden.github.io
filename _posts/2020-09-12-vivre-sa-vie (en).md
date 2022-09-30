@@ -1,20 +1,20 @@
 ---
 published: true
 layout: post
-category: movies
+category: cinema
 ---
-_Jean-Luc Godard_ once said:
+_jean-luc godard_ once said:
 
-> The cinema is not an art which films life: the cinema is something between art and life. Unlike painting and literature, the cinema both gives to life and takes from it, and I try to render this concept in my films. Literature and painting both exist as art from the very start; the cinema doesn't.
+> the cinema is not an art which films life: the cinema is something between art and life. unlike painting and literature, the cinema both gives to life and takes from it, and i try to render this concept in my films. literature and painting both exist as art from the very start; the cinema doesn't.
 
-_Vivre Sa Vie_ is a beautiful example of this quote. _Godard_ hasn't made the movie and Nana's descent too dramatic but also it isn't unemotional. Camera tricks made me recall that is a movie but _Godard_'s little additions with philosophical and soulful scenes don't seperate you from film's aspect that is full of life.
+_vivre sa vie_ is a beautiful example of this quote. _godard_ hasn't made the movie and nana's descent too dramatic but also it isn't unemotional. camera tricks made me recall that is a movie but _godard_'s little additions with philosophical and soulful scenes don't seperate you from film's aspect that is full of life.
 
-Cigarettes, dancing _Anna Karina_, her eyes and her haircut, French cafés and songs, the pretty scene that Nana has measured her height, philosophical dialogues... _Vivre Sa Vie_ is full of great details and these details are what make you perceive you are watching a **human** film. 
+cigarettes, dancing _anna karina_, her eyes and her haircut, french cafés and songs, the pretty scene that nana has measured her height, philosophical dialogues... _vivre sa vie_ is full of great details and these details are what make you perceive you are watching a **human** film. 
 
-Film is both "_Sartrean_" and a strike to "_Sartrean_" existentialism. Of course we are not totally free or we're not machines that already programmed but no one can deny life's facts as we can witness.
+film is both "_sartrean_" and a strike to "_sartrean_" existentialism. of course we are not totally free or we're not machines that already programmed but no one can deny life's facts as we can witness.
 
-Nana thought she was free, she was responsible for her behaviors. Well, she was true. Her craving for feeling special was very natural and familiar, maybe this desire of her made me compensate the bitter end a bit. I couldn't get sad in the end because of listening her sentences in that cute café, this is what makes life, life.
+nana thought she was free, she was responsible for her behaviors. well, she was true. her craving for feeling special was very natural and familiar, maybe this desire of her made me compensate the bitter end a bit. i couldn't get sad in the end because of listening her sentences in that cute café, this is what makes life, life.
 
-I have to mention that her captured situation in Paris with bunch of men is definitely necessary to talk about. I have loved what _Godard_ did in the whole movie. He has presented the concept of "despair among the men's world" very well. 
+i have to mention that her captured situation in paris with bunch of men is definitely necessary to talk about. i have loved what _godard_ did in the whole movie. he has presented the concept of "despair among the men's world" very well. 
 
-_Godard_ is a brilliant director, _Karina_ is a gorgeous woman.
+_godard_ is a brilliant director, _karina_ is a gorgeous woman.
