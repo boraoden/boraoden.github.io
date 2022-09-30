@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: cinema eksi
 ---
@@ -19,4 +19,4 @@ uçarı karakterler, izleyicinin birkaç ay sonra unutacağı olaylar olmadan ay
 
 kafamdaki fikir bulutu dallanıp budaklanmışken daha da uzatmadan bitirmek istiyorum. sinemanın, müziğin, edebiyatın ve bilimin bizi karmaşık, anlaması imkansız, yıpratıcı ve yorucu bu faniliğin içinde ufak bir nefes aldıran araçlar olduğunu yeniden hatırlattığı ve hayattaki yegane gayemizin açgözlü şekilde hep daha fazla yetenek, uğraş, başarı olmadığını yeniden hatırlattığı için yönetmene buradan minnet sunmak istedim sadece.
 
-yıllar sonra bu girdiyi okursam ne düşünürüm bilmiyorum, herhalde boyhood'u bir kez daha izlerim ve benimle beraber olgunlaşmış, değişmiş fikri ve maddi yaşantım bir kez daha boynunu çevirip geriye bakma cüretini gösterir, genç haliyle değil de yetişkin haliyle belki, kim bilir? 
+yıllar sonra bu girdiyi okursam ne düşünürüm bilmiyorum, herhalde boyhood'u bir kez daha izlerim ve benimle beraber olgunlaşmış, değişmiş fikri ve maddi yaşantım bir kez daha boynunu çevirip geriye bakma cüretini gösterir, genç haliyle değil de yetişkin haliyle belki, kim bilir?
