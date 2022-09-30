@@ -1,7 +1,7 @@
 title: a simple blog page from ~bora # name of the site
 author: Bora Öden # name of site's author
 email: boraoden.bo@outlook.com # email of site's author
-url: borao.de # root address of the site
+url: boraoden.de # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
 # hey, welcome!
@@ -9,7 +9,7 @@ description: > # description of the site (multiple lines allowed)
 permalink: /:slug.html
 
 favicon: "favicon3-transparent.ico" # name+extension of favicon (which must be put on the root folder)
-# goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
+goat_counter: "boraoden.de" # put your GoatCounter name if you want to use GoatCounter analytics
 
 remote_theme: riggraz/no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
 
