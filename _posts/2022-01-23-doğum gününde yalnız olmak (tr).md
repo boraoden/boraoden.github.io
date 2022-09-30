@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ilk defa bugün yaşayacağım ve bana, kendime verdiğim “sakın sözlük’e duygusal şeyler yazma!” kararımı bozdurmuş ruh halidir. yirmi birinci doğum günüm ile başlamış olan bu durumun, bu tatsız ve buruk olayın kaçıncı doğum günüme kadar süreceğini ise düşünmeyi pek de istemiyorum.
 
@@ -19,4 +19,4 @@ artık bir ayağı mezarda olan woody allen da zamanında “you can live to be 
 
 doğum gününün yalnızlığı hatırlatmasının yanında en az onun kadar can yakan başka bir yönü de elbette büyümeyi ve giden günleri, geçen seneleri hatırlatması kuşkusuz. kendime her ne kadar “don't cry because it's over. smile because it happened. “ şeklinde hatırlatmalarda bulunsam da elimden kötü geçirilen zaman için üzülmekten, bir daha deneyimlenemeyecek şeyler için göz yaşı akıtmaktan, hayal meyal hatırlanan çocukluğu yad etmekten başka bir şey gelmiyor. neredeyse her girdide bir şekilde değinsem de nostaljinin zehirli etkisinin altına inanılmaz kolay şekilde giriyorum çünkü insan biraz da şaşırıyor c.s. lewis’in “isn’t it funny how day by day nothing changes, but when you look back everything is different?” lafının doğruluğunu görüp. fakat benim gibi düşünenlere bir yandan anımsatmalı ki “your future self is watching you right now through your memories.” o yüzden o hatıraları güzel, keyifli ve tatlı yaratmaya bakmalı. eh, iyice alıntı çorbasına çevirdiğim bu girdiye oldukça keskin birkaç baharat daha eklemekten zarar çıkmazdı sanırım. en nihayetinde “time flies over us, but leaves its shadow behind.” demeden de bitirmeyeyim.
 
-doğum gününde yapayalnız olan pek kıymetli sözlük yazarlarına, bu girdiyi okuduğunda yirmi birinci doğum gününü kutlayanlara ve özellikle 23 ocak’ta dünya’ya gözlerini açmış tüm yalnız kalplere armağan olsun. 
+doğum gününde yapayalnız olan pek kıymetli sözlük yazarlarına, bu girdiyi okuduğunda yirmi birinci doğum gününü kutlayanlara ve özellikle 23 ocak’ta dünya’ya gözlerini açmış tüm yalnız kalplere armağan olsun.
