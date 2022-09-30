@@ -1,8 +1,9 @@
 ---
 published: true
 layout: post
-category: cinema
 categories: cinema
+title: everybody wants some!! - en
+permalink: /everybody-wants-some-en
 ---
 i want some too!
 
