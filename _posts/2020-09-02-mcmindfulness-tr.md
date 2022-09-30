@@ -3,9 +3,9 @@ published: true
 layout: post
 categories: ramble eksi
 title: mcmindfulness - tr
-post-url: mcmindfulness.html
+permalink: /mcmindfulness-tr
 ---
- mcdonald's'ın "mc"ini alıp mindfulness kavramı ile birleştiren bu satirik kavram, ekseriyetle beyaz yakalı camiasında mevcut olan ancak yavaşça çok daha kapsamlı bir hal almaya başlayan mindfulness merakı sonucu oluşan talebe karşılık gelişen mindfulness ürünlerinin -uygulamalar, kitaplar, podcastler vb.- samimiyetsizliğine, özünden uzaklaşmışlığına istinaden uydurulmuş yeni bir kelime.
+mcdonald's'ın "mc"ini alıp mindfulness kavramı ile birleştiren bu satirik kavram, ekseriyetle beyaz yakalı camiasında mevcut olan ancak yavaşça çok daha kapsamlı bir hal almaya başlayan mindfulness merakı sonucu oluşan talebe karşılık gelişen mindfulness ürünlerinin -uygulamalar, kitaplar, podcastler vb.- samimiyetsizliğine, özünden uzaklaşmışlığına istinaden uydurulmuş yeni bir kelime.
 
 öncelikle mindfulness'ın ne olduğunu anlamak gerekiyor, uzun uzun anlatmayacağım ancak epey indirgemeci şekilde özetleyecek olursak; budizm orijinli, durum ne olursa olsun "an"da olmayı, onunla barışık olmayı ve onu kabullenmeyi "öğütleyen", kısmen stoa öğretileri içeren, türkçe'ye bilinçli farkındalık şeklinde çevrilmiş bir anlayış biçimi esasında.
 
