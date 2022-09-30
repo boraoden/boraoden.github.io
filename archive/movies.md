@@ -1,6 +1,6 @@
 ---
 published: true
 layout: archive
-which_category: movies
+which_category: cinema
 title: archive/cinema
 ---
