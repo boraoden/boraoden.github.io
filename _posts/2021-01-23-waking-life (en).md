@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-category: movies
+category: cinema
 ---
 I thought it is requisite to honor this beauty on its twentieth anniversary.
 
