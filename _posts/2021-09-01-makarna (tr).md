@@ -32,7 +32,7 @@ Bir kurtarıcının geleceğini hayal etmektir aynı zamanda yoğun yalnızlık,
 ıssızlık. Bilirsin sen adım atmadığın sürece kimse seninle ilgilenmeyecektir ama sen
 adım atmayı geçtim, emeklemeyi dahi bilmiyorsundur. Tümüyle yabancısındır, aklına
 _Bozkırkurdu_ gelir, _Harry Haller_'i hatırlar; kendi kurdunu, kendi yabaniliğini aklına
-getirirsin bir tekrardan. Böyle kendine kendine edebiyat yahut müzik göndermesi
+getirirsin bir tekrardan. Böyle kendi kendine edebiyat yahut müzik göndermesi
 yapınca zeki hissetmektir yalnızlık.  
 
 Açsındır ama uyduruk, plastik gibi bir makarna yapacak halin dahi yoktur. Damardan
@@ -69,7 +69,7 @@ at sürüyordur' ne be?" dersin kendi kendine gülerek.
 Paylaşmak istersin bu yazdıklarını, pek yüksek ihtimal değil ama paylaşırsın belki
 birileriyle. Laf olsun diye ama sırf, çare beklemezsin kimseden. Bekleyemeyeceğinin
 farkındasındır daha doğrusu. Hem güçlü olmak zorundasındır hem de devası pek de
-yoktur sanki senin derdinin, zehrin kendisi tam anlaşılamışken panzehiri bulmayı,
+yoktur sanki senin derdinin, zehrin kendisi tam anlaşılamamışken panzehiri bulmayı,
 hazırlamayı umamazsın herhalde. Farkındasındır zira, tek mevzu sayısız kez tekrar
 ettiğin şu meşhur "yalnızlık" değildir. İçini bir kurt kemiriyordur, bulup çeksen
 güzel bir nefes alacak gibi hissedersin ama böyle çirkin metaforlar yaptığınla kalırsın
