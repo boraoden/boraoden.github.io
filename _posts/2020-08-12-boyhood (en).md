@@ -2,6 +2,7 @@
 published: true
 layout: post
 category: cinema
+categories: cinema
 ---
 you always know that there'll be a mirror right opposite to you _before_ opening a _richard linklater_ movie. this essence of _linklater_ cinema make me think, look behind to my past and make me stop a bit in my life. his creativity and success while reflecting us to us is what makes _richard linklater_ one of my favourite directors.
 
