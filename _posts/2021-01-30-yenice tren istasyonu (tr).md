@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: ramble eksi
 ---
@@ -21,4 +21,4 @@ bu tip alakasız bir buluşma ilk de değil son da değil elbette. yalta gibi ik
 
 adana görüşmesi'ni benim gözümde tarihin minicik bir köşesine iğneyle tutturan unsurlardan diğeri, gerçekleştiği yenice'nin küçücük, gizli saklı bir yer olması. çukurova'daki binlerce insanın burnunun dibinde tam 78 sene önce bugün tarih kanlı canlı şekilde tezahür ediyor düşününce! churchill'in bir teminatıyla ikinci dünya savaşı'na katılabilecek türkiye cumhuriyeti'ndeki sayısız yerleşim yerinin tren istasyonlarından biri olan yenice tren istasyonu işte bu yüzden pek bir mühim. düşünün, , ev sahipliği yaptığı görüşmeyle 2021 yılının ilk ayının son günlerinde dünyanın bulunduğu halin seneler önceki mimarı olan ikinci dünya savaşı'na dolaylı da olsa katkıda bulunuyor bu ufak kasaba ve onun minicik tren istasyonu.
 
-eh, daha ne denilebilir ki. antik roma'sından osmanlı'sına, hitit'inden bizans'ına, pontus'undan türkiye'sine bu zengin toprakların tarihin her anında her köşesinde birçok önemli olaya bizzat tanıklık ettiğini düşünmek coğrafi olarak kıymetli mi lanetli mi bir yerde mi doğdumuzu sorgulattırıyor bana sıklıkla. 
+eh, daha ne denilebilir ki. antik roma'sından osmanlı'sına, hitit'inden bizans'ına, pontus'undan türkiye'sine bu zengin toprakların tarihin her anında her köşesinde birçok önemli olaya bizzat tanıklık ettiğini düşünmek coğrafi olarak kıymetli mi lanetli mi bir yerde mi doğdumuzu sorgulattırıyor bana sıklıkla.
