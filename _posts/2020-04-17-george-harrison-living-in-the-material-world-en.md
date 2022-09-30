@@ -1,4 +1,5 @@
 ---
+published: true
 layout: post
 categories: cinema
 title: george harrison: living in the material world - en
