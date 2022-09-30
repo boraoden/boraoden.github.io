@@ -2,6 +2,8 @@
 published: true
 layout: post
 categories: ramble eksi
+title: kişisel gelişim - tr
+permalink: /kişisel-gelişim-tr
 ---
 the red pill, mgtow gibi "öğreti"lerle daha da güçlenen 21. yüzyıl market ürünü. modern dünyanın mini dinlerinden, fiyakalı bir pazarlama sonucu hummalı şekilde çağdaş insan hayatına entegre olmuş doktrinlerden biri. popüler kültür karşıtlığının popüler kültür ögesi haline gelmesi gibi kendi kendini yiyen bir anlayış.
 
