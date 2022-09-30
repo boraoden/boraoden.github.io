@@ -19,4 +19,4 @@ sözlerinin yanında.
 eh, the beatles epiğinin, hikayesinin buruk sonu böyledir işte. dağılma; birçok güzel solo çalışmanın doğmasına yol açmıştır elbet fakat the beatles, dinleyicilerinin gözünde her zaman fab four olarak kalacaktır.
 bize düşen de kaliteli müziği dinlemeye devam etmek, evrene; bu renkli ve yetenekleri insanları bir araya getirdiği ve dünyaya kulaklardan silinmeyecek bir resital sundurduğu için teşekkür etmek olacaktır sanırım.
 
-sevgiyle, it's wonderful to be here, it's certainly a thrill!
+sevgiyle, _it's wonderful to be here, it's certainly a thrill!_
