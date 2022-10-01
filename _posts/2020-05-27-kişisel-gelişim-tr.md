@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: post
 categories: ramble eksi
 title: kişisel gelişim - tr
