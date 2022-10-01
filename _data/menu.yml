@@ -17,7 +17,10 @@ entries:
       
   - title: posts by category   
     entries: 
-      - title: <a href="archive/personal">personal</a>  <a href="archive/cinema">cinema</a>  <a href="archive/music">music</a>  <a href="archive/ramble">ramble</a> <a href="archive/history">history</a> <a href="archive/politics">politics</a> <a href="archive/people">people</a> <a href="archive/world">world</a>  <a href="archive/science">science</a> 
+      - title: <a href="archive/personal">personal</a> - <a href="archive/ramble">ramble</a>
+      - title: <a href="archive/cinema">cinema</a> - <a href="archive/music">music</a> - <a href="archive/literature">literature</a>
+      - title: <a href="archive/history">history</a> - <a href="archive/politics">politics</a> - <a href="archive/world">world</a> - <a href="archive/science">science</a> 
+      
       
   - title: if you wanna talk or ask about anything, don't hesisate to reach me via below;
     entries:
