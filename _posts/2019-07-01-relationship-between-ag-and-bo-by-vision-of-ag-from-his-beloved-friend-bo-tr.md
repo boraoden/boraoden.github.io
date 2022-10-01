@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-categories: fiction-like
+categories: personal
 title: relationship between ag and bo by vision of ag from his beloved friend bo - tr
 permalink: /relationship-between-ag-and-bo-by-vision-of-ag-from-his-beloved-friend-bo-tr
 ---
