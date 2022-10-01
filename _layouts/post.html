@@ -3,7 +3,8 @@ layout: default
 published: true
 ---
 
-{%-include back_link.html-%} {%-include category=page.which_category-%}
+{%-include back_link.html-%} {%-if include.category-%}
+  {%-assign posts = site.categories[include.category]-%}  
 
 <article>
   <p class="post-meta">
