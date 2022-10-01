@@ -9,9 +9,9 @@ entries:
 
   - title: recent posts
     post_list:
-      limit: 4
+      limit: 3
       show_more: true
-      show_more_text: see archive
+      show_more_text: see archive...
       show_more_url: archive
       
   - title: if you wanna talk or ask about anything, don't hesisate to reach me via below;
