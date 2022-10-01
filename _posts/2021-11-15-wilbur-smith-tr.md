@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-categories: people eksi
+categories: literature eksi
 title: wilbur smith - tr
 permalink: /wilbur-smith-tr
 ---
