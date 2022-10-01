@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-categories: ramble eksi
+categories: history eksi
 title: yenice tren istasyonu - tr
 permalink: /yenice-tren-istasyonu-tr
 ---
