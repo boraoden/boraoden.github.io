@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: people eksi
 title: hermann hesse - tr
