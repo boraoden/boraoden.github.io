@@ -1,7 +1,7 @@
 ---
 published: false
 layout: post
-categories: politics
+categories: politics eksi
 title: rally round the flag syndrome - tr
 permalink: /rally-round-the-flag-syndrome-tr
 ---
