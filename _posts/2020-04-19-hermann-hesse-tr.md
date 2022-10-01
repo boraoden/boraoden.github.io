@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-categories: people eksi
+categories: literature eksi
 title: hermann hesse - tr
 permalink: /hermann-hesse-tr
 ---
