@@ -2,7 +2,9 @@
 published: true
 layout: post
 categories: personal
-title: relationship between ag and bo by vision of ag from his beloved friend bo - tr
+title: >-
+  relationship between a... and b... by vision of a... from his beloved friend
+  b... - tr
 permalink: /relationship-between-ag-and-bo-by-vision-of-ag-from-his-beloved-friend-bo-tr
 ---
 sigarasını son bir kez çekip yere attı. boğazında iğrenç bir sümüğün varlığını hisseti. zorlanarak ve garip bir ses çıkararak fırlattı onu. arnavut kaldırımında kılıca benzer bir desen oluştu sarı-kahverengi balgamdan dolayı. yürümeye devam etti, arkasından ona seslenildiğini duydu. birlikte derse girdiği şerefsizdi bu. muhabbetini severdi, onunla konuşmalarından hep keyif almıştı ancak çocuğu pek samimi bulmazdı. eleman hep rol kesiyor gibi görünüyordu ona. "kıl" derdi ona içinden; kıl, hem çok kıllıydı hem de bazen hakikaten sinirini bozuyordu onun. 
