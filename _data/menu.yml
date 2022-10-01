@@ -4,10 +4,6 @@
 entries:
   - title: <a href="/about-me">about me</a> <a href="/projects">projects</a> <a href="/cv">cv</a>
  # - title: <img src="bora4.png" alt="yeah, that's nine year old me there!" width="150" height="150"> hey! i am just a medical student from turkey who is enthuastic about tech, books, cinema, sports, cats and coffee. 
-  - title: if you wanna talk or ask about anything, don't hesisate to reach me via below;
-    entries:
-      - title: boraoden.bo [at] outlook.com
-      - title: <a href="https://open.spotify.com/user/6atimpsh5xjmanqgunag33zry?si=0822978bdbab432c">spotify</a> <a href= "https://letterboxd.com/wiseonn">letterboxd</a> <a href= "https://www.goodreads.com/user/show/116783385-bora">goodreads</a> <a href="https://www.linkedin.com/in/boraoden/">linkedin</a> <a href= "https://github.com/boraoden">github</a>
 
 #      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
@@ -18,6 +14,10 @@ entries:
       show_more_text: see archive...
       show_more_url: archive
       
+  - title: if you wanna talk or ask about anything, don't hesisate to reach me via below;
+    entries:
+      - title: boraoden.bo [at] outlook.com
+      - title: <a href="https://open.spotify.com/user/6atimpsh5xjmanqgunag33zry?si=0822978bdbab432c">spotify</a> <a href= "https://letterboxd.com/wiseonn">letterboxd</a> <a href= "https://www.goodreads.com/user/show/116783385-bora">goodreads</a> <a href="https://www.linkedin.com/in/boraoden/">linkedin</a> <a href= "https://github.com/boraoden">github</a>      
 #  - title: posts by category   
 #    entries: 
 #      - title: <a href="archive/personal">personal</a> - <a href="archive/ramble">ramble</a>
