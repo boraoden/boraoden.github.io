@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: politics eksi
 title: rally round the flag syndrome - tr
@@ -19,4 +19,4 @@ aynı şekilde oğul bush*'un 11 eylül saldırıları ardından popülaritesi v
 
 aynı fenomen, halefi barack obama'ya ise koltuğa oturduktan iki sene sonra usame bin laden'in öldürülüşü ile yaramış. uluslararası terörizmin yüzü olan bin laden, tıpkı sovyetler birliği gibi tüm amerikan halkının ortak düşmanı, öldükten sonra halk desteği yüzde 7 kadar artmıştır obama'nın operasyondan hemen birkaç gün sonra.
 
-daha küba misil krizi, amerika'nın afganistan'ı işgali gibi sayısız durum gösterilebilecek bu fenomen elbette bir kaide teşkil etmez zira abd'nin yom kippur savaşı, operation linebacker ıı gibi örneklerdeki tutumu çok da bayrak altında toplayamamıştır milleti. 
+daha küba misil krizi, amerika'nın afganistan'ı işgali gibi sayısız durum gösterilebilecek bu fenomen elbette bir kaide teşkil etmez zira abd'nin yom kippur savaşı, operation linebacker ıı gibi örneklerdeki tutumu çok da bayrak altında toplayamamıştır milleti.
