@@ -1,7 +1,7 @@
 ---
 published: false
 layout: post
-categories: ramble
+categories: people eksi
 title: hermann hesse - tr
 permalink: /hermann-hesse-tr
 ---
