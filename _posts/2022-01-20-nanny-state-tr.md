@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-categories: ramble eksi
+categories: politics eksi
 title: nanny state - tr
 permalink: /nanny-state-tr
 ---
