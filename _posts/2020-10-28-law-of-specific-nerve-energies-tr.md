@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: science
 title: law of specific nerve energies - tr
@@ -17,4 +17,4 @@ fenomenin günlük hayattaki gözlemlenebilir senaryolarından birisi göz kapal
 
 bilimin gücüne inanan ve çiçekleri çok seven mahsun, evinde kaldığı bu günlerde çokça sıkıldığı için odasındaki çiçekleri parmaklarıyla koklamak istiyor. uzun uğraşlar sonucu bir şekilde burnundaki kemoreseptör hücreleri öldürmeden parmağının ucuna transplante ediyor. sonra büyük bir hevesle parmağını masada ona bakan kırmızı güle uzatıyor fakat uzatmasıyla dünyanın başına yıkılması bir oluyor. anlıyoruz ki özgül sinir enerjileri yasası'ndan bihaber olan mahsun; önündeki gülü gül yapan şeyin onun kokusunun yarattığı uyarının izlediği yol olduğunu bilmiyordu. uyarıyı oluşturabildi oluşturmasına ama tetikleyebildiği basit bir elektrik yüklenmesiydi sadece. neyse, mahsun'a cakalı bir guyton hediye ediyoruz.
 
-bitirmeden evvel bu yasanın hayalet uzuv sendromu ile bilinen law of projection ile karıştırılmaması gerektiğini belirtelim. projeksiyon yasası, bir sinirsel yola nereden uyarı verilirse verilsin bilince yansıyan duyunun mevzubahis sinirin orijinalde başladığı yere atfedilmesidir. başka bir deyişle duyunun reseptörün bulunduğu yerde algılanmasıdır. bundan mütevellit rastgele bir sebeple uyarılan herhangi bir kol siniriniz elinizin kaşınıyor olduğu hissine yol açabilir. o da bir hayli ilginç bir durumdur doğrusu. 
+bitirmeden evvel bu yasanın hayalet uzuv sendromu ile bilinen law of projection ile karıştırılmaması gerektiğini belirtelim. projeksiyon yasası, bir sinirsel yola nereden uyarı verilirse verilsin bilince yansıyan duyunun mevzubahis sinirin orijinalde başladığı yere atfedilmesidir. başka bir deyişle duyunun reseptörün bulunduğu yerde algılanmasıdır. bundan mütevellit rastgele bir sebeple uyarılan herhangi bir kol siniriniz elinizin kaşınıyor olduğu hissine yol açabilir. o da bir hayli ilginç bir durumdur doğrusu.
