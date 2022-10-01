@@ -4,7 +4,8 @@ published: true
 ---
 
 {%-include back_link.html-%} {%-if include.category-%}
-  {%-assign posts = site.categories[include.category]-%}  
+  {%-assign posts = site.categories[include.category]-%}
+{%-endif-%}
 
 <article>
   <p class="post-meta">
