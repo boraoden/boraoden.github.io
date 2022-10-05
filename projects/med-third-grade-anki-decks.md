@@ -1,4 +1,4 @@
-[this one goes to google drive link of the project](https://drive.google.com/drive/folders/1NkZBE5DgrjkfSPE9R6oR8rPbMm-Kqw14?usp=sharing)
+[this one goes to google drive link of the project](https://drive.google.com/drive/folders/1HnGiFNt4ER8cNl4IyukVUp4C2cwe-4a9?usp=sharing)
 
 i've prepared a flashcards collection on **anki** through a full year period of third grade in mersin university faculty of medicine. this collection includes past questions of almost all exams for third grade.  
 
