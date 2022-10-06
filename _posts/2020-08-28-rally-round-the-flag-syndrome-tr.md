@@ -2,7 +2,7 @@
 published: true
 layout: post
 categories: politics eksi
-title: rally 'round the flag syndrome - tr
+title: rally around the flag syndrome - tr
 permalink: /rally-round-the-flag-syndrome-tr
 ---
 bayrak etrafında toplanma sendromu olarak çevrilebilecek olan kavram, oldukça önemli bir politika terimidir.
