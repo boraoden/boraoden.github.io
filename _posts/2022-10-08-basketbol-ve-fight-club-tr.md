@@ -5,7 +5,7 @@ categories: journal
 permalink: basketbol-ve-fight-club-tr
 title: basketbol ve fight club - tr
 ---
-bu yazıyı biraz günlük tutma niyetli yazıyorum ve blogun "journal" kategorisinde yer alan ilk yazı olacak gibi duruyor, tabii hayatımda olan her gelişmeyi buraya aktarmaya niyetli değilim lakin "personal" kategorisinden daha önemsiz gözüken fakat yine de ifade etmek istediğim gelişmeler ve bendeki yansımaları için kullanabilirim sanırım bu yeni "journal" kategorisini.
+bu yazıyı biraz günlük tutma niyetli yazıyorum ve blogun **journal** kategorisinde yer alan ilk yazı olacak gibi duruyor, tabii hayatımda olan her gelişmeyi buraya aktarmaya niyetli değilim lakin **personal** kategorisinden daha önemsiz gözüken fakat yine de ifade etmek istediğim gelişmeler ve bendeki yansımaları için kullanabilirim sanırım bu yeni **journal** kategorisini.
 
 her neyse, yeter. bu yazı çok ani gelişen ve üstüne pek düşünülmemiş bir yazı olacak. süslü cümleler, hoş kelimeler ve arkasında sağlam bir fikir de barındıracağını zannedenler, hatta yazıdan keyif alacağını varsayarak tıklayanlar okumasın derim.
 
