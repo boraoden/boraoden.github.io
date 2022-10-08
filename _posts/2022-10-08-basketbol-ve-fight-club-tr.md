@@ -60,5 +60,10 @@ ben bir daha basketbol oynar mıyım, bilmiyorum, muhtemelen çok zor. acının 
 
 ![]({{site.baseurl}}/images/basketball3)
 
-yüzümün sağ tarafı hala sızlıyor ama önemi yok, hiçbir şeyin önemi yok.
+yüzümün sağ tarafı hala sızlıyor ama önemi yok, hiçbir şeyin önemi yok. bu kafa yapısını hayatıma entegre edebileceğimi sanmıyorum, böyle biri değilim ben ama hissettiklerimi tazeyken kayıt altına almak ve dönüp yeniden okumak için bir iki saattir klavye başında gevezelik yapıyorum işte böyle zira;
 
+> i don’t want to die without any scars.
+
+güzel bir yumruk, dirsek ya da dayak yemeniz dileğiyle;
+
+bora kaçtı.
