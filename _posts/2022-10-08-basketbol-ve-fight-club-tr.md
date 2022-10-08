@@ -52,13 +52,13 @@ diyordu _chuck palahniuk_, _fight club_'ta.
 
 diye de ekliyordu ardından. yaşadığımı ve onun düşündürdüklerini, hissettirdiklerini birden kafamda çok daha iyi oturtmuş oldum böylece.
 
-bu yazıyı herhangi nihai bir öğüt ya da sonuca bağlama niyetim yok ama dün yaşadığım olay bende daha önce deneyimlemediğim bir düşünceler silsilesi yarattı ve hiç tahmin edemeyeceğim bir kapı açtı. kapı nereye açıldı bilmiyorum ama acı ve "kaybetmişlik hissi"nin yarattığı boşvermişlik ve özgürlüğü herhangi birinin buna benzer bir olayı deneyimlemeden algılayabilmesi mümkün değil benim nezdimde.
+bu yazıyı herhangi bir nihai öğüt ya da sonuca bağlama niyetim yok ama dün yaşadığım olay bende daha önce deneyimlemediğim bir düşünceler silsilesi yarattı ve hiç tahmin edemeyeceğim bir kapı açtı. kapı nereye açıldı bilmiyorum ama acının, "kaybetmişlik hissi"nin yarattığı boşvermişlik ve özgürlüğü herhangi birinin buna benzer bir olayı deneyimlemeden algılayabilmesi mümkün değil benim nezdimde.
 
-ben bir daha basketbol oynar mıyım, bilmiyorum, muhtemelen çok zor. acının yarattığı hisler cümbüşünü her ne kadar yukarıda pozitif bir havayla anlatmış olsam da biyolojik formum gereği acıdan kaçmam gerektiğinin ve geçmiş deneyimlerimin bunda bir hayli kuvvetli bir etki yaratacağını ki bu sebeple de bu tip olası bir kazadan mümkün olduğunca kaçmaya çalışacağımın farkındayım. bunu bastırmaya da niyetim yok, mazoşizm hoş değil ama yaşadığım olayın da kafa açıcı tarafını gördüğüme çok memnunum.
+ben; bir daha basketbol oynar mıyım, bilmiyorum, muhtemelen çok zor. acının yarattığı hisler cümbüşünü her ne kadar yukarıda pozitif bir havayla anlatmış olsam da biyolojik formum gereği acıdan kaçmam gerektiğinin ve geçmiş deneyimlerimin bunda bir hayli kuvvetli bir etki yaratacağını ki bu sebeple de bu tip olası bir kazadan mümkün olduğunca kaçmaya çalışacağımın farkındayım. bunu bastırmaya da niyetim yok, mazoşizm hoş değil ama yaşadığım olayın da kafa açıcı tarafını gördüğüme çok memnunum.
 
 ![]({{site.baseurl}}/images/basketball3.jpg)
 
-yüzümün sağ tarafı hala sızlıyor ama önemi yok, hiçbir şeyin önemi yok. bu kafa yapısını hayatıma entegre edebileceğimi sanmıyorum, böyle biri değilim ben ama hissettiklerimi tazeyken kayıt altına almak ve dönüp yeniden okumak için bir iki saattir klavye başında gevezelik yapıyorum işte böyle zira;
+yüzümün sağ tarafı hala sızlıyor ama önemi yok, hiçbir şeyin önemi yok. bu kafa yapısını hayatıma entegre edebileceğimi sanmıyorum, etmek ister miyim, ondan da emin değilim. böyle biri değilim ben ama hissettiklerimi tazeyken kayıt altına almak ve dönüp yeniden okumak için bir iki saattir klavye başında gevezelik yapıyorum işte böyle zira;
 
 > i don’t want to die without any scars.
 
