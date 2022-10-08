@@ -38,7 +38,7 @@ bugüneyse dünkünden daha pozitif bir şekilde uyandım ve yalnızlık, yerini
 
 ve hayır, bunu internette son senelerde türemiş _tyler durden_ ve genel olarak _fight club_ çılgınlığından baz alarak yazmıyorum, esasında filmi izleyeli çok seneler oldu bile ve kafamdaki etkisi de pek bir nötr ve silikti filmin şu ana kadar. dün geceye kadar sadece hayal kırıklığı bir kitap; güzel sinematografili, tatlı müzikli, biraz klişe ve komedileşmiş bir filmdi _fight club_ benim için.
 
-![]({{site.baseurl}}/images/basketball2)
+![]({{site.baseurl}}/images/basketball2.jpg)
 
 neyse, _fight club_ minvalinde bir kavgada bulunmamıştım ama bulunmuşçasına yaralıydım. ne derslerin ne kızların ne yalnızlığın ne de başka herhangi bir şeyin önemi vardı. sızı ufak da olsa devam ediyordu ve hafiflemiş hissediyordum. damarlarıma dolan o maskülenite akışını betimlemem çok zor ve hatta belki komik ve aptalca ancak _fight club_'ın arkasındaki tüm o fiziki dinamiği ve sahnelerdeki ilkel, kaba mesajı iliklerime kadar hissettim.
 
@@ -58,7 +58,7 @@ bu yazıyı herhangi nihai bir öğüt ya da sonuca bağlama niyetim yok ama dü
 
 ben bir daha basketbol oynar mıyım, bilmiyorum, muhtemelen çok zor. acının yarattığı hisler cümbüşünü her ne kadar yukarıda pozitif bir havayla anlatmış olsam da biyolojik formum gereği acıdan kaçmam gerektiğinin ve geçmiş deneyimlerimin bunda bir hayli kuvvetli bir etki yaratacağını ki bu sebeple de bu tip olası bir kazadan mümkün olduğunca kaçmaya çalışacağımın farkındayım. bunu bastırmaya da niyetim yok, mazoşizm hoş değil ama yaşadığım olayın da kafa açıcı tarafını gördüğüme çok memnunum.
 
-![]({{site.baseurl}}/images/basketball3)
+![]({{site.baseurl}}/images/basketball3.jpg)
 
 yüzümün sağ tarafı hala sızlıyor ama önemi yok, hiçbir şeyin önemi yok. bu kafa yapısını hayatıma entegre edebileceğimi sanmıyorum, böyle biri değilim ben ama hissettiklerimi tazeyken kayıt altına almak ve dönüp yeniden okumak için bir iki saattir klavye başında gevezelik yapıyorum işte böyle zira;
 
