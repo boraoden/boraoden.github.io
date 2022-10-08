@@ -64,4 +64,4 @@ yüzümün sağ tarafı hala sızlıyor ama önemi yok, hiçbir şeyin önemi yo
 
 güzel bir yumruk, dirsek ya da dayak yemeniz dileğiyle;
 
-bora kaçtı.
+_bora_ kaçtı.
