@@ -26,10 +26,21 @@ acilden dönüp, kafam pansumanlı ve bir dikişli halde, tetanoz aşımı olmu�
 
 üstüme çöken boşvermişliği ve "siktir etme" modunu tarif etmem zor dedim ama esasında özü bunlar gibi yaşadığım ve yaşamaya devam ettiğim hissin. yoğun ve salt acının getirdiği ve ertesi gün -yani bugün- misliyle artacak bir arınmışlık, düşüncelerden sıyrılmışlık ve hatta öfori hissiydi üstüme üşüşen adeta. olayın şokuyla acile giderken bunu çok kuvvetli hissedememiştim ama eve vardığımda basitçe bir rahatlama yaşadım diyebilirim. 
 
-_the loneliest_'ı açtım ve loopa koydum, birkaç arkadaşımla konuştum ve uzandım. birkaç loop'tan sonra aşağıdaki tekele inip iki bira aldım, içmeye başladım ve _the loneliest_ loopunu devam ettirdim. dün şarkı kaç kez çaldı, inanın bilmiyorum. ama kendimi hakikaten _the loneliest_ hissettim dün gece. başımda herhangi bir kız olmasını diledim, sadece az bir şey konuştuğum bir hanımefendinin durduk yere yanımda olup avutmasını ve "yanındayım" demesini, ilgi göstermesini, kısaca şefkatle kollanmayı temenni ettim hatta içimden komik şekilde. hala düşündükçe gülüyorum buna ama kızmayın bana, _the loneliest_ hissetmek herkesin başına pek sık gelen bir şey değil nitekim. zaten o hanımefendinin de vurdumduymaz tavırları üstüne ne kadar mental olarak ne kadar komik hale düştüğümü anladım. tam bir işe yaramazdım ancak o da umurumda değildi. yüzünün yarısı sızlarken insan, ne herhangi bir kızı ne de diğer insanları ciddiye alabiliyor.
+![]({{site.baseurl}}/images/basketball4.jpg)
+
+_the loneliest_'ı açtım ve loopa koydum, birkaç arkadaşımla konuştum ve uzandım. birkaç loop'tan sonra aşağıdaki tekele inip iki bira aldım, içmeye başladım ve _the loneliest_ loopunu devam ettirdim. dün şarkı kaç kez çaldı, inanın bilmiyorum. ama kendimi hakikaten _the loneliest_ hissettim dün gece. evet, bir üstteki paragrafta bahsettiğim hisler de mevcuttu ama yalnızlık hissi tarafından perdelenmişlerdi, onu sonradan fark ettim. başımda herhangi bir kız olmasını diledim, sadece az bir şey konuştuğum bir hanımefendinin durduk yere yanımda olup avutmasını ve "yanındayım" demesini, ilgi göstermesini, kısaca şefkatle kollanmayı temenni ettim hatta içimden komik şekilde. hala düşündükçe gülüyorum buna ama kızmayın bana, _the loneliest_ hissetmek herkesin başına pek sık gelen bir şey değil nitekim. zaten o hanımefendinin de konuşurken sezdiğim vurdumduymaz tavırları üstüne mental olarak ne kadar komik hale düştüğümü anladım. tam bir işe yaramazdım ancak o da umurumda değildi. yüzünün yarısı sızlarken insan, ne herhangi bir kızı ne de diğer insanları ciddiye alabiliyor ama yine de sarılacak birilerini arıyor işte, çelişki mi dersin doğallık mı bilemem.
 
 ardından dün gece bitti, güzel bir uyku çektim.
 
-bugüneyse 
+bugüneyse dünkünden daha pozitif bir şekilde uyandım ve yalnızlık, yerini dün perdelediği o yoğun hislere bıraktı tamamiyle. güçlenmiş ve erkeksi hissediyordum. bu hissin üstüne biraz kafa patlatınca _fight club_ geldi aklıma aniden. yaşadığım kazanın _fight club_ bağlamında güzel bir çerçeveye oturtulabileceğini fark ettim. 
+
+![]({{site.baseurl}}/images/basketball2)
+
+bir kavgada bulunmamıştım ama bulunmuşçasına yaralıydım. ne derslerin ne kızların ne yalnızlığın ne de başka herhangi bir şeyin önemi vardı. sızı ufak da olsa devam ediyordu ve hafiflemiş hissediyordum. damarlarıma dolan o maskülenite akışını betimlemem çok zor ve hatta belki komik ve aptalca ancak _fight club_'ın arkasındaki tüm o fiziki dinamiği ve sahnelerdeki ilkel, kaba mesajı iliklerime kadar hissettim.
+hiçbir şey çözülmemişti ama hiçbir şeyin de önemi yoktu.
+
+
+![]({{site.baseurl}}/images/basketball3)
+
 
 
