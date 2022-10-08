@@ -48,7 +48,7 @@ neyse ki;
 
 > without pain, without sacrifice we would have nothing. like the first monkey shot into space.
 
-diyordu _chuck palahniuk_, _fight club_'ta.
+diyordu _chuck palahniuk_, _fight club_'ta,
 
 > it’s only after we’ve lost everything that we’re free to do anything. 
 
