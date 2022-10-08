@@ -15,7 +15,7 @@ sevgili arkadaşım _umutcan bulut_ sağ olsun, dün ziyadesiyle amatörce ve ne
 
 her çocuk gibi benim de türlü türlü yaralanmam ve sakatlanmam oldu ancak uzun zamandır spor ve eğlence bağlamında bu kadar yoğun ve önemli bir yaralanma yaşamamıştım açıkçası. elbette basit bir "kaş yarılması" olarak görmek mümkün bunu ki haksız da değil durumu böyle görebilecek olanlar ancak son -neredeyse- 24 saatin bendeki yansıması pek bir farklı oldu ve bu gönderinin başlığı da biraz bunu gösteriyor.
 
-olayın ardından kıymetli arkadaşlarım tarafından acile gittik ve minik bir dikiş atıldı yarılan kaşıma, yanak ve ağzımın sağ tarafında uyuşukluksa hala devam ediyor. bir haftaya kadar toparlayacağımı ümit ediyorum.
+olayın ardından kıymetli arkadaşlarım tarafından acile götürüldüm ve minik bir dikiş atıldı yarılan kaşıma, yanak ve ağzımın sağ tarafında uyuşukluksa hala devam ediyor. bir haftaya kadar toparlayacağımı ümit ediyorum.
 
 yukarıdaki tüm paragraflar bu yazıyı yazmama neden olan _talihsiz_ olayın arka planını kurmak içindi.
 meseleye giriyorum.
@@ -34,25 +34,25 @@ ardından dün gece bitti, güzel bir uyku çektim.
 
 bugüneyse dünkünden daha pozitif bir şekilde uyandım ve yalnızlık, yerini dün perdelediği o yoğun hislere bıraktı tamamiyle. güçlenmiş ve erkeksi hissediyordum. bu hissin üstüne biraz kafa patlatınca _fight club_ geldi aklıma aniden. yaşadığım kazanın _fight club_ bağlamında güzel bir çerçeveye oturtulabileceğini fark ettim. 
 
-ve hayır, bunu internette son senelerde türemiş _tyler durden_ ve genel olarak _fight club_ çılgınlığından baz alarak yazmıyorum, esasında filmi izleyeli çok seneler oldu bile ve kafamdaki etkisi de pek bir nötr ve silikti filmin şu ana kadar. dün geceye kadar sadece hayal kırıklığı bir kitap; güzel sinematografili, tatlı müzikli, biraz klişe ve komedileşmiş bir filmdi _fight club_ benim için.
+ve hayır, bunu internette son senelerde türemiş _tyler durden_ ve genel olarak _fight club_ çılgınlığından baz alarak yazmıyorum, esasında filmi izleyeli çok seneler oldu bile ve kafamdaki etkisi de pek bir nötr ve silikti filmin. dün geceye kadar sadece hayal kırıklığı bir kitap; güzel sinematografili, tatlı müzikli, biraz klişe ve komedileşmiş bir filmdi _fight club_ benim için.
 
 ![]({{site.baseurl}}/images/basketball2.jpg)
 
-neyse, _fight club_ minvalinde bir kavgada bulunmamıştım ama bulunmuşçasına yaralıydım. ne derslerin ne kızların ne yalnızlığın ne de başka herhangi bir şeyin önemi vardı. sızı ufak da olsa devam ediyordu ve hafiflemiş hissediyordum. damarlarıma dolan o maskülenite akışını betimlemem çok zor ve hatta belki komik ve aptalca ancak _fight club_'ın arkasındaki tüm o fiziki dinamiği ve sahnelerdeki ilkel, kaba mesajı iliklerime kadar hissettim.
+neyse, _fight club_ minvalinde bir kavgada bulunmamıştım elbette ama bulunmuşçasına yaralıydım. ne derslerin ne kızların ne yalnızlığın ne de başka herhangi bir şeyin önemi vardı. sızı ufak da olsa devam ediyordu ve hafiflemiş hissediyordum. damarlarıma dolan o maskülenite akışını betimlemem çok zor ve hatta belki komik ve aptalca ancak _fight club_'ın arkasındaki tüm o fiziki dinamiği ve sahnelerdeki ilkel, kaba mesajı iliklerime kadar hissettim.
 
-hiçbir şey çözülmemişti ama hiçbir şeyin de önemi yoktu. sadece acı vardı, sağ kaşı dikişli ve yüzünün sağ tarafı şiş bir _bora_ vardı ve gerisi hiçbir şey ifade etmiyordu. bu histen acayip bir keyif aldım.
+hiçbir şey çözülmemişti ama hiçbir şeyin de önemi yoktu. sadece acı vardı, sağ kaşı dikişli ve yüzünün sağ tarafı şiş bir _bora_ vardı ve gerisi hiçbir şey ifade etmiyordu. bu histen acayip bir keyif aldım. 
 
-yukarıdaki paragrafların birinde tüm bu olayların yanında bir de gözlüğümün kırıldığını söyledim kaza anında. evet. darbeyi sağ gözüme aldım ve sol gözümün ampliyopi nedeniyle en ufak bir işlevi olmadığını _göz önüne aldığımızda_ sağ gözümün yani sağlam olan tek gözümün hayata tutunmam yolunda yegane organımın olduğunu söylemem abartılı olmayacaktır herhalde. zaten kazadan sonra ilk kontrol ettiğim şey de görüşüm oldu zira tam anlayamadım neyin nasıl gerçekleştiğini ve nasıl bir darbe aldığımı. gözlüğümün gözüme yapacağı herhangi bir ters pozisyonun tüm hayatımın kaymasına neden olabileceğini düşünmek ve bunun sadece kıytırık ve çok ani gelişmiş bir basketbol maçından kaynaklanabileceğini düşünmek feci bir akıl tutulmasına neden oldu bende. 
+yukarıdaki paragrafların birinde tüm bu olayların yanında bir de gözlüğümün kırıldığını söyledim kaza anında. evet. darbeyi sağ gözüme aldım ve sol gözümün ampliyopi nedeniyle en ufak bir işlevi olmadığını _göz önüne aldığımızda_ sağ gözümün yani sağlam olan tek gözümün hayata tutunmam yolunda yegane organımın olduğunu söylemem abartılı olmayacaktır herhalde. zaten kazadan sonra ilk kontrol ettiğim şey de görüşüm oldu zira tam anlayamadım neyin nasıl gerçekleştiğini ve nasıl bir darbe aldığımı o an. gözlüğümün gözüme yapacağı herhangi bir ters pozisyonun tüm hayatımın kaymasına neden olabileceğini düşünmek ve bunun sadece kıytırık ve çok ani gelişmiş bir basketbol maçından kaynaklanabileceğini düşünmek feci bir akıl tutulmasına neden oldu bende. 
 
 > without pain, without sacrifice we would have nothing. like the first monkey shot into space.
 
-diyordu _chuck palahniuk_ orada.
+diyordu _chuck palahniuk_, _fight club_'ta.
 
 > it’s only after we’ve lost everything that we’re free to do anything. 
 
-diye de ekliyordu ardından. yaşadığımı ve onun düşündürdüklerini, hissettirdiklerini o an kafamda çok daha iyi oturtmuş oldum böylece.
+diye de ekliyordu ardından. yaşadığımı ve onun düşündürdüklerini, hissettirdiklerini birden kafamda çok daha iyi oturtmuş oldum böylece.
 
-bu yazıyı herhangi nihai bir öğüt ya da sonuca bağlama niyetim yok ama dün yaşadığım olay bende daha önce deneyimlediğim bir düşünceler silsilesi yarattı ve hiç tahmin edemeyeceğim bir kapı açtı. kapı nereye açıldı bilmiyorum ama acı ve "kaybetmişlik hissi"nin yarattığı boşvermişlik ve özgürlüğü herhangi birinin buna benzer bir olayı deneyimlemeden algılayabilmesi mümkün değil benim nezdimde.
+bu yazıyı herhangi nihai bir öğüt ya da sonuca bağlama niyetim yok ama dün yaşadığım olay bende daha önce deneyimlemediğim bir düşünceler silsilesi yarattı ve hiç tahmin edemeyeceğim bir kapı açtı. kapı nereye açıldı bilmiyorum ama acı ve "kaybetmişlik hissi"nin yarattığı boşvermişlik ve özgürlüğü herhangi birinin buna benzer bir olayı deneyimlemeden algılayabilmesi mümkün değil benim nezdimde.
 
 ben bir daha basketbol oynar mıyım, bilmiyorum, muhtemelen çok zor. acının yarattığı hisler cümbüşünü her ne kadar yukarıda pozitif bir havayla anlatmış olsam da biyolojik formum gereği acıdan kaçmam gerektiğinin ve geçmiş deneyimlerimin bunda bir hayli kuvvetli bir etki yaratacağını ki bu sebeple de bu tip olası bir kazadan mümkün olduğunca kaçmaya çalışacağımın farkındayım. bunu bastırmaya da niyetim yok, mazoşizm hoş değil ama yaşadığım olayın da kafa açıcı tarafını gördüğüme çok memnunum.
 
