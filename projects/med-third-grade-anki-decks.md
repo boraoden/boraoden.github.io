@@ -1,5 +1,6 @@
 ---
-title: mersin medicine third grade anki decks
+title: mersin med third grade anki decks
+published: true
 ---
 
 [this one goes to google drive link of the project](https://drive.google.com/drive/folders/1HnGiFNt4ER8cNl4IyukVUp4C2cwe-4a9?usp=sharing)
