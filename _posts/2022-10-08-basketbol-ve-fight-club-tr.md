@@ -34,7 +34,7 @@ ardından dün gece bitti, güzel bir uyku çektim.
 
 bugüneyse dünkünden daha pozitif bir şekilde uyandım ve yalnızlık, yerini dün perdelediği o yoğun hislere bıraktı tamamiyle. güçlenmiş ve erkeksi hissediyordum. bu hissin üstüne biraz kafa patlatınca _fight club_ geldi aklıma aniden. yaşadığım kazanın _fight club_ bağlamında güzel bir çerçeveye oturtulabileceğini fark ettim. 
 
-ve hayır, bunu internette son senelerde türemiş _tyler durden_ ve genel olarak _fight club_ çılgınlığından baz alarak yazmıyorum, esasında filmi izleyeli çok seneler oldu bile ve kafamdaki etkisi de pek bir nötr ve silikti filmin. dün geceye kadar sadece hayal kırıklığı bir kitap; güzel sinematografili, tatlı müzikli, biraz klişe ve komedileşmiş bir filmdi _fight club_ benim için.
+ve hayır, bunu internette son senelerde türemiş _tyler durden_ ve genel olarak _fight club_ çılgınlığından baz alarak yazmıyorum, esasında filmi izleyeli çok seneler oldu bile ve kafamdaki etkisi de pek bir nötr ve silikti filmin. dün geceye kadar sadece hayal kırıklığı bir kitap veya güzel sinematografili, tatlı müzikli, biraz klişe ve komedileşmiş bir filmdi _fight club_ benim için.
 
 ![]({{site.baseurl}}/images/basketball2.jpg)
 
@@ -42,7 +42,9 @@ neyse, _fight club_ minvalinde bir kavgada bulunmamıştım elbette ama bulunmu�
 
 hiçbir şey çözülmemişti ama hiçbir şeyin de önemi yoktu. sadece acı vardı, sağ kaşı dikişli ve yüzünün sağ tarafı şiş bir _bora_ vardı ve gerisi hiçbir şey ifade etmiyordu. bu histen acayip bir keyif aldım. 
 
-yukarıdaki paragrafların birinde tüm bu olayların yanında bir de gözlüğümün kırıldığını söyledim kaza anında. evet. darbeyi sağ gözüme aldım ve sol gözümün ampliyopi nedeniyle en ufak bir işlevi olmadığını _göz önüne aldığımızda_ sağ gözümün yani sağlam olan tek gözümün hayata tutunmam yolunda yegane organımın olduğunu söylemem abartılı olmayacaktır herhalde. zaten kazadan sonra ilk kontrol ettiğim şey de görüşüm oldu zira tam anlayamadım neyin nasıl gerçekleştiğini ve nasıl bir darbe aldığımı o an. gözlüğümün gözüme yapacağı herhangi bir ters pozisyonun tüm hayatımın kaymasına neden olabileceğini düşünmek ve bunun sadece kıytırık ve çok ani gelişmiş bir basketbol maçından kaynaklanabileceğini düşünmek feci bir akıl tutulmasına neden oldu bende. 
+yukarıdaki paragrafların birinde tüm bu olayların yanında bir de gözlüğümün kırıldığını söyledim kaza anında. evet. darbeyi sağ gözüme aldım ve sol gözümün ampliyopi nedeniyle en ufak bir işlevi olmadığını _göz önüne aldığımızda_ sağ gözümün yani sağlam olan tek gözümün hayata tutunmam yolunda yegane organımın olduğunu söylemem abartılı olmayacaktır herhalde. zaten kazadan sonra ilk kontrol ettiğim şey de görüşüm oldu zira tam anlayamadım neyin nasıl gerçekleştiğini ve nasıl bir darbe aldığımı o an. gözlüğümün gözüme yapacağı herhangi bir ters pozisyonun tüm hayatımın kaymasına neden olabileceğini düşünmek ve bunun sadece kıytırık ve çok ani gelişmiş bir basketbol maçından kaynaklanabileceğini düşünmek feci bir akıl tutulmasına neden oldu bende.
+
+neyse ki;
 
 > without pain, without sacrifice we would have nothing. like the first monkey shot into space.
 
