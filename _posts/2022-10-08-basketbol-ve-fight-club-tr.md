@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: journal
 permalink: basketbol-ve-fight-club-tr
