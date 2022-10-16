@@ -11,9 +11,9 @@ tüm bunlar olurken lig birincisinden kendi evinde dört gol yemiş halde seksen
 
 kariyerinin başını anımsarsın sonra.
 
-![]({{site.baseurl}}/images/egoa1.jpg)
-
 monoton ve sıkıcı geçen on sekiz senelik bir serüvenin ardından alınmışsındır u-18 takımından, a takımına birden. üniversite falan diyorlardır oraya. geç de olsa yaşarsın, en azından yaşamaya çalışırsın bir şeyler. dersin ki "lisede olduğum gibi olmayacağım" vesaire, anlarsın işte. neyse. yaparsın o ilk atağı. metrelerce boşlukla ofsayta takılıran ama koşu atarken yine de bir umutla yan hakeme bakarken başını eğersin sonra. verirsin başlangıçta tecrübesizliğine tabii, altyapın sağlam değildi ki usta, olur bir bahanen elbette. 
+
+![]({{site.baseurl}}/images/egoa1.jpg)
 
 ilgili gözüktüğünü düşündüğün, "aha bu da tam bana göre be!" dediğin kız birden neden olduğunu anlamadığın şekilde rest çekmiştir sana. "ne yaptım ki" dediğinle kalırsın kendi kendine. zaten o kadar da matah bir kız değildir ki. kedi-ciğer mevzusunu bilirsin değil mi sevgili okuyucu? "bir dahakinde bu kadar ilgili olmayayım bari" dersin.
 
