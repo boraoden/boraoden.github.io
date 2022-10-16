@@ -2,8 +2,8 @@
 published: true
 layout: post
 categories: personal
-permalink: tyler-durden-rebound-a-ciktiginda-tr
-title: tyler durden rebound'a çıktığında - tr
+permalink: i-am-jack-s-eyelid-wound-tr
+title: i am jack's eyelid wound - tr
 ---
 bu yazı, çok ani gelişen ve üstüne pek düşünülmemiş bir yazı olacak. süslü cümleler, hoş kelimeler ve arkasında sağlam bir fikir de barındıracağını zannedenler, hatta yazıdan keyif alacağını varsayarak tıklayanlar okumasın derim.
 
