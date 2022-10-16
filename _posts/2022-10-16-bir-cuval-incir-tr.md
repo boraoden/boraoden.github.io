@@ -11,7 +11,7 @@ tüm bunlar olurken lig birincisinden kendi evinde dört gol yemiş halde seksen
 
 kariyerinin başını anımsarsın sonra.
 
-monoton ve sıkıcı geçen on sekiz senelik bir serüvenin ardından alınmışsındır u-18 takımından, a takımına birden. üniversite falan diyorlardır oraya. geç de olsa yaşarsın, en azından yaşamaya çalışırsın bir şeyler. dersin ki "lisede olduğum gibi olmayacağım" vesaire, anlarsın işte. neyse. yaparsın o ilk atağı. metrelerce boşlukla ofsayta takılıran ama koşu atarken yine de bir umutla yan hakeme bakarken başını eğersin sonra. verirsin başlangıçta tecrübesizliğine tabii, altyapın sağlam değildi ki usta, olur bir bahanen elbette. 
+monoton ve sıkıcı geçen on sekiz senelik bir serüvenin ardından alınmışsındır u-18 takımından a takımına birden. üniversite falan diyorlardır oraya. geç de olsa yaşarsın, en azından yaşamaya çalışırsın bir şeyler. dersin ki "lisede olduğum gibi olmayacağım" vesaire, anlarsın işte. neyse. yaparsın o ilk atağı. metrelerce boşlukla ofsayta takılıran ama koşu atarken yine de bir umutla yan hakeme bakarken başını eğersin sonra. verirsin başlangıçta tecrübesizliğine tabii, altyapın sağlam değildi ki usta, olur bir bahanen elbette. 
 
 ![]({{site.baseurl}}/images/egoa1.jpg)
 
