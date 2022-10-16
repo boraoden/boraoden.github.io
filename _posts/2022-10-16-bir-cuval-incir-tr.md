@@ -7,7 +7,7 @@ title: ender gelişen osasuna atakları - tr
 ---
 sevgili okuyucu, _eşek bile aynı çukura iki kez düşmez_ derler, bilirsin. ama insan düşer işte, her seferinde kendine daha büyük sözler verir, her seferinde daha büyük uyarılar koyar ama en nihayetinde düşer galiba yine. bu vaziyet, o insanı ne yapar peki; aptal mı, deli mi, işe yaramaz mı? 
 
-tüm bunlar olurken lig birincisinden kendi evinde dört gol yemiş halde seksen üçüncü dakikada bir umutla oyun kuran genç orta saha oyuncusunun mağrur haliyle önüne bakman gerektiğini hissedersin. her santra yeni bir başlangıçtır sana, bu sene küme düşmeyeceksinizdir, _yeni bir jenerasyon geliyor_ tarzı şeyler yazar gazeteler. "bu sene, o sene"dir.
+tüm bunlar olurken lig birincisinden kendi evinde dört gol yemiş halde seksen üçüncü dakikada bir umutla oyun kuran genç orta saha oyuncusunun mağrur tavrıyla önüne bakman gerektiğini hissedersin. her santra yeni bir başlangıçtır sana, bu sene küme düşmeyeceksinizdir, _yeni bir jenerasyon geliyor_ tarzı şeyler yazar gazeteler. "bu sene, o sene"dir.
 
 kariyerinin başını anımsarsın sonra.
 
