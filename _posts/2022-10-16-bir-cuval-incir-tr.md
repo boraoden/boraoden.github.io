@@ -19,12 +19,12 @@ ilgili gözüktüğünü düşündüğün, "aha bu da tam bana göre be!" dediğ
 
 sonrasında affedersin kendini haliyle ama bu; kaçınılmaz şaşkınlıkların, duvara toslayışların ilki olur sadece. _güzel bir orta gelecek de son dakikada kafa golüyle maç kazandıracağım_ diye düşünüp rakip ceza sahasına gelen, korner sonrası seken top rakibe geçince tazı görmüş tavşan gibi, topuklarını kıçına vura vura kendi kalesine koşan kaleciye döneceksindir. sen ne zannettin kendini koçum?
 
-![]({{site.baseurl}}/images/egoa2.jpg)
-
 istersen olaylar de, istersen insanlar, istersen deneyimlenenler; o ilk atak durağanlaştırır seni, şaşırtır ve bir hayli bozar kimyanı. yine de _iyi oldu_ dersin, öğretici gözükür şüphesiz, kenardan da girsen büyük ligde oynuyorsundur be oğlum. bir nevi memnun olursun, kendine gelirsin ve hayat dersi çıkardığını zannedersin ahmakça.
 
 zaman geçer biraz, antrenmanlar arasında mekik dokursun, her geçen gün üstüne koyduğunu düşünürsün. komiteler, pandemiler gelir geçer. sen üstüne koymaya çalışmış olsan da verimsiz geçen bir sezonun daha ardından takımdaki üçüncü yılında yıldızının parlayacağını hissedersin bu sefer.
 senin maçın yaklaşıyordur, hem real madrid'ten hem barcelona'dan scoutlar bu maçı izleyecekmiş der takımdaki veteranlar sana. heyecanlanırsın.
+
+![]({{site.baseurl}}/images/egoa2.jpg)
 
 artık olgunlaştığını düşünürsün ama bu ataktan da sonuç çıkmaz, vurur tüm şutların direği. _olsun be_ dersin,  _en azından ofsayta düşmedik_. ama gol gelmemiştir senden henüz. maçın başından, hatta kariyerinin başından beri ender gelişen ataklarından biri daha sonlanmıştır işte böylece. hatan yine aynıdır. yavaş oyun kuramıyorsundur, pozisyon bilgin zayıftır, ilk golü hızlı bulayım derken bir atağın daha sonlanmıştır işte sen fark etmeden. birine bu kadar kolay bağlanmanın sağlıklı olmadığını fark edersin.
 
