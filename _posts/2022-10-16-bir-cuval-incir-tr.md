@@ -38,7 +38,7 @@ bu maç umut vadediyordur işte, hiç sonuçlanmamışsa da atakların, bu sefer
 
 rakiple tokalaşırsın, iletişim kurmaya çalışırsın, umutsuz vaka olduğunu hissedersin sonra, 21 yaşında "jubile mi yapsam acaba" diye düşünürsün. bu oyun sana göre yazılmamıştır hocam.
 
-yalnızlık çukuruna o kadar derince batmışsındır ki sana yukarılardan elini uzatan tüm insanlara var gücünle sarılıyorsundur. problemin bu olduğunu bilsen de kaçamıyorsundur ki bundan. onları da ilk temasta kuvvetlice çekince korkuyorlardır doğal olarak, işin tüm esprisi de kaçıyordur zaten. bu iş bu kadar kolay olmamalıdır hani.
+yalnızlık çukuruna o kadar derince batmışsındır ki sana yukarılardan elini uzatan tüm insanlara var gücünle sarılıyorsundur. problemin bu olduğunu bilsen de kaçamıyorsundur ki buna meyilinden. onları da ilk temasta kuvvetlice çekince korkuyorlardır doğal olarak, işin tüm esprisi de kaçıyordur zaten. bu iş bu kadar kolay olmamalıdır hani.
 
 kendine geldiğinde kafanda _california dreaming_ çalıyordur. bu satırları bir tek onun anlayacağını düşünürsün ve yüzüne bir tebessüm konar sadece. o güzel kurabiyelerin tadı ağzına gelir, gözlerin dolar ve _benden bu kadar_ dersin. 
 
