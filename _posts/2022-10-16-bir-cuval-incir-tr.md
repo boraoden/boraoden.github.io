@@ -32,11 +32,11 @@ gitgide umudun kırılıyordur ama _daha gencim ya_ dersin, gençliğinin elinde
 
 bir sezon daha bitmiştir bile, kendine olan inancını kaybetmeye başlıyorsundur, durum hiç ama hiç normal değildir. medya da senden ilgiyi çekeli çok olmuştur. içinde kalan son güç ve inanç kırıntısına sarılırsın her şeye rağmen. ligdeki dördüncü sezonunun büyük kısmının hastanede geçeceğini söylerler sana, _bu sene işler biraz da iyi olabilir ha belki_ diye düşünürsün. sezon açılalı çok olmadan tanışırsın da başka bir kızla hakikaten.
 
-![]({{site.baseurl}}/images/egoa3.jpg)
-
 bu maç umut vadediyordur işte, hiç sonuçlanmamışsa da atakların, bu sefer gol olacağına dair inancın tamdır. karşı taraf bunu sana inanılmaz yoğun şekilde hissettiriyordur. hakikaten de olur gibi olur bir şeyler, üçüncüde voleyi vurabildiğini hissedersin ama bir bakmışsın ki aradan geçen üç dört sezonda hiçbir şey değişmemiş. ne sen öğrenmişssindir yapmaman gereken hataları ne de kızlar değişmiştir. bu hanımefendi ile de birebir aynı şeyler olur. ardından fark edersin ki sana oyunu yanlış öğretmişlerdir altyapıda, aynı hatayı sayısız kez yapana ne denir?
 
 rakiple tokalaşırsın, iletişim kurmaya çalışırsın, umutsuz vaka olduğunu hissedersin sonra, 21 yaşında "jubile mi yapsam acaba" diye düşünürsün. bu oyun sana göre yazılmamıştır hocam.
+
+![]({{site.baseurl}}/images/egoa3.jpg)
 
 yalnızlık çukuruna o kadar derince batmışsındır ki sana yukarılardan elini uzatan tüm insanlara var gücünle sarılıyorsundur. problemin bu olduğunu bilsen de kaçamıyorsundur ki buna meyilinden. onları da ilk temasta kuvvetlice çekince korkuyorlardır doğal olarak, işin tüm esprisi de kaçıyordur zaten. bu iş bu kadar kolay olmamalıdır hani.
 
