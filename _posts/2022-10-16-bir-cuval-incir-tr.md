@@ -40,7 +40,7 @@ rakiple tokalaşırsın, iletişim kurmaya çalışırsın, umutsuz vaka olduğu
 
 ![]({{site.baseurl}}/images/egoa3.jpg)
 
-yalnızlık çukuruna o kadar derince batmışsındır ki sana yukarılardan elini uzatan tüm insanlara var gücünle sarılıyorsundur. problemin bu olduğunu bilsen de kaçamıyorsundur ki buna meyilinden. onları da ilk temasta kuvvetlice çekince korkuyorlardır doğal olarak, işin tüm esprisi de kaçıyordur zaten. bu iş bu kadar kolay olmamalıdır hani.
+yalnızlık çukuruna o kadar derince batmışsındır ki sana yukarılardan elini uzatan tüm insanlara var gücünle sarılıyorsundur. problemin bu olduğunu bilsen de kaçamıyorsundur ki buna meyilinden. sana el uzatanları da ilk temasta kuvvetlice çekince korkuyorlardır doğal olarak, işin tüm esprisi de kaçıyordur zaten. bu iş bu kadar kolay olmamalıdır hani.
 
 kendine geldiğinde kafanda _california dreaming_ çalıyordur. bu satırları bir tek onun anlayacağını düşünürsün ve yüzüne bir tebessüm konar sadece. o güzel kurabiyelerin tadı ağzına gelir, gözlerin dolar ve _benden bu kadar_ dersin. 
 
