@@ -36,7 +36,7 @@ bir sezon daha bitmiştir bile, kendine olan inancını kaybetmeye başlıyorsun
 
 bu maç umut vadediyordur işte, hiç sonuçlanmamışsa da atakların, bu sefer gol olacağına dair inancın tamdır. karşı taraf bunu sana inanılmaz yoğun şekilde hissettiriyordur. hakikaten de olur gibi olur bir şeyler, üçüncüde voleyi vurabildiğini hissedersin ama bir bakmışsın ki aradan geçen üç dört sezonda hiçbir şey değişmemiştir. ne sen öğrenmişssindir yapmaman gereken hataları ne de kızlar farklılaşmıştır. bu hanımefendi ile de birebir aynı şeyler olur. ardından fark edersin ki sana oyunu yanlış öğretmişlerdir altyapıda, aynı hatayı sayısız kez yapana ne denir?
 
-rakiple tokalaşırsın, iletişim kurmaya çalışırsın, umutsuz vaka olduğunu hissedersin sonra, 21 yaşında "jubile mi yapsam acaba" diye düşünürsün. bu oyun sana göre yazılmamıştır hocam.
+rakiple tokalaşırsın, iletişim kurmaya çalışırsın, umutsuz vaka olduğunu hissedersin sonra, 21 yaşında "bıraksam mı bu işleri acaba" diye düşünürsün. bu oyun sana göre yazılmamıştır hocam.
 
 ![]({{site.baseurl}}/images/egoa3.jpg)
 
