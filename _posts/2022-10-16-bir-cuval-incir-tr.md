@@ -26,7 +26,9 @@ senin maçın yaklaşıyordur, hem real madrid'ten hem barcelona'dan scoutlar bu
 
 ![]({{site.baseurl}}/images/egoa2.jpg)
 
-artık olgunlaştığını düşünürsün ama bu ataktan da sonuç çıkmaz, vurur tüm şutların direği. _olsun be_ dersin,  _en azından ofsayta düşmedik_. ama gol gelmemiştir senden henüz. maçın başından, hatta kariyerinin başından beri ender gelişen ataklarından biri daha sonlanmıştır işte böylece. hatan yine aynıdır. yavaş oyun kuramıyorsundur, pozisyon bilgin zayıftır, ilk golü hızlı bulayım derken bir atağın daha sonlanmıştır işte sen fark etmeden. birine bu kadar kolay bağlanmanın sağlıklı olmadığını fark edersin.
+artık olgunlaştığını düşünürsün ama bu ataktan da sonuç çıkmaz, vurur tüm şutların direği. _olsun be_ dersin,  _en azından ofsayta düşmedik_. ama gol gelmemiştir senden henüz. maçın başından, hatta kariyerinin başından beri ender gelişen ataklarından biri daha sonlanmıştır işte böylece. hatan yine aynıdır. yavaş oyun kuramıyorsundur, pozisyon bilgin zayıftır, ilk golü hızlı bulayım derken bir atağın daha sonlanmıştır işte sen fark etmeden. 
+
+bir insana bu kadar kolay bağlanmanın sağlıklı olmadığını fark edersin.
 
 gitgide umudun kırılıyordur ama _daha gencim ya_ dersin, gençliğinin elinden aktığını hissedersin ama bastırırsın bu hisleri. umut vadeden bu ikinci kız da geçmişe karışır işte, belki okulda görünce gülümsersiniz birbirinize, o kadar. şarkının da dediği gibi, eskiden bildiğin birine döner birdenbire o hanımefendi. 
 
