@@ -13,4 +13,4 @@ elbette üniversiteye başlamamla değişen/olgunlaşan kafa yapısının etkisi
 
 hep dediğim gibi zamana bırakmak en ideal karar. kendimi tüm bu olaylardan soyutlamış değilim ama biliyorum ki proaktif de olamayacağım hiçbir şekilde. yoruluyorum çünkü okuyucu, olmayan anlamlar bulmaya çalışmaktan, nazlardan, adım atmayan ve ne düşündüğünü-hissettiğini çözemediğim kızlardan... biliyorum, ruh eşi muhabbeti çok ama çok boktan fakat bir kere elektriğimin ve ruhumun uyuştuğu; dolaylamalara sokmayan birini arıyorum.
 
-eh, bulana dek de mgtow gibi muhabbetler de sarmıyor değil, en kötüsünden tek olmadığını hissettiriyor insana. senin gibi düşünen ufak bir azınlığa yahut birkaç kişiye denk gelme ihtimalini arttırıyor belki de. bilmiyorum, göreceğiz işte, umarım beni de seven birileri olur ancak pek de umutlu olmayayım bu konuda. :-i
+eh, bulana dek de mgtow gibi muhabbetler de sarmıyor değil, en kötüsünden tek olmadığını hissettiriyor insana. senin gibi düşünen ufak bir azınlığa yahut birkaç kişiye denk gelme ihtimalini arttırıyor belki de. bilmiyorum, göreceğiz işte, umarım beni de seven birileri olur ancak pek de umutlu olmayayım bu konuda. 
