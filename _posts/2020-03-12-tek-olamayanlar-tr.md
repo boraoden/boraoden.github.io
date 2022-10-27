@@ -1,5 +1,9 @@
 ---
-published: false
+published: true
+layout: post
+categories: ramble
+permalink: tek-olamayanlar-tr
+title: tek olamayanlar - tr
 ---
 etrafıma bakıyorum ve onlarca, yüzlerce insan görüyorum; varoluşun ve özgürlüğün tadına çıkarmaya en çok yaklaşılan vaziyet olan "tek başınalık"tan delicesine korkan. kendi kendineliğin ne denli müthiş bir nimet olduğunu özümseyememiş insan sürüleri dolaşıyor neler kaçırdıklarını fark etmeden, aceleyle. 
 
