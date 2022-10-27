@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: ramble
 permalink: iliskiler-ve-kadinlar-ustune-ufak-bir-bora-yorumu-tr
