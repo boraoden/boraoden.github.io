@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: ramble
 permalink: bireyin-alismasi-ve-durumunu -kaniksamasinin-iyi-olmayan-bir-disavurumu-tr
