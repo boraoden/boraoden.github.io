@@ -5,7 +5,9 @@ categories: personal
 permalink: bir-cuval-incir-tr
 title: bir çuval incir - tr
 ---
-uzun zaman oldu yazar buralara uğramayalı. sıkıcı ve gri bir mersin akşamı insanı boğuyor tam şu vakitler. pazar gününün geç saatlerinde düşünceli olmayı kim sever? hele insan birkaç saat önce _bir çuval inciri_ çok feci şekilde berbat ettiyse mümkünatı var mıdır pazartesine umutla bakmanın?
+uzun zaman oldu yazar buralara uğramayalı, ani bir yazma isteği ile yazıyor yazar bunları, belki sonra minik düzenlemeler yapabilir normalde hiç yapmadığı şekilde.
+
+sıkıcı ve gri bir mersin akşamı insanı boğuyor tam şu vakitler. pazar gününün geç saatlerinde düşünceli olmayı kim sever? hele insan birkaç saat önce _bir çuval inciri_ çok feci şekilde berbat ettiyse mümkünatı var mıdır pazartesine umutla bakmanın?
 
 > got no friends, got no lover
 
