@@ -16,7 +16,7 @@ sadece her şey için minnet duyması gerektiğini biliyor ve bunu samimi şekil
 
 _kasabian_, pek duygulu şarkısı _goodbye kiss_'te 
 
-> doomed from the start
+> doomed from the start    
 we met with a goodbye kiss
 
 diye başlıyordu söze. 15 ekim gününün öğlen vakitlerinden beri bu parçayı çok sık düşünüyor yazar. ölü doğan bir ilişkiydi muhakkak bu; uyumsuzluk, ilk dakikalarından beri belli ediyordu kendini ama insan bu işte. rasyonel düşünmeye itmek ne kadar doğru ki onu?
