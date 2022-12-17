@@ -2,8 +2,8 @@
 published: true
 layout: post
 categories: personal music
-permalink: olu-dogan-unutamayan-unutulamayan-ve-kırılan-tr
-title: 'ölü doğan, unutamayan, unutulamayan ve kırılan - tr'
+permalink: unutamayan-unutulamayan-ve-kırılan-tr
+title: 'unutamayan, unutulamayan ve kırılan - tr'
 ---
 **çok iyi biliyorum ki okuyorsun burayı.
 yapma lütfen, üzme daha fazla kendini. ikimiz de üzünülmesi gerekenden çok daha fazla üzüldük bile.**
