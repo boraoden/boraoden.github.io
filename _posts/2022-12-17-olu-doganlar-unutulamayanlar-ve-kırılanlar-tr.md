@@ -69,7 +69,9 @@ aylardır görmediği o adam için hala "hoşlanıyorum" diyen kadın, iki ay bo
 
 kadın, _gabriel garcia marquez_'i çok severdi. esas sahibi o mudur, yazar bilemez elbet ama maalesef şu an geriye dönüp baktığında ona atfedilen _bittiği için üzülme, yaşandığı için sevin_ öğütlerini pek ciddiye alamıyor hüzünlü yazar. yaşanılanlar için sevindiği oluyor elbette ama birçok şey için de büyük bir pişmanlık duyuyor, "keşke yaşanmasaydı" diyor kederli şekilde. tabii bunların da en ufak anlamı yok şu vakitte.
 
-hiçbir zaman görememiş olsa da iskenderun'u, hiçbir zaman tanıyamamış olsa da marcy'i, hiçbir zaman kafasını okşayamamış olsa da daisy'nin, hiçbir zaman yiyememiş olsa da lezzetli bir döner onunla, hiçbir zaman gidememiş olsalar da bir opera'ya beraber, hiçbir zaman bitirememiş olsalar da _before sunrise_'ı; yazar yine de bu insanı tanıdığı için memnun olduğunu hissediyor ve _goodbye kiss_ ile başlayan bu yazıyı, aynı şekilde bitirmek istiyor;
+hiçbir zaman görememiş olsa da iskenderun'u, hiçbir zaman tanıyamamış olsa da marcy'i, hiçbir zaman kafasını okşayamamış olsa da daisy'nin, hiçbir zaman yiyememiş olsa da lezzetli bir döner onunla, hiçbir zaman gidememiş olsalar da bir opera'ya beraber, hiçbir zaman bitirememiş olsalar da _before sunrise_'ı; yazar yine de bu insanı tanıdığı için memnun olduğunu hissediyor ve _goodbye kiss_ ile başlayan bu yazıyı, aynı şekilde bitirmek istiyor.
+
+**her şey için teşekkürler;**
 
 > turning slowly     
 looking back, see     
@@ -83,7 +85,5 @@ you go your way
 and i'll go my way     
 no words can save us     
 this lifestyle made us      
-
-**her şey için teşekkürler.**
 
 ![]({{site.baseurl}}/images/seperation4.jpg)
