@@ -33,7 +33,7 @@ diyebildi yazar.
 
 nasıl ilerlediğini anlamadan geçti işte iki ay, okuyucu düşünebilir burada "iki ay ne ki, ne bu tantana hocam?". haklı da elbette, çok haklı ama ilkler ilham kaynağı oluyor işte insana bir şekilde, bazı duyguları ve düşünceleri; unutulan, zor anımsanan hatıramsılara dönüşmeden evvel ölümsüzleştirmek istiyor kişi hani.
 
-bolca tartışma yaşandı bu sürede, çift taraflı çok hata yapıldı elbette, her seferinde daha da kuvvetlice sarılmak istedi yazar, tutunmak istedi. bu isteği pek nadir karşılandı ama suç aranacaksa birinde biraz da kendini suçlamalıydı yazar zira ısrar etti sanırım her seferinde, kolay bağlandı, tez duygusallaştı. böyle davranmamalıydı, bunu biliyordu. yine de engel olamadı.
+bolca tartışma yaşandı bu sürede, çift taraflı çok hata yapıldı şüphesiz, her seferinde daha da kuvvetlice sarılmak istedi yazar, tutunmak istedi. bu isteği pek nadir karşılandı ama suç aranacaksa birinde biraz da kendini suçlamalıydı yazar zira ısrar etti sanırım her seferinde, kolay bağlandı, tez duygusallaştı. böyle davranmamalıydı, bunu biliyordu. yine de engel olamadı.
 
 ![]({{site.baseurl}}/images/seperation2.jpg)
 
