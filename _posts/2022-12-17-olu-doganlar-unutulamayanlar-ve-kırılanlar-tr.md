@@ -53,7 +53,7 @@ now you get to feel so high
 it's over     
 it's all over now    
 
-ne güzel özetlemiş işte her şeyi. insan, sanatın ve duyguların evrenselliğini bizzat keyif aldığı şarkılarda, kitaplarda görünce daha bir hoş hissediyor. bir o kadar da buruk hissediyor tabii.
+ne güzel özetlemiş işte her şeyi. insan, sanatın ve duyguların evrenselliğini bizzat beğendiği şarkılarda, kitaplarda görünce daha bir keyifleniyor. bir o kadar da buruk hissediyor tabii.
 
 ![]({{site.baseurl}}/images/seperation1.jpg)
 
