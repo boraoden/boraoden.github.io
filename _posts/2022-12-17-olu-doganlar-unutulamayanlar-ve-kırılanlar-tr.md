@@ -35,7 +35,7 @@ nasıl ilerlediğini anlamadan geçti işte iki ay, okuyucu düşünebilir burad
 
 bolca tartışma yaşandı bu sürede, çift taraflı çok hata yapıldı elbette, her seferinde daha da kuvvetlice sarılmak istedi yazar, tutunmak istedi. bu isteği pek nadir karşılandı ama suç aranacaksa birinde biraz da kendini suçlamalıydı yazar zira ısrar etti sanırım her seferinde, kolay bağlandı, tez duygusallaştı. böyle davranmamalıydı, bunu biliyordu. yine de engel olamadı.
 
-![]({{site.baseurl}}/![]({{site.baseurl}}/images/seperation2.jpg)
+![]({{site.baseurl}}/images/seperation2.jpg)
 
 bu yazıda bolca alıntı yapacak yazar, beğenmeyen kapıyı örtüp gidebilir hocam. biraz daha _kasabian_ sallamak istiyor ortalığa doğrusu. _bow_'da da şöyle diyorlardı;
 
@@ -55,7 +55,7 @@ it's all over now
 
 ne güzel özetlemiş işte her şeyi. insan, sanatın ve duyguların evrenselliğini bizzat keyif aldığı şarkılarda, kitaplarda görünce daha bir hoş hissediyor. bir o kadar da buruk hissediyor tabii.
 
-![]({{site.baseurl}}/![]({{site.baseurl}}/images/seperation1.jpg)
+![]({{site.baseurl}}/images/seperation1.jpg)
 
 kurcalaması hoş olmasa da yazarın bir türlü anlayamadığı meseleler olmadı değil elbette son iki ayda. her şeyin sonunu getiren de antalya'dan bir çocuk oldu, bir kez olsun kanlı canlı görmediği. yazar hiçbir zaman anlayamadı, idrak edemedi herhangi bir insanın, ona en ufak değer vermeyen başka bir insana seneler boyunca nasıl bağlı kalabileceğini. her iletişim kurulduğunda aradaki sevgisizlik aşikar şekilde hissedilirken zihinde bu kadar yoğunca yer edebilmek için o kişi ne yapmış olmalıydı; kötü davranmaktan, umursamamaktan başka bir meziyeti var mıydı ki bu eskiden gelen kudretli hislere neden olan insanın, neydi ki sırrı onun?
 
@@ -67,7 +67,7 @@ sadece, sevgi ve ilgisinin çarptığı bu beton duvarı hiçbir şekilde kıram
 
 aylardır görmediği bu çocuk için hala "hoşlanıyorum" diyen kadın, iki ay boyunca hayatının her alanında yanında olmuş bu insan için aynı kelimeyi kullanamamıştı, diline varmamıştı bu kelime. zaten yazar o an anladı her şeyin bittiğini, iki aydır bir illüzyon ile yaşadığını. bu sefer bastıran duygu üzüntü değil, boş vermişlik ve pes etmişlikti.
 
-![]({{site.baseurl}}/![]({{site.baseurl}}/images/seperation3.jpg)
+![]({{site.baseurl}}/images/seperation3.jpg)
 
 bu kadın, _gabriel garcia marquez_'i çok severdi. esas sahibi o mudur, yazar bilemez elbet ama maalesef şu an geriye dönüp baktığında ona atfedilen _bittiği için üzülme, yaşandığı için sevin_ öğütlerini pek ciddiye alamıyor hüzünlü yazar. yaşanılanlar için sevindiği oluyor elbette ama birçok şey için de büyük bir pişmanlık duyuyor, "keşke yaşanmasaydı" diyor kederli şekilde. elbette bunların da en ufak anlamı yok şu vakitte.
 
