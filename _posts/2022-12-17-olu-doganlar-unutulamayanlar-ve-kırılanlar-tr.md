@@ -61,7 +61,7 @@ kurcalaması hoş olmasa da yazarın bir türlü anlayamadığı meseleler olmad
 
 tüm arkadaşları onu sayısız kez uyarmışken, yazarın her defasında mevzu bu olduğunda keyfi kaçmışken nasıl bu kadar ısrarcı olunabilirdi bu konuda?
 
-yazar bu sorulara hiçbir zaman cevap veremedi. vermeyi çabaladı, bir süre yara bandı olabileceğini düşündü ama yara bandı olamadı. iyi ki de olamadı. kimse, kimsenin yara bandı olmamalı bu hayatta en başında. 
+yazar bu sorulara hiçbir zaman cevap veremedi. vermeyi çabaladı, bir süre yara bandı olabileceğini düşündü karşısındaki ama olamadı. iyi ki de olamadı. kimse, kimsenin yara bandı olmamalı bu hayatta en başında. 
 
 sadece, sevgi ve ilgisinin çarptığı bu beton duvarı hiçbir şekilde kıramayacağını anladığında büyük bir hayal kırıklığı yaşadı. hiçbir zaman karşısındaki insanın kafasındaki birincil insan değildi, hiçbir zaman karşısındaki insanı heyecanlandırabildiğini hissedemedi, her daim karşısındaki insanın onu, bu çarptığı beton duvar ile karşılaştırdığını düşündü. haksız da sayılmazdı. çocuğu aklından tebrik etti yazar, bir kadının kafasına bu kadar sıkı bir kanca atabilmek için hakikaten farklı biri olmak gerekiyordu belki de. ama yazar onun her zaman beş para etmez bir adam olduğunu düşündü, zaten şimdi de pek bir şey ifade etmiyor ne düşündüğü.
 
