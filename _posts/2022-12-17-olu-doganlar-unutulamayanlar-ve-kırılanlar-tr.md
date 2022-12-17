@@ -8,9 +8,9 @@ title: 'unutamayan, unutulamayan ve unutturamayan - tr'
 **çok iyi biliyorum ki okuyorsun burayı.
 yapma lütfen, üzme daha fazla kendini. ikimiz de üzünülmesi gerekenden çok daha fazla üzüldük bile.**
 
-yazar, bu yazısında, geçmiş birkaç yazısında bahsettiği kişi ve olayları; onlar birtakım değişiklikler ve farklılıklar yaşamış olsa da değiştirme ve düzeltme isteği duymadı. minik tekzipler gereken bu yazıları olduğu gibi bırakmaya karar verdi, onları silmeyi bile aklından geçirse de bu fikri çabucak kafasından attı.
+yazar, bu yazısında, geçmiş birkaç yazısında bahsettiği kişi ve olayları; onlar birtakım değişiklikler ve farklılıklar yaşamış olsa da değiştirme ve düzeltme isteği duymadı. minik tekzipler gereken mevzubahis yazıları olduğu gibi bırakmaya karar verdi, onları silmeyi bile aklından geçirse de bu fikri çabucak kafasından attı.
 
-sadece her şey için minnet duyması gerektiğini biliyor ve bunu samimi şekilde yapıyor, kafası karışık ve hatta çok hafif kırgın, biraz da sinirli olsa da teşekkür ediyor.
+sadece her şey için minnet duyması gerektiğini biliyor ve bunu samimi şekilde yapıyor, kafası karışık ve hatta çok hafif kırgın, az biraz da kızgın olsa da teşekkür ediyor.
 
 ---
 
@@ -19,7 +19,7 @@ _kasabian_, pek duygulu şarkısı _goodbye kiss_'te
 > doomed from the start    
 we met with a goodbye kiss
 
-diye başlıyordu söze. 15 ekim gününün öğlen vakitlerinden beri bu parçayı çok sık düşünüyor yazar. ölü doğan bir ilişkiydi muhakkak bu; uyumsuzluk, ilk dakikalarından beri belli ediyordu kendini ama insan bu işte. rasyonel düşünmeye itmek ne kadar doğru ki onu?
+diye başlıyordu söze. 15 ekim gününün öğlen vakitlerinden beri bu parçayı çok sık düşünüyor yazar. ölü doğan bir ilişkiydi muhakkak aralarındaki; uyumsuzluk, ilk dakikalarından beri belli ediyordu kendini ama insan bu işte. rasyonel düşünmeye itmek ne kadar doğru ki onu?
 
 onunla hakikaten bir elveda öpücüğü ile tanışmıştı çünkü yazar, hem ilk açtığı şarkı buydu onunlayken hem de aralarındaki şeyin geleceğinin olmadığı apaçık parlıyordu. çürümeye mahkumdu kuşkusuz.
 
@@ -57,13 +57,13 @@ ne güzel özetlemiş işte her şeyi. insan, sanatın ve duyguların evrenselli
 
 kurcalaması hoş olmasa da yazarın bir türlü anlayamadığı meseleler olmadı değil şüphesiz son iki ayda. her şeyin sonunu getiren de antalya'dan bir çocuk oldu, bir kez olsun kanlı canlı görmediği. yazar hiçbir zaman anlayamadı, idrak edemedi herhangi bir insanın, ona en ufak değer vermeyen başka bir insana seneler boyunca nasıl bağlı kalabileceğini. her iletişim kurulduğunda aradaki sevgisizlik aşikar şekilde hissedilirken zihinde bu kadar yoğunca yer edebilmek için o kişi ne yapmış olmalıydı; kötü davranmaktan, umursamamaktan başka bir meziyeti var mıydı ki bu eskiden gelen kudretli hislere neden olan insanın, neydi ki sırrı onun?
 
-tüm arkadaşları onu sayısız kez uyarmışken, yazarın her defasında mevzu bu olduğunda keyfi kaçmışken nasıl bu kadar ısrarcı olunabilirdi bu konuda?
+tüm arkadaşları onu sayısız kez uyarmışken, yazarın her defasında mevzu o adam olduğunda keyfi kaçmışken nasıl bu kadar ısrarcı olunabilirdi bu konuda? hiç mi ders çıkarılmazdı, ders çıkarılmak istenmemiş miydi ki?
 
-yazar bu sorulara hiçbir zaman cevap veremedi. vermeyi çabaladı, bir süre yara bandı olabileceğini düşündü karşısındakine ama olamadı. iyi ki de olamadı. kimse, kimsenin yara bandı olmamalı bu hayatta en başında. 
+yazar yukarıdaki sorulara hiçbir zaman cevap veremedi. vermeyi çabaladı, bir süre yara bandı olabileceğini düşündü karşısındakine ama olamadı. iyi ki de olamadı. kimse, kimsenin yara bandı olmamalı bu hayatta en başında. 
 
 sadece, sevgi ve ilgisinin çarptığı bu beton duvarı hiçbir şekilde kıramayacağını anladığında büyük bir hayal kırıklığı yaşadı. hiçbir zaman karşısındaki insanın kafasındaki birincil insan değildi, hiçbir zaman karşısındaki insanı heyecanlandırabildiğini hissedemedi, her daim karşısındaki insanın onu, bu çarptığı beton duvar ile karşılaştırdığını düşündü. haksız da sayılmazdı. çocuğu aklından tebrik etti yazar, bir kadının kafasına bu kadar sıkı bir kanca atabilmek için hakikaten farklı biri olmak gerekiyordu belki de. ama yazar onun her zaman beş para etmez bir adam olduğunu düşündü, zaten şimdi de pek bir şey ifade etmiyor ne düşündüğü.
 
-aylardır görmediği bu çocuk için hala "hoşlanıyorum" diyen kadın, iki ay boyunca hayatının her alanında yanında olmuş bu insan için aynı kelimeyi kullanamamıştı, diline varmamıştı sözcükler. zaten yazar o an anladı her şeyin bittiğini, iki aydır bir illüzyon ile yaşadığını. bu sefer bastıran duygu üzüntü değil, boş vermişlik ve pes etmişlikti.
+aylardır görmediği o adam için hala "hoşlanıyorum" diyen kadın, iki ay boyunca hayatının her alanında yanında olmuş yazar için aynı kelimeyi kullanamamıştı, diline varmamıştı sözcükler. zaten yazar o an anladı her şeyin bittiğini, iki aydır bir illüzyon ile yaşadığını. bu sefer bastıran duygu üzüntü değil, boş vermişlik ve pes etmişlikti.
 
 ![]({{site.baseurl}}/images/seperation3.jpg)
 
