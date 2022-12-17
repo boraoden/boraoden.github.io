@@ -25,8 +25,8 @@ onunla hakikaten bir elveda öpücüğü ile tanışmıştı çünkü yazar, hem
 
 yine de devam ettiler elbette, her şeyiyle çok farklı bir gündü yazar için ve _ursula_ teyzenin da dediği gibi;
 
-> ömrümce görmezsem de bir daha,
-eh diyebilirim yine de,
+> ömrümce görmezsem de bir daha,    
+eh diyebilirim yine de,     
 bir kez orada bulundum.
 
 diyebildi yazar.
