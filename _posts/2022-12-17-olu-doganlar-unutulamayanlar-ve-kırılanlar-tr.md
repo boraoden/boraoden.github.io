@@ -23,13 +23,11 @@ diye başlıyordu söze. 15 ekim gününün öğlen vakitlerinden beri bu parça
 
 onunla hakikaten bir elveda öpücüğü ile tanışmıştı çünkü yazar, hem ilk açtığı şarkı buydu onunlayken hem de aralarındaki şeyin geleceğinin olmadığı apaçık parlıyordu. çürümeye mahkumdu kuşkusuz.
 
-yine de devam ettiler elbette, her şeyiyle çok farklı bir gündü yazar için ve _ursula_ teyzenin da dediği gibi;
+yine de devam ettiler, her şeyiyle çok farklı bir gündü yazar için ve _ursula_ teyzenin da dediği gibi yazar hem o gün için hem de bu kadın için söyleyebiliyor aşağıdaki cümleleri;
 
 > ömrümce görmezsem de bir daha,    
 eh diyebilirim yine de,     
 bir kez orada bulundum.
-
-diyebildi yazar.
 
 nasıl ilerlediğini anlamadan geçti işte iki ay, okuyucu düşünebilir burada "iki ay ne ki, ne bu tantana hocam?". haklı da elbette, çok haklı ama ilkler ilham kaynağı oluyor işte insana bir şekilde, bazı duyguları ve düşünceleri; unutulan, zor anımsanan hatıramsılara dönüşmeden evvel ölümsüzleştirmek istiyor kişi hani.
 
@@ -37,7 +35,7 @@ bolca tartışma yaşandı bu sürede, çift taraflı çok hata yapıldı şüph
 
 ![]({{site.baseurl}}/images/seperation2.jpg)
 
-bu yazıda bolca alıntı yapacak yazar, beğenmeyen kapıyı örtüp gidebilir hocam. biraz daha _kasabian_ sallamak istiyor ortalığa doğrusu. _bow_'da da şöyle diyorlardı;
+yazar, bu yazıda bolca alıntı yapmaya devam edecek gibi duruyor, beğenmeyen kapıyı örtüp gidebilir, zaten biraz başı ağrıyor yazarın, gürültü yapmasınlar. biraz daha _kasabian_ sallamak istiyor ortalığa doğrusu almışken hızını. _bow_'da da şöyle diyorlardı çünkü;
 
 > now your friends    
 they're all saying that i'm no good    
@@ -57,7 +55,7 @@ ne güzel özetlemiş işte her şeyi. insan, sanatın ve duyguların evrenselli
 
 ![]({{site.baseurl}}/images/seperation1.jpg)
 
-kurcalaması hoş olmasa da yazarın bir türlü anlayamadığı meseleler olmadı değil elbette son iki ayda. her şeyin sonunu getiren de antalya'dan bir çocuk oldu, bir kez olsun kanlı canlı görmediği. yazar hiçbir zaman anlayamadı, idrak edemedi herhangi bir insanın, ona en ufak değer vermeyen başka bir insana seneler boyunca nasıl bağlı kalabileceğini. her iletişim kurulduğunda aradaki sevgisizlik aşikar şekilde hissedilirken zihinde bu kadar yoğunca yer edebilmek için o kişi ne yapmış olmalıydı; kötü davranmaktan, umursamamaktan başka bir meziyeti var mıydı ki bu eskiden gelen kudretli hislere neden olan insanın, neydi ki sırrı onun?
+kurcalaması hoş olmasa da yazarın bir türlü anlayamadığı meseleler olmadı değil şüphesiz son iki ayda. her şeyin sonunu getiren de antalya'dan bir çocuk oldu, bir kez olsun kanlı canlı görmediği. yazar hiçbir zaman anlayamadı, idrak edemedi herhangi bir insanın, ona en ufak değer vermeyen başka bir insana seneler boyunca nasıl bağlı kalabileceğini. her iletişim kurulduğunda aradaki sevgisizlik aşikar şekilde hissedilirken zihinde bu kadar yoğunca yer edebilmek için o kişi ne yapmış olmalıydı; kötü davranmaktan, umursamamaktan başka bir meziyeti var mıydı ki bu eskiden gelen kudretli hislere neden olan insanın, neydi ki sırrı onun?
 
 tüm arkadaşları onu sayısız kez uyarmışken, yazarın her defasında mevzu bu olduğunda keyfi kaçmışken nasıl bu kadar ısrarcı olunabilirdi bu konuda?
 
@@ -69,7 +67,7 @@ aylardır görmediği bu çocuk için hala "hoşlanıyorum" diyen kadın, iki ay
 
 ![]({{site.baseurl}}/images/seperation3.jpg)
 
-bu kadın, _gabriel garcia marquez_'i çok severdi. esas sahibi o mudur, yazar bilemez elbet ama maalesef şu an geriye dönüp baktığında ona atfedilen _bittiği için üzülme, yaşandığı için sevin_ öğütlerini pek ciddiye alamıyor hüzünlü yazar. yaşanılanlar için sevindiği oluyor elbette ama birçok şey için de büyük bir pişmanlık duyuyor, "keşke yaşanmasaydı" diyor kederli şekilde. elbette bunların da en ufak anlamı yok şu vakitte.
+bu kadın, _gabriel garcia marquez_'i çok severdi. esas sahibi o mudur, yazar bilemez elbet ama maalesef şu an geriye dönüp baktığında ona atfedilen _bittiği için üzülme, yaşandığı için sevin_ öğütlerini pek ciddiye alamıyor hüzünlü yazar. yaşanılanlar için sevindiği oluyor elbette ama birçok şey için de büyük bir pişmanlık duyuyor, "keşke yaşanmasaydı" diyor kederli şekilde. tabii bunların da en ufak anlamı yok şu vakitte.
 
 hiçbir zaman görememiş olsa da iskenderun'u, hiçbir zaman tanıyamamış olsa da marcy'i, hiçbir zaman kafasını okşayamamış olsa da daisy'nin, hiçbir zaman yiyememiş olsa da lezzetli bir döner onunla, hiçbir zaman gidememiş olsalar da bir opera'ya beraber, hiçbir zaman bitirememiş olsalar da _before sunrise_'ı; yazar yine de bu insanı tanıdığı için memnun olduğunu hissediyor ve _goodbye kiss_ ile başlayan bu yazıyı, aynı şekilde bitirmek istiyor;
 
