@@ -65,9 +65,11 @@ sadece, sevgi ve ilgisinin çarptığı bu beton duvarı hiçbir şekilde kıram
 
 aylardır görmediği bu çocuk için hala "hoşlanıyorum" diyen kadın, iki ay boyunca hayatının her alanında yanında olmuş bu insan için aynı kelimeyi kullanamamıştı, diline varmamıştı bu kelime. zaten yazar o an anladı her şeyin bittiğini, iki aydır bir illüzyon ile yaşadığını. bu sefer bastıran duygu üzüntü değil, boş vermişlik ve pes etmişlikti.
 
-kadın _gabriel garcia marquez_'i çok severdi. esas sahibi o mudur, yazar bilemez elbet ama maalesef şu an geriye dönüp baktığında ona atfedilen _bittiği için üzülme, yaşandığı için sevin_ öğütlerini pek ciddiye alamıyor. yaşanılanlar için sevindiği oluyor elbette ama birçok şey için de büyük bir pişmanlık duyuyor, "keşke yaşanmasaydı" diyor. 
+![]({{site.baseurl}}/![]({{site.baseurl}}/images/seperation3.jpg)
 
-hiçbir zaman görememiş olsa da iskenderun'u, hiçbir zaman tanıyamamış olsa da marcy'i, hiçbir zaman yiyememiş olsa da bir döner, hiçbir zaman gidememiş olsa da bir opera'ya; yazar yine de bu insanı tanıdığı için memnun olduğunu hissediyor ve _goodbye kiss_ ile başlayan bu yazıyı, aynı şekilde bitirmek istiyor;
+bu kadın, _gabriel garcia marquez_'i çok severdi. esas sahibi o mudur, yazar bilemez elbet ama maalesef şu an geriye dönüp baktığında ona atfedilen _bittiği için üzülme, yaşandığı için sevin_ öğütlerini pek ciddiye alamıyor. yaşanılanlar için sevindiği oluyor elbette ama birçok şey için de büyük bir pişmanlık duyuyor, "keşke yaşanmasaydı" diyor üzücü şekilde. elbette bunların da en ufak anlamı yok şu vakitte.
+
+hiçbir zaman görememiş olsa da iskenderun'u, hiçbir zaman tanıyamamış olsa da marcy'i, hiçbir zaman kafasını okşayamamış olsa da daisy'nin, hiçbir zaman yiyememiş olsa da lezzetli bir döner onunla, hiçbir zaman gidememiş olsalar da bir opera'ya beraber, hiçbir zaman bitirememiş olsalar da the office'i; yazar yine de bu insanı tanıdığı için memnun olduğunu hissediyor ve _goodbye kiss_ ile başlayan bu yazıyı, aynı şekilde bitirmek istiyor;
 
 > turning slowly
 looking back, see
@@ -79,5 +81,7 @@ rock and roll sent us insane
 i hope someday that we could meet again   
 you go your way
 and i'll go my way
+no words can save us
+this lifestyle made us
 
 **her şey için teşekkürler.**
