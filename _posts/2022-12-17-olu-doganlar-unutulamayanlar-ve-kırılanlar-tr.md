@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: personal music
 permalink: olu-doganlar-unutulamayanlar-ve-kırılanlar-tr
@@ -57,21 +57,21 @@ ne güzel özetlemiş işte her şeyi. insan, sanatın ve duyguların evrenselli
 
 ![]({{site.baseurl}}/![]({{site.baseurl}}/images/seperation1.jpg)
 
-kurcalaması hoş olmasa da yazarın bir türlü anlayamadığı meseleler olmadı değil elbette son iki ayda. her şeyin sonunu getiren de antalya'dan bir çocuk oldu, bir kez kanlı canlı görmediği. yazar hiçbir zaman anlayamadı, idrak edemedi herhangi bir insanın ona en ufak değer vermeyen başka bir insana seneler boyunca nasıl bağlı kalabileceğini. her iletişim kurulduğunda aradaki sevgisizlik aşikar şekilde hissedilirken zihinde bu kadar yoğunca yer edebilmek için o kişi ne yapmış olmalıydı; kötü davranmaktan, umursamamaktan başka bir meziyeti var mıydı ki bu eskiden gelen kudretli hislere neden olan insanın, neydi ki sırrı onun?
+kurcalaması hoş olmasa da yazarın bir türlü anlayamadığı meseleler olmadı değil elbette son iki ayda. her şeyin sonunu getiren de antalya'dan bir çocuk oldu, bir kez olsun kanlı canlı görmediği. yazar hiçbir zaman anlayamadı, idrak edemedi herhangi bir insanın, ona en ufak değer vermeyen başka bir insana seneler boyunca nasıl bağlı kalabileceğini. her iletişim kurulduğunda aradaki sevgisizlik aşikar şekilde hissedilirken zihinde bu kadar yoğunca yer edebilmek için o kişi ne yapmış olmalıydı; kötü davranmaktan, umursamamaktan başka bir meziyeti var mıydı ki bu eskiden gelen kudretli hislere neden olan insanın, neydi ki sırrı onun?
 
-tüm arkadaşları onu sayısız kez uyarmışken, yazarın her defasında mevzu bu olduğunda keyfi kaçmışken nasıl bu kadar ısrarcı olunabilirdi?
+tüm arkadaşları onu sayısız kez uyarmışken, yazarın her defasında mevzu bu olduğunda keyfi kaçmışken nasıl bu kadar ısrarcı olunabilirdi bu konuda?
 
 yazar bu sorulara hiçbir zaman cevap veremedi. vermeyi çabaladı, bir süre yara bandı olabileceğini düşündü ama yara bandı olamadı. iyi ki de olamadı. kimse, kimsenin yara bandı olmamalı bu hayatta en başında. 
 
-sadece, sevgi ve ilgisinin çarptığı bu beton duvarı hiçbir şekilde kıramayacağını anladığında büyük bir hayal kırıklığı yaşadı. hiçbir zaman karşısındaki insanın kafasındaki birincil insan değildi, hiçbir zaman karşısındaki insanı heyecanlandırabildiğini hissedemedi, her daim karşısındaki insanın onu, bu çarptığı beton duvar ile karşılaştırdığını düşündü. haksız da sayılmazdı. çocuğu aklından tebrik etti yazar, bir kadının kafasına bu kadar sıkı bir kanca atabilmek için hakikaten farklı biri olmak gerekiyordu belki de. ama yazar onun her zaman beş para etmez bir adam olduğunu düşündü, zaten şimdi de pek bir şey ifade etmiyor.
+sadece, sevgi ve ilgisinin çarptığı bu beton duvarı hiçbir şekilde kıramayacağını anladığında büyük bir hayal kırıklığı yaşadı. hiçbir zaman karşısındaki insanın kafasındaki birincil insan değildi, hiçbir zaman karşısındaki insanı heyecanlandırabildiğini hissedemedi, her daim karşısındaki insanın onu, bu çarptığı beton duvar ile karşılaştırdığını düşündü. haksız da sayılmazdı. çocuğu aklından tebrik etti yazar, bir kadının kafasına bu kadar sıkı bir kanca atabilmek için hakikaten farklı biri olmak gerekiyordu belki de. ama yazar onun her zaman beş para etmez bir adam olduğunu düşündü, zaten şimdi de pek bir şey ifade etmiyor ne düşündüğü.
 
 aylardır görmediği bu çocuk için hala "hoşlanıyorum" diyen kadın, iki ay boyunca hayatının her alanında yanında olmuş bu insan için aynı kelimeyi kullanamamıştı, diline varmamıştı bu kelime. zaten yazar o an anladı her şeyin bittiğini, iki aydır bir illüzyon ile yaşadığını. bu sefer bastıran duygu üzüntü değil, boş vermişlik ve pes etmişlikti.
 
 ![]({{site.baseurl}}/![]({{site.baseurl}}/images/seperation3.jpg)
 
-bu kadın, _gabriel garcia marquez_'i çok severdi. esas sahibi o mudur, yazar bilemez elbet ama maalesef şu an geriye dönüp baktığında ona atfedilen _bittiği için üzülme, yaşandığı için sevin_ öğütlerini pek ciddiye alamıyor. yaşanılanlar için sevindiği oluyor elbette ama birçok şey için de büyük bir pişmanlık duyuyor, "keşke yaşanmasaydı" diyor üzücü şekilde. elbette bunların da en ufak anlamı yok şu vakitte.
+bu kadın, _gabriel garcia marquez_'i çok severdi. esas sahibi o mudur, yazar bilemez elbet ama maalesef şu an geriye dönüp baktığında ona atfedilen _bittiği için üzülme, yaşandığı için sevin_ öğütlerini pek ciddiye alamıyor hüzünlü yazar. yaşanılanlar için sevindiği oluyor elbette ama birçok şey için de büyük bir pişmanlık duyuyor, "keşke yaşanmasaydı" diyor kederli şekilde. elbette bunların da en ufak anlamı yok şu vakitte.
 
-hiçbir zaman görememiş olsa da iskenderun'u, hiçbir zaman tanıyamamış olsa da marcy'i, hiçbir zaman kafasını okşayamamış olsa da daisy'nin, hiçbir zaman yiyememiş olsa da lezzetli bir döner onunla, hiçbir zaman gidememiş olsalar da bir opera'ya beraber, hiçbir zaman bitirememiş olsalar da the office'i; yazar yine de bu insanı tanıdığı için memnun olduğunu hissediyor ve _goodbye kiss_ ile başlayan bu yazıyı, aynı şekilde bitirmek istiyor;
+hiçbir zaman görememiş olsa da iskenderun'u, hiçbir zaman tanıyamamış olsa da marcy'i, hiçbir zaman kafasını okşayamamış olsa da daisy'nin, hiçbir zaman yiyememiş olsa da lezzetli bir döner onunla, hiçbir zaman gidememiş olsalar da bir opera'ya beraber, hiçbir zaman bitirememiş olsalar da _before sunrise_'ı; yazar yine de bu insanı tanıdığı için memnun olduğunu hissediyor ve _goodbye kiss_ ile başlayan bu yazıyı, aynı şekilde bitirmek istiyor;
 
 > turning slowly
 looking back, see
