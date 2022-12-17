@@ -77,9 +77,7 @@ hiçbir zaman görememiş olsa da iskenderun'u, hiçbir zaman tanıyamamış ols
 looking back, see     
 no words can save this     
 you're broken and I'm pissed     
-run along like I'm supposed to    
-be the man I ought to    
-rock and roll sent us insane     
+---  
 i hope someday that we could meet again         
 you go your way     
 and i'll go my way     
