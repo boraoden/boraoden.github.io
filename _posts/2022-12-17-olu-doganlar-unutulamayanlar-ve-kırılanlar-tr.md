@@ -50,7 +50,7 @@ but this love has got to stop
 take a bow and say goodbye     
 let the hours pass on by     
 now you get to feel so high     
----
+---    
 it's over     
 it's all over now    
 
