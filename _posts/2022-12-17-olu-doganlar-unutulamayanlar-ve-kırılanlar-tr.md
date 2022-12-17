@@ -8,6 +8,8 @@ title: 'unutamayan, unutulamayan ve unutturamayan - tr'
 **çok iyi biliyorum ki okuyorsun burayı.
 yapma lütfen, üzme daha fazla kendini. ikimiz de üzünülmesi gerekenden çok daha fazla üzüldük bile.**
 
+---
+
 yazar, bu yazısında, geçmiş birkaç yazısında bahsettiği kişi ve olayları; onlar birtakım değişiklikler ve farklılıklar yaşamış olsa da değiştirme ve düzeltme isteği duymadı. minik tekzipler gereken mevzubahis yazıları olduğu gibi bırakmaya karar verdi, onları silmeyi bile aklından geçirse de bu fikri çabucak kafasından attı.
 
 sadece her şey için minnet duyması gerektiğini biliyor ve bunu samimi şekilde yapıyor, kafası karışık ve hatta çok hafif kırgın, az biraz da kızgın olsa da teşekkür ediyor.
