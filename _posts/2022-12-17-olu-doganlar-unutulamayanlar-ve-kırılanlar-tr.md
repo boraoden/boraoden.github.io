@@ -39,19 +39,19 @@ bolca tartışma yaşandı bu sürede, çift taraflı çok hata yapıldı elbett
 
 bu yazıda bolca alıntı yapacak yazar, beğenmeyen kapıyı örtüp gidebilir hocam. biraz daha _kasabian_ sallamak istiyor ortalığa doğrusu. _bow_'da da şöyle diyorlardı;
 
-> now your friends
-they're all saying that i'm no good
-are you kidding, this is mental
-cause you know what we had was broken from the start
-and we're both standing here
-i'm doubled up with fear
-the hardest words to drop
-but this love has got to stop
-take a bow and say goodbye
-let the hours pass on by
-now you get to feel so high
-it's over
-it's all over now
+> now your friends    
+they're all saying that i'm no good    
+are you kidding, this is mental    
+cause you know what we had was broken from the start     
+and we're both standing here     
+i'm doubled up with fear     
+the hardest words to drop      
+but this love has got to stop     
+take a bow and say goodbye     
+let the hours pass on by     
+now you get to feel so high     
+it's over     
+it's all over now    
 
 ne güzel özetlemiş işte her şeyi. insan, sanatın ve duyguların evrenselliğini bizzat keyif aldığı şarkılarda, kitaplarda görünce daha bir hoş hissediyor. bir o kadar da buruk hissediyor tabii.
 
@@ -73,17 +73,17 @@ bu kadın, _gabriel garcia marquez_'i çok severdi. esas sahibi o mudur, yazar b
 
 hiçbir zaman görememiş olsa da iskenderun'u, hiçbir zaman tanıyamamış olsa da marcy'i, hiçbir zaman kafasını okşayamamış olsa da daisy'nin, hiçbir zaman yiyememiş olsa da lezzetli bir döner onunla, hiçbir zaman gidememiş olsalar da bir opera'ya beraber, hiçbir zaman bitirememiş olsalar da _before sunrise_'ı; yazar yine de bu insanı tanıdığı için memnun olduğunu hissediyor ve _goodbye kiss_ ile başlayan bu yazıyı, aynı şekilde bitirmek istiyor;
 
-> turning slowly
-looking back, see
-no words can save this
-you're broken and I'm pissed
-run along like I'm supposed to
-be the man I ought to
-rock and roll sent us insane
-i hope someday that we could meet again   
-you go your way
-and i'll go my way
-no words can save us
-this lifestyle made us
+> turning slowly     
+looking back, see     
+no words can save this     
+you're broken and I'm pissed     
+run along like I'm supposed to    
+be the man I ought to    
+rock and roll sent us insane     
+i hope someday that we could meet again         
+you go your way     
+and i'll go my way     
+no words can save us     
+this lifestyle made us      
 
 **her şey için teşekkürler.**
