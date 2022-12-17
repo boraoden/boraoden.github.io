@@ -63,11 +63,11 @@ yazar bu sorulara hiçbir zaman cevap veremedi. vermeyi çabaladı, bir süre ya
 
 sadece, sevgi ve ilgisinin çarptığı bu beton duvarı hiçbir şekilde kıramayacağını anladığında büyük bir hayal kırıklığı yaşadı. hiçbir zaman karşısındaki insanın kafasındaki birincil insan değildi, hiçbir zaman karşısındaki insanı heyecanlandırabildiğini hissedemedi, her daim karşısındaki insanın onu, bu çarptığı beton duvar ile karşılaştırdığını düşündü. haksız da sayılmazdı. çocuğu aklından tebrik etti yazar, bir kadının kafasına bu kadar sıkı bir kanca atabilmek için hakikaten farklı biri olmak gerekiyordu belki de. ama yazar onun her zaman beş para etmez bir adam olduğunu düşündü, zaten şimdi de pek bir şey ifade etmiyor ne düşündüğü.
 
-aylardır görmediği bu çocuk için hala "hoşlanıyorum" diyen kadın, iki ay boyunca hayatının her alanında yanında olmuş bu insan için aynı kelimeyi kullanamamıştı, diline varmamıştı bu kelime. zaten yazar o an anladı her şeyin bittiğini, iki aydır bir illüzyon ile yaşadığını. bu sefer bastıran duygu üzüntü değil, boş vermişlik ve pes etmişlikti.
+aylardır görmediği bu çocuk için hala "hoşlanıyorum" diyen kadın, iki ay boyunca hayatının her alanında yanında olmuş bu insan için aynı kelimeyi kullanamamıştı, diline varmamıştı sözcükler. zaten yazar o an anladı her şeyin bittiğini, iki aydır bir illüzyon ile yaşadığını. bu sefer bastıran duygu üzüntü değil, boş vermişlik ve pes etmişlikti.
 
 ![]({{site.baseurl}}/images/seperation3.jpg)
 
-bu kadın, _gabriel garcia marquez_'i çok severdi. esas sahibi o mudur, yazar bilemez elbet ama maalesef şu an geriye dönüp baktığında ona atfedilen _bittiği için üzülme, yaşandığı için sevin_ öğütlerini pek ciddiye alamıyor hüzünlü yazar. yaşanılanlar için sevindiği oluyor elbette ama birçok şey için de büyük bir pişmanlık duyuyor, "keşke yaşanmasaydı" diyor kederli şekilde. tabii bunların da en ufak anlamı yok şu vakitte.
+kadın, _gabriel garcia marquez_'i çok severdi. esas sahibi o mudur, yazar bilemez elbet ama maalesef şu an geriye dönüp baktığında ona atfedilen _bittiği için üzülme, yaşandığı için sevin_ öğütlerini pek ciddiye alamıyor hüzünlü yazar. yaşanılanlar için sevindiği oluyor elbette ama birçok şey için de büyük bir pişmanlık duyuyor, "keşke yaşanmasaydı" diyor kederli şekilde. tabii bunların da en ufak anlamı yok şu vakitte.
 
 hiçbir zaman görememiş olsa da iskenderun'u, hiçbir zaman tanıyamamış olsa da marcy'i, hiçbir zaman kafasını okşayamamış olsa da daisy'nin, hiçbir zaman yiyememiş olsa da lezzetli bir döner onunla, hiçbir zaman gidememiş olsalar da bir opera'ya beraber, hiçbir zaman bitirememiş olsalar da _before sunrise_'ı; yazar yine de bu insanı tanıdığı için memnun olduğunu hissediyor ve _goodbye kiss_ ile başlayan bu yazıyı, aynı şekilde bitirmek istiyor;
 
@@ -85,3 +85,5 @@ no words can save us
 this lifestyle made us      
 
 **her şey için teşekkürler.**
+
+![]({{site.baseurl}}/images/seperation4.jpg)
