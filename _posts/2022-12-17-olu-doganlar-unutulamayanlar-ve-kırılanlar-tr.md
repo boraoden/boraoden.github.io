@@ -21,9 +21,9 @@ we met with a goodbye kiss
 
 diye başlıyordu söze. 15 ekim gününün öğlen vakitlerinden beri bu parçayı çok sık düşünüyor yazar. ölü doğan bir ilişkiydi muhakkak bu; uyumsuzluk, ilk dakikalarından beri belli ediyordu kendini ama insan bu işte. rasyonel düşünmeye itmek ne kadar doğru ki onu?
 
-onunla hakikaten bir elveda öpücüğü ile tanışmıştı çünkü yazar, hem ilk açtığı şarkı oydu onunlayken hem de geleceğinin olmadığı apaçık parlıyordu aralarındaki şeyin. çürümeye mahkumdu kuşkusuz.
+onunla hakikaten bir elveda öpücüğü ile tanışmıştı çünkü yazar, hem ilk açtığı şarkı oydu onunlayken hem de aralarındaki şeyin geleceğinin olmadığı apaçık parlıyordu. çürümeye mahkumdu kuşkusuz.
 
-yine de devam ettiler elbette, her şeyiyle çok farklı gündü bir gündü yazar için ve _ursula_ teyzenin da dediği gibi;
+yine de devam ettiler elbette, her şeyiyle çok farklı bir gündü yazar için ve _ursula_ teyzenin da dediği gibi;
 
 > ömrümce görmezsem de bir daha,
 eh diyebilirim yine de,
