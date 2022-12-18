@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: post
 categories: personal
 permalink: ender-gelisen-osasuna-ataklari-tr
