@@ -11,7 +11,7 @@ yapma lütfen, üzme daha fazla kendini. ikimiz de üzünülmesi gerekenden çok
 --- --->
 yazar, bu yazısında, geçmiş birkaç yazısında bahsettiği kişi ve olayları; onlar birtakım değişiklikler ve farklılıklar yaşamış olsa da değiştirme ve düzeltme isteği duymadı. minik tekzipler gereken mevzubahis yazıları olduğu gibi bırakmaya karar verdi, onları silmeyi bile aklından geçirse de bu fikri çabucak kafasından attı.
 
-sadece her şey için minnet duyması gerektiğini biliyor ve bunu samimi şekilde yapıyor, kafası karışık ve kırgın, biraz da kızgın olsa da teşekkür ediyor.
+sadece her şey için minnet duyması gerektiğini biliyor ve bunu samimi şekilde yapıyor, kafası karışık ve hatta çok hafif kırgın, az biraz da kızgın olsa da teşekkür ediyor.
 
 ---
 
@@ -32,7 +32,7 @@ bir kez orada bulundum.
 
 nasıl ilerlediğini anlamadan geçti işte iki ay, okuyucu düşünebilir burada "iki ay ne ki, ne bu tantana hocam?". haklı da elbette, çok haklı ama ilkler ilham kaynağı oluyor işte insana bir şekilde, bazı duyguları ve düşünceleri; unutulan, zor anımsanan hatıramsılara dönüşmeden evvel ölümsüzleştirmek istiyor kişi hani.
 
-![]({{site.baseurl}}/images/seperation4.jpg)
+![]({{site.baseurl}}/images/eosa3.jpg)
 
 bolca tartışma yaşandı bu sürede, çift taraflı çok hata yapıldı şüphesiz, her seferinde daha da kuvvetlice sarılmak istedi yazar, tutunmak istedi. bu isteği pek nadir karşılandı ama suç aranacaksa birinde biraz da kendini suçlamalıydı yazar zira ısrar etti sanırım her seferinde, kolay bağlandı, tez duygusallaştı. böyle davranmamalıydı, bunu biliyordu. yine de engel olamadı.
 
@@ -83,5 +83,7 @@ no words can save us
 this lifestyle made us      
 
 hiçbir zaman görememiş olsa da iskenderun'u, hiçbir zaman tanıyamamış olsa da marcy'i, hiçbir zaman kafasını okşayamamış olsa da daisy'nin, hiçbir zaman yiyememiş olsa da lezzetli bir döner onunla, hiçbir zaman gidememiş olsalar da bir opera'ya beraber, hiçbir zaman bitirememiş olsalar da _before sunrise_'ı, hiçbir zaman tadamamış olsa da üçüncü kez o kurabiyeleri, hiçbir zaman bir daha beraber kemiremeyecek olsalar da _biscolatalarını_ yan yana; yazar yine de bu insanı tanıdığı için memnun olduğunu biliyor ve _goodbye kiss_ ile başlayan bu yazıyı, aynı şekilde bitirmek istedi.
+
+**her şey için teşekkürler.**
 
 ![]({{site.baseurl}}/images/seperation2.jpg)
