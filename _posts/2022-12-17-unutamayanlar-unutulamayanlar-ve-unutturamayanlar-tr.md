@@ -82,6 +82,6 @@ and i'll go my way
 no words can save us     
 this lifestyle made us      
 
-hiçbir zaman görememiş olsa da iskenderun'u, hiçbir zaman tanıyamamış olsa da marcy'i, hiçbir zaman kafasını okşayamamış olsa da daisy'nin, hiçbir zaman yiyememiş olsa da lezzetli bir döner onunla, hiçbir zaman gidememiş olsalar da bir opera'ya beraber, hiçbir zaman bitirememiş olsalar da _before sunrise_'ı, hiçbir zaman tadamamış olsa da üçüncü kez o kurabiyeleri, hiçbir zaman bir daha beraber kemiremeyecek olsalar da _biscolatalarını_ yan yana; yazar yine de bu insanı tanıdığı için memnun olduğunu biliyor ve _goodbye kiss_ ile başlayan bu yazıyı, aynı şekilde bitirmek istedi.
+hiçbir zaman görememiş olsa da iskenderun'u, hiçbir zaman tanıyamamış olsa da marcy'i, hiçbir zaman kafasını okşayamamış olsa da daisy'nin, hiçbir zaman yiyememiş olsa da lezzetli bir döner onunla, hiçbir zaman gidememiş olsalar da bir opera'ya beraber, hiçbir zaman bitirememiş olsalar da _before sunrise_'ı, hiçbir zaman tadamamış olsa da üçüncü kez o kurabiyeleri, hiçbir zaman bir daha beraber kemiremeyecek olsalar da _biscolatalarını_ yan yana; yazar yine de bu insanı tanıdığı için memnun olduğunu biliyor.
 
 ![]({{site.baseurl}}/images/seperation2.jpg)
