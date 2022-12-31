@@ -5,6 +5,6 @@ categories: personal
 permalink: uc-kutu-bira-ve-iki-kupa-kahve-tr.md
 title: üç kutu bira ve iki kupa kahve
 ---
-## A New Post
+bugünkü eşlikçilerim bunlar, evet.
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+yalnız geçirdiğim ilk yılbaşı oluyor bu, pek bir hoş.
