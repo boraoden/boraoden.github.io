@@ -8,11 +8,5 @@ title: >-
   a sincere and humble guide for students who want to enjoy stockholm on a
   budget - en
 ---
+i have been eagering to write this low-caliber yet heartfelt stockholm guide for months but exams, bitter experiences and tons of busyness have kept me behind. but here i am now, with your comprehensive stockholm on your screens.
 
-⚠️⚠️ under construction ⚠️⚠️
-
-böyle bir rehber hazırlamayı uzun zamandır düşünüyordum ancak eylül başından beri erteledikçe erteledim, sonra okul ve hastane meşguliyeti artınca iyice yalan oldu fakat vakit bu rehberi tüm öğrenci milletine, hatta bütün insanlığa armağan etme vaktidir.
-
-artık başlayalım.
-
-.. to be continued ..
