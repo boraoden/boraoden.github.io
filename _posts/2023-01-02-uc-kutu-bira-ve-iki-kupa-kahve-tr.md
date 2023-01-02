@@ -27,6 +27,5 @@ kendine de hak verirsin bir taraftan, bitmesin istersin bazı şeyler. zamanı g
 
 ![]({{site.baseurl}}/images/at1.jpg)
 
-eskişehir'den fırçalar gelmeye devam ediyordur. 
-
+eskişehir'den fırçalar gelmeye devam ediyordur. hayret edersin söylenenleri görünce. karşı tarafın sana böyle baktığını görünce buz gibi bir duş almış gibi hissedersin. yaşananların bir anlamı yoktur, yaptığın her şey suya yazılmıştır karşı tarafın gözünde. kızdıkça kızar sana. yapmadığın şeylerle suçlar seni, bakakalırsın. o mesajı atarken içinde var olan "belki devam ederiz, ha" umut kırıntısının üstüne basar ve dakikalarca çiğner onu eskişehir'deki. yanında olduğun zamanların, destek çıktığın krizlerin, sınav günü telaşlarının, geçirdiğiniz hiçbir saniyenin önemi yoktur onun gözünde, sen sadece "cinsellik arayan yalnız bir adam"sındır ona göre.
 
