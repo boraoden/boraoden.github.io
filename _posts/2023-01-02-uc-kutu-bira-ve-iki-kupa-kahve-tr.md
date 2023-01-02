@@ -5,9 +5,9 @@ categories: personal
 permalink: uc-kutu-bira-ve-iki-kupa-kahve-tr
 title: üç kutu bira ve iki kupa kahve - tr
 ---
-yoldaşındır bunlar soğuk evinde tek başına girerken yeni yıla. ailenin planları vardır, arkadaşların evine dönmüştür, sevilen insanlarsa çoktan hem kalbinden hem de evinden kilometrelerce ötededir. [doğum gününde yalnız olmayı](https://boraoden.net/dogum-gununde-yalniz-olmak-tr) iyi biliyorsundur, onun yanında hiçbir şeydir elbette bu. nedir ki yılbaşı dediğin nihayetinde, değil mi?
+yoldaşındır bunlar soğuk evinde tek başına girerken yeni yıla. ailenin planları vardır, arkadaşların evine dönmüştür, sevilen insanlarsa çoktan hem kalbinden hem de evinden kilometrelerce ötededir. [doğum gününde yalnız olmayı](https://boraoden.net/dogum-gununde-yalniz-olmak-tr) iyi biliyorsundur, haliyle nedir ki yılbaşı dediğin nihayetinde, değil mi?
 
-değil işte, hele suyu düşmüş planlarsa söz konusu olan, daha çok koyar bu adama.. 
+değil işte, hele suyu düşmüş planlarsa söz konusu olan, daha çok koyar bu insana.
 
 mağdur hissedersin en başta, "başıma bu gelmemeliydi, hak etmedim böylesini" dersin. anımsarsın ardından [bir çuval inciri](https://boraoden.net/bir-cuval-incir-tr) nasıl berbat ettiğini, "hak ediyorumdur belki de" dersin.
 
@@ -39,7 +39,7 @@ yeni sene ile beraber yeni sayfalar açman gerektiğini hissetsen de eskişehir'
 
 "2023'te sert biri olacağım" desen de huylu huyundan vazgeçmez bora. huylu huyundan vazgeçmez. "ben yine de sözlerimi vereyim" dersin süperegona. anka kuşu misali küllerinden canlanmak istersin, hedefin budur artık, zorlu bir süreç seni bekliyordur. bir kez daha yaparsın final uyarını; "kimseye kolayca bağlanma, kimseye kolayca anlam yükleme, kimseye duygularını bu kadar belli etme" şeklinde. "artık yeter" diye söylenirsin. bir daha kaleme almayacaksındır böyle yazılar ama alacağını bilirsin.
 
-yeni yılın ilk günü biterken, saat on bir olmadan girersin yatağa, zor uyursun ama. gecenin ortasında hasbelkader uykudan uyanırsın ve kapanmaz bir daha gözlerin. klavyenin başına oturtur seni düşünceler 2 ocak saat 15.23 gibi ve son bir veda yazısı yazarsın. yeni bir yelken açman gerektiğini fark edersin, son bir kez "bir daha onunla ilgili yazmayacağım, yeter" dersin ama komik gelir daha ağzından çıkmadan bu sözler, yazmaman mümkün değildir. deneyeceksindir sadece. 
+yeni yılın ilk günü biterken, saat on bir olmadan girersin yatağa, zor uyursun ama. gecenin ortasında hasbelkader uykudan uyanırsın ve kapanmaz bir daha gözlerin. klavyenin başına oturtur seni düşünceler 2 ocak saat 15.23 gibi ve son bir veda yazısı yazarsın. yeni bir yelken açman gerektiğini fark edersin, son bir kez "bir daha onunla ilgili yazmayacağım, yeter" dersin ama komik gelir daha ağzından çıkmadan bu sözler, yazmaman mümkün değildir. deneyeceksindir belki. "sevmiştim sadece" diye bir fısıltı çıkar ağzından, "sevmiştim".
 
 "şerefe!" dersin yine de yaşanmışlıklara, o ana [en uygun şarkıyı](https://open.spotify.com/track/4oS31voWBKl6L9eJV6I4wA?si=47ed3dc80ad64b15) açarsın.
 
