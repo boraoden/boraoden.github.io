@@ -21,8 +21,12 @@ saatler geçer, tek dakika evden çıkasın yoktur senenin ilk gününde, "bu ö
 
 farkına varmadan akşam olur işte sıkıcı ve bomboş evinde. kendini gün boyu lüzumsuz şeylerle meşgul etmişsindir vakit öldürmek için.
 
-o an tutamazsın kendini. eskişehir'e bir sesli mesaj yollarsın. yollarken "ne beklediğini bilmiyorsundur" yazasın gelir şu satırları yazarken ama adın gibi biliyorsundur ne beklediğini. "bir zeytin dalı gelir belki karşıdan" dersin. gelmez elbette, neden gelsin ki onca şeyden sonra?
+o an tutamazsın kendini. eskişehir'e bir sesli mesaj yollarsın. "o mesajı yollarken 'ne beklediğini bilmiyorsundur' yazasın" gelir tam şu satırları kaleme dökerken ama adın gibi biliyorsundur ne beklediğini. "bir zeytin dalı gelir belki karşıdan" dersin. gelmez elbette, neden gelsin ki onca şeyden sonra? fırça atar karşı taraf sana, bunun kaçıncı kez olduğunu anımsayamazsın bile. "unut beni artık" der adeta sana, "yine bir salaklık yaptın ya bora" düşüncesi tokat gibi çarpar yüzüne.
+
+kendine de hak verirsin bir taraftan, bitmesin istersin bazı şeyler. zamanı geriye almak istersin fakat yine bilirsin ki üç yüz kez geri alsan da üç yüz birinci de değişmeyeceksindir bora, değişmeyeceksindir. aradığın şeyler sadece filmlerde oluyordur, bilirsin de bunu ama kulaç atarsın yine de, tutunmaya çalışırsın. bir filmi dört oturuşta da olsa bitiremeyeceğinizi fark edersin tekrardan. artık yoktur o.
 
 ![]({{site.baseurl}}/images/at1.jpg)
+
+eskişehir'den fırçalar gelmeye devam ediyordur. 
 
 
