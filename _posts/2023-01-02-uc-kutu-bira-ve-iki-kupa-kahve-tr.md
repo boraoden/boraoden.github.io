@@ -13,7 +13,7 @@ mağdur hissedersin en başta, "başıma bu gelmemeliydi, hak etmedim böylesini
 
 o an bir mesaj gelir, istediğin kişidendir mesaj ama istediğin şekilde olmadığını bilirsin. laf olsun diye bir konuşma döner aranızda. bu sefer yazan taraf eskişehir'de bir odadan seslenmiştir sana.
 
-ertesi gün gelir.
+uyursun buz gibi yatağında, kanındaki alkole verirsin seni uyutma görevini, senenin ilk günü gelir.
 
 senenin ilk günü seni karanlık kucaklarına almıştır. yatağın soğuk, ruhun buruk, zihnin uyuşuktur. alışkanlıktan bir kahve daha koyarsın başında dünden kalma bir ağrı varken. beynindeki sinapsların kafeine hüzün ve yalnızlığa alıştıkları kadar alışmadığını umarsın. 
 
