@@ -27,5 +27,10 @@ kendine de hak verirsin bir taraftan, bitmesin istersin bazı şeyler. zamanı g
 
 ![]({{site.baseurl}}/images/at1.jpg)
 
-eskişehir'den fırçalar gelmeye devam ediyordur. hayret edersin söylenenleri görünce. karşı tarafın sana böyle baktığını görünce buz gibi bir duş almış gibi hissedersin. yaşananların bir anlamı yoktur, yaptığın her şey suya yazılmıştır karşı tarafın gözünde. kızdıkça kızar sana. yapmadığın şeylerle suçlar seni, bakakalırsın. o mesajı atarken içinde var olan "belki devam ederiz, ha" umut kırıntısının üstüne basar ve dakikalarca çiğner onu eskişehir'deki. yanında olduğun zamanların, destek çıktığın krizlerin, sınav günü telaşlarının, geçirdiğiniz hiçbir saniyenin önemi yoktur onun gözünde, sen sadece "cinsellik arayan yalnız bir adam"sındır ona göre.
+eskişehir'den fırçalar gelmeye devam ediyordur. hayret edersin söylenenleri görünce. karşı tarafın sana böyle baktığını görünce buz gibi bir duş almış gibi hissedersin. yaşananların bir anlamı yoktur, yaptığın her şey suya yazılmıştır karşı tarafın gözünde. kızdıkça kızar sana. yapmadığın şeylerle suçlar seni, bakakalırsın. o mesajı atarken içinde var olan "belki devam ederiz, ha" umut kırıntısının üstüne basar ve dakikalarca çiğner onu eskişehir'deki. yanında olduğun zamanların, destek çıktığın krizlerin, sınav günü telaşlarının, geçirdiğiniz hiçbir saniyenin önemi yoktur onun gözünde, sadece "cinsellik arayan yalnız bir adam"sındır ona göre. 
 
+yeni yılın ilk günü biterken saat on bir olmadan girersin yatağa, zor uyursun ama. gecenin ortasında hasbelkader uykudan uyanırsın ve kapanmaz bir daha gözlerin. klavyenin başına oturtur seni düşünceler 2 ocak saat 15.23 gibi ve son bir veda yazısı yazarsın. yeni bir sayfa açman gerektiğini fark edersin, "bir daha onunla ilgili yazmayacağım, yeter" dersin ama komik gelir daha ağzından çıkmadan bu sözler, yazmaman mümkün değildir.
+
+"şerefe!" dersin yine de yaşanmışlıklara, [ana en uygun şarkıyı](https://open.spotify.com/track/4oS31voWBKl6L9eJV6I4wA?si=47ed3dc80ad64b15) açarsın.
+
+biran yoktur, kahve demleyecek mecalin kalmamıştır, tek tadını alabildiğin dudaklarındaki tuzlu gözyaşlarıdır.
