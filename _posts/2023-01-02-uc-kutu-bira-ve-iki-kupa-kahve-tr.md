@@ -15,7 +15,7 @@ o an bir mesaj gelir, istediğin kişidendir mesaj ama istediğin şekilde olmad
 
 uyursun buz gibi yatağında, kanındaki alkole verirsin seni uyutma görevini, senenin ilk günü gelir.
 
-o ilk gün daha ilk dakikalarından seni karanlık kucaklarına almıştır. yatağın soğuk, ruhun buruk, zihnin uyuşuktur. alışkanlıktan kendine bir kahve daha koyarsın başında dünden kalma bir ağrı varken. beynindeki sinapsların kafeine hüzün ve yalnızlığa alıştıkları kadar alışmadığını umarsın. 
+o ilk gün daha ilk dakikalarından seni karanlık kucaklarına almıştır. yatağın soğuk, ruhun buruk, zihnin uyuşuktur. alışkanlıktan kendine bir kahve daha koyarsın başında dünden kalma bir ağrı varken. beynindeki sinapslarının, kafeine; hüzün ve yalnızlığa alıştıkları kadar alışmadığını ummaktan başka çaren yoktur. 
 
 saatler geçer, tek dakika evden çıkasın yoktur senenin ilk gününde, "bu ömür nasıl geçecek ya" dersin. ahmak ahmak dolaşırsın evin içinde. takatin olsa bir [makarna](https://boraoden.net/makarna-tr) suyu koyacaksındır kendine ama ona bile güç bulamazsın, "ne yaptım ben?" dediğinle kalırsın. "nasıl içine tükürdüm böyle her şeyin", "neden göz göre göre tüm hatalara devam ettim" dersin. verecek cevabın yoktur hiçbirine. "tecrübesizlik" diyesi gelir dilinin ama inanmazsın sen kendine. "aptallık" daha uygun kaçıyordur sanki.
 
