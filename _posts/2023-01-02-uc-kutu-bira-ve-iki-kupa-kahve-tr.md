@@ -27,12 +27,24 @@ kendine de hak verirsin bir taraftan, bitmesin istersin bazı şeyler. zamanı g
 
 ![]({{site.baseurl}}/images/at1.jpg)
 
-eskişehir'den fırçalar gelmeye devam ediyordur. hayret edersin söylenenleri görünce. karşı tarafın sana böyle baktığını görünce buz gibi bir duş almış gibi hissedersin. yaşananların bir anlamı yoktur, yaptığın her şey suya yazılmıştır karşı tarafın gözünde. kızdıkça kızar sana. yapmadığın şeylerle suçlar seni, bakakalırsın. o mesajı atarken içinde var olan "belki devam ederiz, ha" umut kırıntısının üstüne basar ve dakikalarca çiğner onu eskişehir'deki. yanında olduğun zamanların, destek çıktığın krizlerin, sınav günü telaşlarının, geçirdiğiniz hiçbir saniyenin önemi yoktur onun gözünde, sadece "cinsellik arayan yalnız bir adam"sındır ona göre. 
+eskişehir'den fırçalar gelmeye devam ediyordur. hayret edersin söylenenleri görünce. karşı tarafın sana böyle baktığını görünce buz gibi bir duş almış gibi hissedersin. yaşananların bir anlamı yoktur, yaptığın her şey suya yazılmıştır karşı tarafın gözünde. kızdıkça kızar sana. yapmadığın şeylerle suçlar seni, bakakalırsın. o mesajı atarken içinde var olan "belki devam ederiz, ha" umut kırıntısının üstüne basar ve dakikalarca çiğner onu eskişehir'deki. yanında olduğun zamanların, destek çıktığın krizlerin, sınav günü telaşlarının, geçirdiğiniz hiçbir saniyenin önemi yoktur onun gözünde, sadece "cinsellik arayan yalnız bir adam"sındır ona göre, hatta "onunla görülmek dahi istememişsindir", çok üzer bu dedikleri.
 
-hatalarının olduğunu bilsen de hazımsayamazsın bu kadar kolay suçlanmayı, zaten kendini günlerdir suçluyorsundur, ağır gelir bu sefer denilenler.
+hatalarının olduğunu bilsen de hazımsayamazsın bu kadar kolay suçlanmayı, zaten kendini günlerdir suçluyorsundur, ağır gelir bu sefer denilenler. kendini hakikaten kötü hissedersin, hiç olmadığı kadar. kıçına tekme vurulmak böyle bir şeydir işte okuyucu.
 
-yeni yılın ilk günü biterken saat on bir olmadan girersin yatağa, zor uyursun ama. gecenin ortasında hasbelkader uykudan uyanırsın ve kapanmaz bir daha gözlerin. klavyenin başına oturtur seni düşünceler 2 ocak saat 15.23 gibi ve son bir veda yazısı yazarsın. yeni bir sayfa açman gerektiğini fark edersin, "bir daha onunla ilgili yazmayacağım, yeter" dersin ama komik gelir daha ağzından çıkmadan bu sözler, yazmaman mümkün değildir.
+bir kez daha dersin kendine "hiçbir insana bu kadar bağlanma, bora" diye ama artık komik geliyordur bu öz-uyarılar sana. seni duygusallığın bitirdiğini görürsün yine. kadınlar karşısında tek damla gözyaşı dökmemek gerektiğini düşünürsün, erkek dediğin tüm duygularını içinde yaşamalı, dışarıya en ufak bir boşluktan fire vermemelidir. aranızdaki güzel sinerjiyi bitiren onlarca şeyden birinin de bu olduğunu fark edersin.
+
+eskişehir'dekini "kendinden soğutmuş" olman kendine daha da kızmana neden olur, tüm hatanın senin omuzlarında olduğu düşüncesi içini kemirir durur, bir çuval inciri berbat etmenin vicdana verdiği zararı tahmin edemezsin okuyucu. laf anlamazlığına, kıt akıllılığına yanarsın. net bir şekilde demiştir karşı taraf sana; "bir zamanlar hoşlanmıştım, şimdiyse soğudum ve hoşlanmıyorum". bıçak gibi gelir bu sözler, suçlanmak kadar ağır giden ne vardır insana şu dünyada, hak etmediğini düşündüğün suçlamalar kadar insanı yaralayan bir şey var mıdır?
+
+yeni sene ile beraber yeni sayfalar açman gerektiğini hissetsen de eskişehir'deki tüm mürekkebini bitirmiştir, önüne çıkacak beyaz sayfalara ne kadar iz bırakabileceğinden emin olamazsın.
+
+"2023'te sert biri olacağım" desen de huylu huyundan vazgeçmez bora. huylu huyundan vazgeçmez. "ben yine de sözlerimi vereyim" dersin süperegona. anka kuşu misali küllerinden canlanmak istersin, hedefin budur artık, zorlu bir süreç seni bekliyordur. bir kez daha yaparsın final uyarını; "kimseye kolayca bağlanma, kimseye kolayca anlam yükleme, kimseye duygularını bu kadar belli etme" şeklinde. "artık yeter" diye söylenirsin. bir daha kaleme almayacaksındır böyle yazılar ama alacağını bilirsin.
+
+yeni yılın ilk günü biterken, saat on bir olmadan girersin yatağa, zor uyursun ama. gecenin ortasında hasbelkader uykudan uyanırsın ve kapanmaz bir daha gözlerin. klavyenin başına oturtur seni düşünceler 2 ocak saat 15.23 gibi ve son bir veda yazısı yazarsın. yeni bir yelken açman gerektiğini fark edersin, son bir kez "bir daha onunla ilgili yazmayacağım, yeter" dersin ama komik gelir daha ağzından çıkmadan bu sözler, yazmaman mümkün değildir. deneyeceksindir sadece. 
 
 "şerefe!" dersin yine de yaşanmışlıklara, o ana [en uygun şarkıyı](https://open.spotify.com/track/4oS31voWBKl6L9eJV6I4wA?si=47ed3dc80ad64b15) açarsın.
+
+hayat seni bekliyor bora; tanışılacak insanlar, görülecek memleketler, yenilecek yemekler, yapılacak hatalar, düzeltilecek deneyimler, öpülecek dudaklar, okşanacak saçlar, izlenecek filmler, geçilecek sınavlar var önünde ve gerinde zamanın unutturacakları kuşkusuz.
+
+saat 4.44'ü görmüştür.
 
 biran yoktur, kahve demleyecek mecalin kalmamıştır, tek tadını alabildiğin dudaklarındaki tuzlu gözyaşlarıdır.
