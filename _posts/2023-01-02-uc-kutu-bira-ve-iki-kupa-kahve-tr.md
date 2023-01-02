@@ -11,9 +11,9 @@ değil işte, hele suya düşmüş planlarsa söz konusu olan, daha çok koyar b
 
 mağdur hissedersin en başta, "başıma bu gelmemeliydi, hak etmedim böylesini" dersin. anımsarsın ardından [bir çuval inciri](https://boraoden.net/bir-cuval-incir-tr) nasıl berbat ettiğini, "hak ediyorumdur belki de" dersin.
 
-o an bir mesaj gelir, istediğin kişidendir mesaj ama istediğin şekilde olmadığını bilirsin. laf olsun diye bir konuşma döner aranızda. bu sefer yazan taraf eskişehir'de bir odadan seslenmiştir sana.
+o an bir mesaj gelir, istediğin kişidendir mesaj ama istediğin şekilde olmadığını bilirsin. laf olsun diye bir konuşma döner aranızda. bu sefer yazan taraf eskişehir'de bir odadan seslenmiştir sana, seslendiğiyle kalır öyle.
 
-uyursun buz gibi yatağında, kanındaki alkole verirsin seni uyutma görevini, senenin ilk günü gelir.
+sen de uyursun buz gibi yatağında, kanındaki alkole verirsin seni uyutma görevini, senenin ilk günü gelir.
 
 o ilk gün daha ilk dakikalarından seni karanlık kucaklarına almıştır. yatağın soğuk, ruhun buruk, zihnin uyuşuktur. alışkanlıktan kendine bir kahve daha koyarsın başında dünden kalma bir ağrı varken. beynindeki sinapslarının, kafeine; hüzün ve yalnızlığa alıştıkları kadar alışmadığını ummaktan başka çaren yoktur. 
 
