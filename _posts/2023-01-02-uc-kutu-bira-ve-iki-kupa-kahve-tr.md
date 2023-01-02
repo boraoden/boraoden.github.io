@@ -7,11 +7,11 @@ title: üç kutu bira ve iki kupa kahve - tr
 ---
 yoldaşındır bunlar soğuk evinde tek başına girerken yeni yıla. ailenin planları vardır, arkadaşların evine dönmüştür, sevilen insanlarsa çoktan hem kalbinden hem de evinden kilometrelerce ötededir. [doğum gününde yalnız olmayı](https://boraoden.net/dogum-gununde-yalniz-olmak-tr) iyi biliyorsundur, onun yanında hiçbir şeydir elbette bu. nedir ki yılbaşı dediğin nihayetinde, değil mi?
 
-değil. 
+değil işte, hele suyu düşmüş planlarsa söz konusu olan, daha çok koyar bu adama.. 
 
 mağdur hissedersin en başta, "başıma bu gelmemeliydi, hak etmedim böylesini" dersin. anımsarsın ardından [bir çuval inciri](https://boraoden.net/bir-cuval-incir-tr) nasıl berbat ettiğini, "hak ediyorumdur belki de" dersin.
 
-o an bir mesaj gelir, istediğin kişidendir mesaj ama istediğin çerçevede olmadığını bilirsin. laf olsun diye bir konuşma döner aranızda. bu sefer yazan taraf eskişehir'de bir odadan seslenmiştir sana.
+o an bir mesaj gelir, istediğin kişidendir mesaj ama istediğin şekilde olmadığını bilirsin. laf olsun diye bir konuşma döner aranızda. bu sefer yazan taraf eskişehir'de bir odadan seslenmiştir sana.
 
 ertesi gün gelir.
 
@@ -25,7 +25,7 @@ o an tutamazsın kendini. eskişehir'e bir sesli mesaj yollarsın. "o mesajı yo
 
 kendine de hak verirsin bir taraftan, bitmesin istersin bazı şeyler. zamanı geriye almak istersin fakat yine bilirsin ki üç yüz kez geri alsan da üç yüz birinci de değişmeyeceksindir bora, değişmeyeceksindir. aradığın şeyler sadece filmlerde oluyordur, bilirsin de bunu ama kulaç atarsın yine de, tutunmaya çalışırsın. bir filmi dört oturuşta da olsa bitiremeyeceğinizi fark edersin tekrardan. artık yoktur o.
 
-![]({{site.baseurl}}/images/at1.jpg)
+![]({{site.baseurl}}/images/at2.jpg)
 
 eskişehir'den fırçalar gelmeye devam ediyordur. hayret edersin söylenenleri görünce. karşı tarafın sana böyle baktığını görünce buz gibi bir duş almış gibi hissedersin. yaşananların bir anlamı yoktur, yaptığın her şey suya yazılmıştır karşı tarafın gözünde. kızdıkça kızar sana. yapmadığın şeylerle suçlar seni, bakakalırsın. o mesajı atarken içinde var olan "belki devam ederiz, ha" umut kırıntısının üstüne basar ve dakikalarca çiğner onu eskişehir'deki. yanında olduğun zamanların, destek çıktığın krizlerin, sınav günü telaşlarının, geçirdiğiniz hiçbir saniyenin önemi yoktur onun gözünde, sadece "cinsellik arayan yalnız bir adam"sındır ona göre, hatta "onunla görülmek dahi istememişsindir", çok üzer bu dedikleri.
 
