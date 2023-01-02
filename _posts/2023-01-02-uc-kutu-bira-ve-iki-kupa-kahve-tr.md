@@ -7,7 +7,7 @@ title: üç kutu bira ve iki kupa kahve - tr
 ---
 yoldaşındır bunlar soğuk evinde tek başına girerken yeni yıla. ailenin planları vardır, arkadaşların evine dönmüştür, sevilen insanlarsa çoktan hem kalbinden hem de evinden kilometrelerce ötededir. [doğum gününde yalnız olmayı](https://boraoden.net/dogum-gununde-yalniz-olmak-tr) iyi biliyorsundur, haliyle nedir ki yılbaşı dediğin nihayetinde, değil mi?
 
-değil işte, hele suyu düşmüş planlarsa söz konusu olan, daha çok koyar bu insana.
+değil işte, hele suya düşmüş planlarsa söz konusu olan, daha çok koyar bu insana.
 
 mağdur hissedersin en başta, "başıma bu gelmemeliydi, hak etmedim böylesini" dersin. anımsarsın ardından [bir çuval inciri](https://boraoden.net/bir-cuval-incir-tr) nasıl berbat ettiğini, "hak ediyorumdur belki de" dersin.
 
