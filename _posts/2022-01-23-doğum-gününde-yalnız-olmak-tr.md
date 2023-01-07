@@ -2,7 +2,7 @@
 published: true
 layout: post
 category: personal
-categories: personal eksi
+categories: personal eksi best
 permalink: dogum-gununde-yalniz-olmak-tr
 title: doğum gününde yalnız olmak - tr
 ---
