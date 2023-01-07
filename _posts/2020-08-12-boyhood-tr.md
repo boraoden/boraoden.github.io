@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-categories: cinema eksi
+categories: cinema eksi best
 title: boyhood - tr
 permalink: /boyhood-tr
 ---
