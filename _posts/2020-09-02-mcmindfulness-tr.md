@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-categories: ramble eksi
+categories: ramble eksi best
 title: mcmindfulness - tr
 permalink: /mcmindfulness-tr
 ---
