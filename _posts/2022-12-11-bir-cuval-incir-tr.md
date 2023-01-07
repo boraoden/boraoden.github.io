@@ -19,7 +19,7 @@ duygusallığın bir erkeğin başına gelebilecek en berbat şey olduğunu söy
 
 ayrılık böyle bir şeymiş işte internet, söyleyecek fazla söz yok. yani söylemek isteyene vardır elbet ama yazar istemiyor pek. her bir haltı piksellere dökmek ne kadar anlamlı bilmiyor ama yazarın bu köşesine haftada birkaç kişi ancak tıklıyor zaten, zararı yok haliyle.
 
-2022 bitiyor ve 6 ocak yaklaşıyor, tüm pürüzlere rağmen keşke bir ay daha sürseydi diye düşünüyor yazar istemsizce. "marcy'nin salak ve komik suratını görseydim bari" diyor ve yüzüne sakin bir tebessüm konuyor kaçınılmaz olarak, gidiyor ve bir _biscolata pia_ açıyor. gözyaşının tuzu var bu sefer kekin üstünde, her zamankinden çok daha farklı geliyor elbette tadı.
+2022 bitiyor ve 6 ocak yaklaşıyor, tüm pürüzlere rağmen keşke bir ay daha sürseydi diye düşünüyor yazar istemsizce. "marcy'nin salak ve komik suratını görseydim bari" diyor ve yüzüne sakin bir tebessüm konuyor kaçınılmaz olarak, gidiyor ve bir _biscolata pia_ açıyor. her zamankinden çok daha farklı geliyor elbette tadı.
 
 neyse, hayat devam ediyor sanırım, umarım ediyordur yani.
 
