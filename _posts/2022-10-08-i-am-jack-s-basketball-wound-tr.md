@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-categories: personal
+categories: personal best
 permalink: i-am-jack-s-basketball-wound-tr
 title: i am jack's basketball wound - tr
 ---
