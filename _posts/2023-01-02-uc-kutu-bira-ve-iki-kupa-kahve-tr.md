@@ -43,6 +43,8 @@ yeni yılın ilk günü biterken, saat on bir olmadan girersin yatağa, zor uyur
 
 "şerefe!" dersin yine de yaşanmışlıklara, o ana [en uygun şarkıyı](https://open.spotify.com/track/4oS31voWBKl6L9eJV6I4wA?si=47ed3dc80ad64b15) açarsın.
 
+---
+
 hayat seni bekliyor bora; tanışılacak insanlar, görülecek memleketler, yenilecek yemekler, yapılacak hatalar, düzeltilecek deneyimler, öpülecek dudaklar, okşanacak saçlar, izlenecek filmler, geçilecek sınavlar var önünde ve gerinde zamanın unutturacakları kuşkusuz.
 
 saat 4.44'ü görmüştür.
