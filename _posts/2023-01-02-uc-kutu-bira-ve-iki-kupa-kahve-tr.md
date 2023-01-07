@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-categories: personal
+categories: personal best
 permalink: uc-kutu-bira-ve-iki-kupa-kahve-tr
 title: üç kutu bira ve iki kupa kahve - tr
 ---
