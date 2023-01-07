@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-categories: personal
+categories: personal best
 title: makarna - tr
 permalink: /makarna-tr
 ---
