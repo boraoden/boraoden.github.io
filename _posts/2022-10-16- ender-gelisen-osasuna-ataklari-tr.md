@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-categories: personal
+categories: personal best
 permalink: ender-gelisen-osasuna-ataklari-tr
 title: ender gelişen osasuna atakları - tr
 ---
