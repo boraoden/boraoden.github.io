@@ -5,13 +5,13 @@ categories: personal
 permalink: toy-bir-erkegin-hatalarla-dolu-uc-aylik-guncesi-tr
 title: toy bir erkeğin hatalarla dolu üç aylık güncesi - tr
 ---
-bu gönderi, yazarın hayatına girmiş ve çok yakın vakitte çıkmış bir insanın yazara öğrettiklerini, deneyimlettiklerini, hissettirdiklerini ve düşündürdüklerini toplu bir sayfada bulundurma isteğinden doğan bir çeşit _closure_ ve nihai "her şeyi geride bırakma" derlemesidir. kuşkusuzdur ki içinde çıkarmasını bilene çıkarılacak sayısız ders mevcuttur.
+bu gönderi, 2022 sonbaharında yeni bir okul sezonunun başlamasıyla yazarın hayatına girmiş ve çok yakın bir vakitte o hayattan çıkmış bir insanın yazara öğrettiklerini, deneyimlettiklerini, hissettirdiklerini ve düşündürdüklerini toplu bir sayfada bulundurma isteğinden doğan, _closure_ niyetinden beslenen nihai bir "her şeyi geride bırakma" derlemesidir. kuşkusuzdur ki içinde çıkarmasını bilene çıkarılacak sayısız ders mevcuttur.
 
-yazar, burada birleştirdiği anlık ve yoğun duygularla yazılmış yazıların birçoğundan pişman olmuş olsa, bazılarından utansa ve haftalar sonra okuyunca hepsinin onlarca noktasını komik bulmuş olsa da kendi kalemine duyduğu saygı çerçevesinde onları silmeyi uygun görmeyip bu tip bir günce-vari kayıt derlemesine dönüştürmeyi uygun bulmuştur. 
+yazar, burada birleştirdiği oldukça yoğun ve kimi zaman sadece anlık duygularla yazılmış yazıların birçoğundan pişman olmuş olsa da bazılarından utansa da ve haftalar sonra okuyunca tamamının içinde onlarca noktayı komik bulmuş olsa da kendi kalemine duyduğu saygı çerçevesinde bu samimiyet ama aynı zamanda acemilik bağıran yazıları silmeyi uygun görmemiş, bu tip bir günce-vari kayıt derlemesine dönüştürmeyi uygun bulmuştur. 
 
-yazarın hayatına giren bu insan  -tümüyle duygusal bir yazı olmasa da- [i know](https://boraoden.net/i-know-en) üstüne olan yazısını kaleme almasında kısmen etkili olduğu için ve yazar, geride bıraktığı üç aylık süreç boyunca şarkının mesajını iki taraflı şekilde her hücresine kadar hissettiği için bu yazıyı kaldırmayı da uygun bulmamıştır ve [i know](https://boraoden.net/i-know-en), [boraoden.net](boraoden.net) varlığını sürdürdükçe hayatına devam edecektir.
+yazarın hayatına giren bu insan [i know](https://boraoden.net/i-know-en) üstüne olan yazısını -tümüyle duygusal bir yazı olmasa da- kaleme almasında kısmen etkili olduğu için ve yazar, geride bıraktığı üç aylık süreç boyunca şarkının mesajını iki taraflı şekilde her hücresine kadar hissettiği için bu yazıyı blogundan kaldırmayı uygun bulmamıştır ve [i know](https://boraoden.net/i-know-en), [boraoden.net](boraoden.net) varlığını sürdürdükçe hayatına devam edecektir.
 
-yazar, okuyacaklara "iyi okumalar" ve sabır diler, ayrıyeten samimi bir teşekkür etmeyi borcu bilir.
+yazar; okuyacaklara "iyi okumalar" ve sabır diler, ayrıyeten samimi bir teşekkür etmeyi borcu bilir.
 
 ---
 ---
