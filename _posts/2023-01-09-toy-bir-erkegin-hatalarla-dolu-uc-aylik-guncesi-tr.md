@@ -5,9 +5,11 @@ categories: personal
 permalink: toy-bir-erkegin-hatalarla-dolu-uc-aylik-guncesi-tr
 title: toy bir erkeğin hatalarla dolu üç aylık güncesi - tr
 ---
-bu gönderi, yazarın hayatına giren ve çok yakın vakitte çıkmış bir insanın kendisine öğrettiklerini, deneyimlettiklerini, hissettirdiklerini ve düşündürdüklerini toplu bir sayfada bulundurmak isteyen yazarın bir çeşit _closure_ ve nihai bir geride bırakma derlemesidir. yazar, burada derlediği anlık ve yoğun duygularla yazdığı yazıların birçoğundan pişman olmuş olsaa ve haftalar sonra okuyunca bazı noktalarını komik bulmuş olsa da kendi kalemine duyduğu saygı çerçevesinde onları silmeyi uygun görmeyip bu tip bir günce-vari kayıt derlemesine dönüştürmeyi uygun bulmuştur. 
+bu gönderi, yazarın hayatına girmiş ve çok yakın vakitte çıkmış bir insanın yazara öğrettiklerini, deneyimlettiklerini, hissettirdiklerini ve düşündürdüklerini toplu bir sayfada bulundurmak isteyen yazarın bir çeşit _closure_ ve nihai bir "her şeyi geride bırakma" derlemesidir. 
 
-tümüyle duygusal bir yazı olmasa da yazarın hayatına giren bu insan, [i know](https://boraoden.net/i-know-en) üstüne olan yazısını kaleme almasında kısmen etkili olduğu için ve geride bıraktığı üç aylık süreçte şarkının sözlerini iki taraflı şekilde sayısız kez her hücresine kadar hissettiği için bu yazıyı kaldırmayı da uygun bulmamıştır.
+yazar, burada birleştirdiği anlık ve yoğun duygularla yazdığı yazıların birçoğundan pişman olmuş olsa da bazılarından utansa ve haftalar sonra okuyunca onlarca noktasını komik bulmuş olsa da kendi kalemine duyduğu saygı çerçevesinde onları silmeyi uygun görmeyip bu tip bir günce-vari kayıt derlemesine dönüştürmeyi uygun bulmuştur. 
+
+yazarın hayatına giren bu insan, tümüyle duygusal bir yazı olmasa da [i know](https://boraoden.net/i-know-en) üstüne olan yazısını kaleme almasında kısmen etkili olduğu için ve geride bıraktığı üç aylık süreçte şarkının mesajını verirken meramını iki taraflı şekilde sayısız kez her hücresine kadar hissettiği için bu yazıyı kaldırmayı da uygun bulmamıştır ve bu yazı, [boraoden.net](boraoden.net) varlığını sürdürdükçe hayatına devam edecektir.
 
 ---
 
