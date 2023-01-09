@@ -11,7 +11,7 @@ yazar, burada birleştirdiği anlık ve yoğun duygularla yazılmış yazıları
 
 yazarın hayatına giren bu insan  -tümüyle duygusal bir yazı olmasa da- [i know](https://boraoden.net/i-know-en) üstüne olan yazısını kaleme almasında kısmen etkili olduğu için ve yazar, geride bıraktığı üç aylık süreç boyunca şarkının mesajını iki taraflı şekilde her hücresine kadar hissettiği için bu yazıyı kaldırmayı da uygun bulmamıştır ve [i know](https://boraoden.net/i-know-en), [boraoden.net](boraoden.net) varlığını sürdürdükçe hayatına devam edecektir.
 
-yazar, okuyacaklara "iyi okumalar" ve sabır diler, samimi bir teşekkür eder.
+yazar, okuyacaklara "iyi okumalar" ve sabır diler, ayrıyeten samimi bir teşekkür etmeyi borcu bilir.
 
 ---
 
