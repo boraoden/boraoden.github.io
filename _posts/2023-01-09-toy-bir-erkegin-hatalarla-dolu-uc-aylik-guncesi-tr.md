@@ -13,6 +13,8 @@ yazarın hayatına giren bu insan, tümüyle duygusal bir yazı olmasa da [i kno
 
 yazar, okuyacaklara "iyi okumalar" ve sabır diler, samimi bir teşekkür eder.
 
+**09.01.23 - pazartesi.**
+
 ---
 
 ## ender gelişen osasuna atakları - 16.10.22
@@ -256,4 +258,4 @@ biran yoktur, kahve demleyecek mecalin kalmamıştır, tek tadını alabildiğin
 
 ---
 
-**kayıtların sonu.**
+**kayıtların sonu. yazar, okuyan herkese yeniden çokça teşekkür eder.**
