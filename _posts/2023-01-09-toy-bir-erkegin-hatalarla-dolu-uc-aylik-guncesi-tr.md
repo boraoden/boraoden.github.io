@@ -2,8 +2,8 @@
 published: true
 layout: post
 categories: personal
-permalink: toy-bir-erkegin-hata-dolu-uc-aylik-guncesi-tr
-title: toy bir erkeğin hata dolu üç aylık güncesi - tr
+permalink: toy-bir-erkegin-hatalarla-dolu-uc-aylik-guncesi-tr
+title: toy bir erkeğin hatalarla dolu üç aylık güncesi - tr
 ---
 bu gönderi, yazarın hayatına girmiş ve çok yakın vakitte çıkmış bir insanın yazara öğrettiklerini, deneyimlettiklerini, hissettirdiklerini ve düşündürdüklerini toplu bir sayfada bulundurmak isteyen yazarın bir çeşit _closure_ ve nihai bir "her şeyi geride bırakma" derlemesidir. kuşkusuzdur ki içinde çıkarmasını bilene çıkarılacak sayısız ders mevcuttur.
 
