@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: post
 categories: personal best
 permalink: unutamayan-unutulamayan-ve-unutturamayan-tr
