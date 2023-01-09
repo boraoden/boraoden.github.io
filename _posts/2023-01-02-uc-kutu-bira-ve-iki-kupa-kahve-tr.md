@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: post
 categories: personal best
 permalink: uc-kutu-bira-ve-iki-kupa-kahve-tr
