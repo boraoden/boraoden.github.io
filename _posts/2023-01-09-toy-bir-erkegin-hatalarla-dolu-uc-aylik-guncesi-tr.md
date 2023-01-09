@@ -9,7 +9,7 @@ bu gönderi, yazarın hayatına girmiş ve çok yakın vakitte çıkmış bir in
 
 yazar, burada birleştirdiği anlık ve yoğun duygularla yazılmış yazıların birçoğundan pişman olmuş olsa, bazılarından utansa ve haftalar sonra okuyunca hepsinin onlarca noktasını komik bulmuş olsa da kendi kalemine duyduğu saygı çerçevesinde onları silmeyi uygun görmeyip bu tip bir günce-vari kayıt derlemesine dönüştürmeyi uygun bulmuştur. 
 
-yazarın hayatına giren bu insan  -tümüyle duygusal bir yazı olmasa da- [i know](https://boraoden.net/i-know-en) üstüne olan yazısını kaleme almasında kısmen etkili olduğu için ve yazarın geride bıraktığı üç aylık süreç boyunca şarkının mesajını iki taraflı şekilde her hücresine kadar hissettiği için bu yazıyı kaldırmayı da uygun bulmamıştır ve [i know](https://boraoden.net/i-know-en), [boraoden.net](boraoden.net) varlığını sürdürdükçe hayatına devam edecektir.
+yazarın hayatına giren bu insan  -tümüyle duygusal bir yazı olmasa da- [i know](https://boraoden.net/i-know-en) üstüne olan yazısını kaleme almasında kısmen etkili olduğu için ve yazar, geride bıraktığı üç aylık süreç boyunca şarkının mesajını iki taraflı şekilde her hücresine kadar hissettiği için bu yazıyı kaldırmayı da uygun bulmamıştır ve [i know](https://boraoden.net/i-know-en), [boraoden.net](boraoden.net) varlığını sürdürdükçe hayatına devam edecektir.
 
 yazar, okuyacaklara "iyi okumalar" ve sabır diler, samimi bir teşekkür eder.
 
