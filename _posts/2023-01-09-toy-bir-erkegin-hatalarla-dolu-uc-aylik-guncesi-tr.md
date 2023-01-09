@@ -5,7 +5,7 @@ categories: personal
 permalink: toy-bir-erkegin-hatalarla-dolu-uc-aylik-guncesi-tr
 title: toy bir erkeğin hatalarla dolu üç aylık güncesi - tr
 ---
-bu gönderi, yazarın hayatına girmiş ve çok yakın vakitte çıkmış bir insanın yazara öğrettiklerini, deneyimlettiklerini, hissettirdiklerini ve düşündürdüklerini toplu bir sayfada bulundurmak isteyen yazarın bir çeşit _closure_ ve nihai bir "her şeyi geride bırakma" derlemesidir. kuşkusuzdur ki içinde çıkarmasını bilene çıkarılacak sayısız ders mevcuttur.
+bu gönderi, yazarın hayatına girmiş ve çok yakın vakitte çıkmış bir insanın yazara öğrettiklerini, deneyimlettiklerini, hissettirdiklerini ve düşündürdüklerini toplu bir sayfada bulundurma isteğinden doğan bir çeşit _closure_ ve nihai "her şeyi geride bırakma" derlemesidir. kuşkusuzdur ki içinde çıkarmasını bilene çıkarılacak sayısız ders mevcuttur.
 
 yazar, burada birleştirdiği anlık ve yoğun duygularla yazdığı yazıların birçoğundan pişman olmuş olsa da bazılarından utansa ve haftalar sonra okuyunca onlarca noktasını komik bulmuş olsa da kendi kalemine duyduğu saygı çerçevesinde onları silmeyi uygun görmeyip bu tip bir günce-vari kayıt derlemesine dönüştürmeyi uygun bulmuştur. 
 
