@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: personal
 permalink: toy-bir-erkegin-hatalarla-dolu-uc-aylik-guncesi-tr
