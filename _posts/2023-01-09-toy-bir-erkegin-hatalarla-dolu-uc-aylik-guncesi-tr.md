@@ -14,6 +14,7 @@ yazarın hayatına giren bu insan  -tümüyle duygusal bir yazı olmasa da- [i k
 yazar, okuyacaklara "iyi okumalar" ve sabır diler, ayrıyeten samimi bir teşekkür etmeyi borcu bilir.
 
 ---
+---
 
 ## ender gelişen osasuna atakları - 16.10.22
 
@@ -57,6 +58,7 @@ kendine geldiğinde kafanda _california dreaming_ çalıyordur. bu satırları b
 ender gelişen bir atağın daha sonlanmmıştır, bir diğerinin ne zaman gelişeceğiyse tam bir soru işaretidir.
 
 ---
+---
 
 ## i know - 26.10.22
 
@@ -96,6 +98,7 @@ because _i know_,
 _the last in line is always called a bastard._
 
 ---
+---
 
 ## bir çuval incir - 11.12.22
 
@@ -119,6 +122,7 @@ neyse, hayat devam ediyor sanırım, umarım ediyordur yani.
 
 ![]({{site.baseurl}}/images/marcy1.jpg)
 
+---
 ---
 
 ## unutamayan, unutulamayan ve unutturamayan - 17.12.22
@@ -205,6 +209,7 @@ hiçbir zaman görememiş olsa da iskenderun'u, hiçbir zaman tanıyamamış ols
 ![]({{site.baseurl}}/images/seperation2.jpg)
 
 ---
+---
 
 ## üç kutu bira ve iki kupa kahve - 02.01.23
 
@@ -254,6 +259,7 @@ saat 4.44'ü görmüştür.
 
 biran yoktur, kahve demleyecek mecalin kalmamıştır, tek tadını alabildiğin dudaklarındaki tuzlu gözyaşlarıdır.
 
+---
 ---
 
 **kayıtların sonu. yazar, okuyan herkese yeniden çokça teşekkür eder.**
