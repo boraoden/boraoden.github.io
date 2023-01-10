@@ -9,4 +9,5 @@ permalink: about-me
 hey! i am just a medical student from turkey who is enthusiastic about tech, books, cinema, sports, cats and coffee. yes, it is nine year old me up there!
    
    
-![mediiiic!]({{site.baseurl}}/images/medic.gif)
+
+<img src="images/medic.gif" alt="mediiic!" width="249" height="140"> 
