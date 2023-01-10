@@ -2,7 +2,7 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries: 
-  - title: <iframe src="https://giphy.com/embed/WseBPTW8tmlr2" width="300" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  - title: <img src="/images/michaelscott.gif" alt="yeah." width="300" height="151"> 
   - title: <a href="/archive">archive</a> <a href="/about-me">about me</a> <a href="/projects">projects</a> <a href="/cv">cv</a>
   
   
