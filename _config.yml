@@ -1,5 +1,5 @@
-title: bora's simple blog page  # name of the site
-author: Bora Öden # name of site's author
+title: bora's simple digital inn  # name of the site
+author: bora oden # name of site's author
 email: boraodenn@outlook.com # email of site's author
 url: boraoden.net # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
@@ -14,7 +14,7 @@ goat_counter: "boraoden" # put your GoatCounter name if you want to use GoatCoun
 remote_theme: riggraz/no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
 
 theme_config:
-  appearance: "dark" # can be "light", "dark" or "auto"
+  appearance: "auto" # can be "light", "dark" or "auto"
   back_home_text: "home" # customize text for homepage link in post layout
   date_format: "%d-%m-%Y" # customize how date is formatted
   show_description: false # show blog description in home page
