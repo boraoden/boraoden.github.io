@@ -10,4 +10,4 @@ hey! i am just a medical student from turkey who is enthusiastic about tech, boo
    
    
 
-<img src="images/medic.gif" alt="mediiic!" width="350" height="180"> 
+<img src="images/medic.gif" alt="mediiic!" width="350" height="182"> 
