@@ -2,7 +2,7 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries: 
-  - title: <iframe src="https://giphy.com/embed/WseBPTW8tmlr2" width="480" height="324" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tf2-heavy-medic-WseBPTW8tmlr2">via GIPHY</a></p>
+  - title: <iframe src="https://giphy.com/embed/WseBPTW8tmlr2" width="300" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
   - title: <a href="/archive">archive</a> <a href="/about-me">about me</a> <a href="/projects">projects</a> <a href="/cv">cv</a>
   
   
