@@ -9,7 +9,7 @@ bu gönderi, 2022 sonbaharında yeni bir okul sezonunun başlamasıyla yazarın 
 
 yazar, burada birleştirdiği oldukça yoğun ve kimi zaman sadece anlık duygularla yazılmış yazıların birçoğundan pişman olmuş olsa da bazılarından utansa da ve haftalar sonra okuyunca tamamının içinde onlarca noktayı komik bulmuş olsa da kendi kalemine duyduğu saygı çerçevesinde samimiyet ama aynı zamanda acemilik bağıran bu yazıları silmeyi uygun görmemiş, günce-vari bir kayıt derlemesine dönüştürmeyi daha uygun bulmuştur. 
 
-yazarın hayatına giren bu insan [i know](https://boraoden.net/i-know-en) üstüne olan yazısını -tümüyle duygusal bir yazı olmasa da- kaleme almasında kısmen etkili olduğu için ve yazar, geride bıraktığı üç aylık süreç boyunca şarkının mesajını iki taraflı şekilde her hücresine kadar hissettiği için bu yazıyı blogundan kaldırmayı uygun bulmamıştır ve [i know](https://boraoden.net/i-know-en), [boraoden.net](boraoden.net) varlığını sürdürdükçe hayatına devam edecektir.
+yazarın hayatına giren bu insan, yazarın [i know](https://boraoden.net/i-know-en) üstüne olan yazısını -tümüyle duygusal bir yazı olmasa da- kaleme almasında kısmen etkili olduğu için ve yazar, geride bıraktığı üç aylık süreç boyunca şarkının mesajını iki taraflı şekilde her hücresine kadar hissettiği için bu yazıyı blogundan kaldırmayı uygun bulmamıştır ve [i know](https://boraoden.net/i-know-en), [boraoden.net](boraoden.net) varlığını sürdürdükçe hayatına devam edecektir.
 
 yazar; okuyacaklara "iyi okumalar" ve sabır diler, ayrıyeten samimi bir teşekkür etmeyi borcu bilir.
 
