@@ -4,8 +4,7 @@ title: about me
 published: true
 permalink: about-me
 ---
-- <a href="/projects">projects</a> 
-- <a href="/cv">cv</a>
+- <a href="/projects">projects</a> <a href="/cv">cv</a>
 
 ![looking handsome, eh?]({{site.baseurl}}/images/bora1a.png)    
 
