@@ -6,7 +6,9 @@ permalink: about-me
 ---
 - <a href="/projects">projects</a> <a href="/cv">cv</a>
 
-![looking handsome, eh?]({{site.baseurl}}/images/bora1a.png)<img src="images/medic.gif" alt="mediiic!" width="245" height="127">
+|   |  |
+| ------------- | ------------- |
+| ![looking handsome, eh?]({{site.baseurl}}/images/bora1a.png)  | <img src="images/medic.gif" alt="mediiic!" width="245" height="127">  |
 
 hey! i am just a medical student from turkey who is enthusiastic about tech, books, cinema, sports, cats and coffee. yes, it is nine year old me up there!
    
