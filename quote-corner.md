@@ -1,3 +1,7 @@
+**here is my corner of quotes which consists of beautiful and meaningful quotes that i enjoy thinking about.**   
+
+---
+
 ![158868.jpg]({{site.baseurl}}/158868.jpg)
 ![EshJm2EXcAEjBXh.jpg]({{site.baseurl}}/EshJm2EXcAEjBXh.jpg)
 ![research-is-what-im-doing-when-i-dont-know-what-im-doing-7336592dd33edf2ae22089b909aa4361.jpg]({{site.baseurl}}/research-is-what-im-doing-when-i-dont-know-what-im-doing-7336592dd33edf2ae22089b909aa4361.jpg)
