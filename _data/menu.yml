@@ -2,7 +2,8 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:  
-  - title: <a href="/archive">archive</a> <a href="/about-me">about me</a> <a href="/quote-corner">quote corner</a> <a href="/projects">projects</a> <a href="/cv">cv</a>
+  - title: <a href="/archive">archive</a> <a href="/quote-corner">quote corner</a> 
+  - title: <a href="/about-me">about me</a> <a href="/projects">projects</a> <a href="/cv">cv</a>
   
   
 # - title: <a href="/archive/best-posts">best posts</a>
