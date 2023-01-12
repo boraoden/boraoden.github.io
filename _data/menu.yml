@@ -25,7 +25,7 @@ entries:
  #     - title: boraodenn [at] outlook [dot] com
       - title: <a href="mailto:boraodenn@outlook.com">email</a> <a href="https://www.linkedin.com/in/boraoden/">linkedin</a> <a href= "https://github.com/boraoden">github</a> 
       - title: <a href="https://open.spotify.com/user/6atimpsh5xjmanqgunag33zry?si=0822978bdbab432c">spotify</a> <a href= "https://letterboxd.com/wiseonn">letterboxd</a> <a href= "https://www.goodreads.com/user/show/116783385-bora">goodreads</a>        
-  - title: <img src="/images/michaelscott.gif" alt="yeah." width="360" height="181.2" align="left">
+#  - title: <img src="/images/michaelscott.gif" alt="yeah." width="360" height="181.2" align="left">
 #  - title: posts by category   
 #    entries: 
 #      - title: <a href="archive/personal">personal</a> - <a href="archive/ramble">ramble</a>
