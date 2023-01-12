@@ -3,10 +3,14 @@
 ---
 
 ![158868.jpg]({{site.baseurl}}/158868.jpg)
----
+---   
+
 ![EshJm2EXcAEjBXh.jpg]({{site.baseurl}}/EshJm2EXcAEjBXh.jpg)
----
-![]({{site.baseurl}}//1713699-C-S-Lewis-Quote-Isn-t-it-funny-how-day-by-day-nothing-changes-but.jpg)![1713699-C-S-Lewis-Quote-Isn-t-it-funny-how-day-by-day-nothing-changes-but.jpg]({{site.baseurl}}/1713699-C-S-Lewis-Quote-Isn-t-it-funny-how-day-by-day-nothing-changes-but.jpg)
+---   
+
+![]({{site.baseurl}}//1713699-C-S-Lewis-Quote-Isn-t-it-funny-how-day-by-day-nothing-changes-but.jpg)
+
+![1713699-C-S-Lewis-Quote-Isn-t-it-funny-how-day-by-day-nothing-changes-but.jpg]({{site.baseurl}}/1713699-C-S-Lewis-Quote-Isn-t-it-funny-how-day-by-day-nothing-changes-but.jpg)
 ---
 ![a0ebb2dc13218060661d3c15c7c23222.jpg]({{site.baseurl}}/a0ebb2dc13218060661d3c15c7c23222.jpg)
 ---
