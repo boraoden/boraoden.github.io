@@ -7,9 +7,11 @@ title: aptal bir romantiğin üç aylık güncesi - tr
 ---
 bu gönderi, 2022 sonbaharında yeni bir okul sezonunun başlamasıyla yazarın hayatına girmiş ve çok yakın bir vakitte o hayattan çıkmış bir insanın yazara öğrettiklerini, deneyimlettiklerini, hissettirdiklerini ve düşündürdüklerini toplu bir sayfada bulundurma isteğinden doğan, _closure_ niyetinden beslenen nihai bir "her şeyi geride bırakma" derlemesidir. kuşkusuzdur ki içinde çıkarmasını bilene çıkarılacak sayısız ders mevcuttur.
 
-yazar, burada birleştirdiği oldukça yoğun ve kimi zaman sadece anlık duygularla yazılmış yazıların birçoğundan pişman olmuş olsa da bazılarından utansa da ve haftalar sonra okuyunca tamamının içinde onlarca noktayı komik bulmuş olsa da kendi kalemine duyduğu saygı çerçevesinde samimiyet ama aynı zamanda acemilik bağıran bu yazıları silmeyi uygun görmemiş, günce-vari bir kayıt derlemesine dönüştürmeyi daha makul bulmuştur. 
+yazar, blogunda ayrı ayrı kaleme alıp sonra bu gönderi altında birleştirdiği oldukça yoğun ve kimi zaman sadece anlık duygularla yazılmış bu yazıların birçoğundan pişman olmuş olsa da bazılarından utansa da ve haftalar sonra okuyunca tamamının içinde onlarca noktayı komik bulmuş olsa da kendi kalemine duyduğu saygı çerçevesinde samimiyet ama aynı zamanda acemilik bağıran bu yazıları silmeyi uygun görmemiş, günce-vari bir kayıt derlemesine dönüştürmeyi daha makul bulmuştur. 
 
-yazarın hayatına giren bu insan, yazarın _i know_ adlı şarkı üstüne olan [yazısını](https://boraoden.net/i-know-en) -tümüyle duygusal bir yazı olmasa da- kaleme almasında kısmen etkili olduğu için ve yazar, geride bıraktığı üç aylık süreç boyunca şarkının mesajını iki taraflı şekilde her hücresine kadar hissettiği için bu yazıyı blogundan kaldırmayı uygun bulmamıştır ve [i know](https://boraoden.net/i-know-en), bu websitesi varlığını sürdürdükçe hayatına devam edecektir.
+yazar, biraz da kendini uyarmak amacı ile hayatta tuttuğu bu yazıların ve yaşadıklarının; kendisine ömür boyu ders olmasını, aynı hataları tekrarlamasını ve akabinde kendisini üzmesini engellemesini temenni eder.
+
+<!--- yazarın hayatına giren bu insan, yazarın _i know_ adlı şarkı üstüne olan [yazısını](https://boraoden.net/i-know-en) -tümüyle duygusal bir yazı olmasa da- kaleme almasında kısmen etkili olduğu için ve yazar, geride bıraktığı üç aylık süreç boyunca şarkının mesajını iki taraflı şekilde her hücresine kadar hissettiği için bu yazıyı blogundan kaldırmayı uygun bulmamıştır ve [i know](https://boraoden.net/i-know-en), bu websitesi varlığını sürdürdükçe hayatına devam edecektir. --->
 
 yazar; okuyacaklara "iyi okumalar" ve sabır diler, ayrıyeten samimi bir teşekkür etmeyi borcu bilir.
 
