@@ -1,7 +1,7 @@
 **here is my corner of quotes which consists of beautiful and meaningful quotes that i enjoy thinking about.**   
 
 ---
-![]({{site.baseurl}}//ursula.png)
+![]({{site.baseurl}}/ursula.png)
 
 ![158868.jpg]({{site.baseurl}}/158868.jpg)
        
