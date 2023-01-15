@@ -18,7 +18,7 @@ entries:
     post_list:
       limit: 1
       show_more: true
-      show_more_text: click to go to archive...
+      show_more_text: click to go to archive
       show_more_url: archive
  # - title: <a href="/archive">archive</a> 
   - title: "contact me via:"
