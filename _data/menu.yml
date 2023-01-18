@@ -15,18 +15,22 @@ entries:
 
   - title: <a href="/archive">archive</a>  <a href="/quote-corner">quote corner</a> <a href="/about-me">about me</a>
 #  - title:  
-#  - title: "latest post:"
-#    post_list:
-#      limit: 1
-#      show_more: true
-#      show_more_text: click to go to archive
-#      show_more_url: archive
+
 
   - title: "contact me via:"
     entries:
  #    - title: boraodenn [at] outlook [dot] com
       - title: <a href="mailto:boraodenn@outlook.com">email</a>  <a href="https://www.linkedin.com/in/boraoden/">linkedin</a> #<a href= "https://github.com/boraoden">github</a> 
       - title: <a href="https://open.spotify.com/user/6atimpsh5xjmanqgunag33zry?si=0822978bdbab432c">spotify</a> <a href= "https://letterboxd.com/wiseonn">letterboxd</a> <a href= "https://www.goodreads.com/user/show/116783385-bora">goodreads</a>   
+
+
+  - title: "latest posts:"
+    post_list:
+      limit: 3
+      show_more: false
+      show_more_text: click to go to archive
+      show_more_url: archive
+
 
 #  - title: <img src="/images/michaelscott.gif" alt="yeah." width="360" height="181.2" align="left">
 #  - title: posts by category   
