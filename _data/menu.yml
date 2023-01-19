@@ -17,6 +17,13 @@ entries:
 #  - title:  
 
 
+  - title: "latest posts:"
+    post_list:
+      limit: 3
+      show_more: false
+      show_more_text: click to go to archive
+      show_more_url: archive
+
   - title: "contact me via:"
     entries:
  #    - title: boraodenn [at] outlook [dot] com
@@ -24,12 +31,7 @@ entries:
       - title: <a href="https://open.spotify.com/user/6atimpsh5xjmanqgunag33zry?si=0822978bdbab432c">spotify</a> <a href= "https://letterboxd.com/wiseonn">letterboxd</a> <a href= "https://www.goodreads.com/user/show/116783385-bora">goodreads</a>   
 
 
-  - title: "latest posts:"
-    post_list:
-      limit: 3
-      show_more: false
-      show_more_text: click to go to archive
-      show_more_url: archive
+
 
 
 #  - title: <img src="/images/michaelscott.gif" alt="yeah." width="360" height="181.2" align="left">
