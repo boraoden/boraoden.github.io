@@ -23,7 +23,7 @@ he, of course, returned to turkey and started a intense school semester of fourt
 
 but the the most important thing is that he met a girl, he met his first girlfriend and broke up with her in school as he got dumped in a vicious way. the relationship didn't last much but bora has certainly learnt critical facts either about himself, women and relationships. he experienced the peak of the amazing feelings and the deepest pit of harsh feelings. he now absolutely feels like he got older and sometimes even scarred deeply yet he believes he has risen from his ashes like a phoenix after that girl he met chewed him up.
 
-that bora, who is writing from the starbucks of, the worst city ever, niğde feels like a mature man now. he met and talked his friend ametg. ametg has also changed a lot, he had great improvements in his life too both in a good and poor way. 
+that bora, who is writing from the starbucks of niğde, the worst city one can grow up, sipping his cold brew feels like a mature man now. he met and talked his friend ametg. ametg has also changed a lot, he had great improvements in his life too both in a good and poor way. 
 
 but niğde is still old niğde. boy, i hate this place but cannot reject the fact that i grew up here and created lots of memories from my early childhood to highschool years. i hate niğde but i don't hate my overly-romantic nostalgic side. niğde is what makes bora, bora with his strong and weak sides. man shouldn't escape his past and embrace it. resentment isn't the solution.
 
