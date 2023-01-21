@@ -17,12 +17,12 @@ entries:
 #  - title:  
 
 
-  - title: "latest posts:"
-    post_list:
-      limit: 3
-      show_more: false
-      show_more_text: click to go to archive
-      show_more_url: archive
+#  - title: "latest posts:"
+#    post_list:
+#      limit: 3
+#      show_more: false
+#      show_more_text: click to go to archive
+#      show_more_url: archive
 
   - title: "contact me via:"
     entries:
@@ -35,9 +35,10 @@ entries:
 
 
 #  - title: <img src="/images/michaelscott.gif" alt="yeah." width="360" height="181.2" align="left">
-#  - title: posts by category   
-#    entries: 
-#      - title: <a href="archive/personal">personal</a> - <a href="archive/ramble">ramble</a>
+
+  - title: posts by category   
+    entries: 
+      - title: <a href="archive/personal">personal</a> - <a href="archive/best-posts">deneme</a>
 #      - title: <a href="archive/cinema">cinema</a> - <a href="archive/music">music</a> - <a #href="archive/literature">literature</a>
 #     - title: <a href="archive/history">history</a> - <a href="archive/politics">politics</a> - <a #href="archive/science">science</a>  #<a href="archive/world">world</a>  
       
