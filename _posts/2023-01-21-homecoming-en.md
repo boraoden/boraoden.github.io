@@ -1,5 +1,9 @@
 ---
 published: false
+layout: post
+categories: diary
+permalink: homecoming - en
+title: homecoming - en
 ---
 <!--- <audio controls>
   <source src="https://www.computerhope.com/jargon/m/example.mp3" />
