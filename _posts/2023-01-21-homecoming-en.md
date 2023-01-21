@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: diary
 permalink: homecoming - en
@@ -14,4 +14,3 @@ title: homecoming - en
 definitely read with the up above.
 
 oh boy, it has been a while since i last wrote from our shitty town _jolly old niğde_. it looks like nothing has changed but me here. i remember the days after the final exam of third grade that i was waiting full of anxiety for the results of that creepy exam via watching _the last dance_ from netflix. those days were in the end of the june dude, i still got surprised everytime when i think about the pace of the time passing by. it makes seven months, yet i feel those days fresh as yesterday.
-
