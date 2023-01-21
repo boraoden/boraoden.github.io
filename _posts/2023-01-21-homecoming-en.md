@@ -32,4 +32,4 @@ but niğde is still old niğde. boy, i hate this place but cannot reject the fac
 
 i took a walk as a tradition on the same old destinations of mine in city, it was quiet and cold. music in my ears have accompanied me but walk was a bit bitter one i sensed. it wasn't like my past walks since this time i definitely felt like i am completely different person. memories, regrets and much more have invaded my mind through that boring walk.
 
-birthday is coming soon. i don't know what to say. 22 years has gone so fast and i feel like i've wasted the most of it with repeating the same silly mistakes. i am a bit tired.
+birthday is coming soon. i don't know what to say. 22 years has gone so fast and i feel like i've wasted the most of it with repeating the same silly mistakes. i am so tired.
