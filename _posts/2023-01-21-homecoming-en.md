@@ -13,7 +13,7 @@ title: homecoming - en
 
 oh boy, it has been a while since i last wrote from our shitty town _jolly old niğde_. it looks like nothing has changed but me here. i remember the days after the final exam of third grade that i was waiting full of anxiety for the results of that creepy exam via watching _the last dance_ from netflix. those days were in the end of the june dude, i still got surprised everytime when i think about the pace of the time passing by. it makes seven months, yet i feel those days fresh as last week.
 
-that june 2022 bora was quite a little boy to be honest, both physically and mentally though. yeah, i still cannot get rid of the weight i gained in stockholm. those _kanelbulles_ was worth it, i don't regret any bite of them to this day. but i continued to eat unhealthily after i came back to turkey, i totally don't approve myself. whatever, this wasn't the point in first place.
+that june 2022 bora was quite a little boy to be honest, both physically and mentally though. yeah, i still cannot get rid of the weight i gained in stockholm. those _kanelbullar_ was worth it, i don't regret any bite of them to this day. but i continued to eat unhealthily after i came back to turkey, i totally don't approve myself. whatever, this wasn't the point in first place.
 
 ![]({{site.baseurl}}/images/area51.jpg)
 
