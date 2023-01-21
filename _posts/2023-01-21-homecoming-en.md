@@ -19,7 +19,7 @@ that june 2022 bora was quite a little boy to be honest, both physically and men
 
 i can easily say that june 2022 bora has changed incredibly to this day. he had an amazing two months in stockholm in summer and experienced semi-working-lifestyle while completely living abroad for replete two months. that bora wasn't a tourist in scandinavia, he was a native junior intern and stockholm-er.
 
-he, of course, returned to turkey and started a intense school semester. that bora has overcomed the pediatrics and internal medicine rotation somehow. he experienced the hospital life and feeling of being a intern doctor to even his smallest capillaries for four difficult months. he realized that he didn't learn anything in previous three years and he started to admire _medicine_ in general.
+he, of course, returned to turkey and started a intense school semester of fourth grade. that bora has overcomed the pediatrics and internal medicine rotation somehow. he experienced the hospital life and feeling of being a intern doctor to even his smallest capillaries for four difficult months. he realized that he didn't learn anything in previous three years and he started to admire _medicine_ in general.
 
 but the the most important thing is that he met a girl, he met his first girlfriend and broke up with her in school. he got dumped in a vicious way. the relationship didn't last much but bora has certainly learnt critical facts either about himself, women and relationships. he experienced the peak of the amazing feelings and the most deep pit of harsh feelings. he absolutely feels like he got older and sometimes even scarred deeply yet he believes he has risen from his ashes like a phoenix after that girl he met chewed him up.
 
