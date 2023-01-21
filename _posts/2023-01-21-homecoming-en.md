@@ -17,7 +17,7 @@ that june 2022 bora was quite a little boy to be honest, both physically and men
 
 ![]({{site.baseurl}}/images/area51.jpg)
 
-i can easily say that june 2022 bora has changed incredibly to this day. he had an amazing two months in stockholm in summer and experienced semi-working-life-lifestyle while completely living abroad for replete two months. that bora wasn't a tourist in scandinavia, he was a native junior intern and stockholm-er.
+i can easily say that june 2022 bora has changed incredibly to this day. he had an amazing two months in stockholm in summer and experienced semi-working-lifestyle while completely living abroad for replete two months. that bora wasn't a tourist in scandinavia, he was a native junior intern and stockholm-er.
 
 he, of course, returned to turkey and started a intense school semester. that bora has overcomed the pediatrics and internal medicine rotation somehow. he experienced the hospital life and feeling of being a intern doctor to even his smallest capillaries for four difficult months. he realized that he didn't learn anything in previous three years and he started to admire _medicine_ in general.
 
