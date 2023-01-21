@@ -19,6 +19,6 @@ i can easily say that june 2022 bora has changed incredibly to this day. he had 
 
 he, of course, returned to turkey and started a intense school semester. that bora has overcomed the pediatrics and internal medicine rotation somehow. he experienced the hospital life and feeling of being a intern doctor to even his smallest capillaries for four difficult months. he realized that he didn't learn anything in previous three years and he started to admire _medicine_ in general.
 
-but the the most important thing is that he met a girl, he met his first girlfriend in school. even it didn't last much bora has certainly learnt critical facts either about himself, women and relationships. he experienced the peak of the amazing feelings and the most deep pit of harsh feelings. 
+but the the most important thing is that he met a girl, he met his first girlfriend and broke up with her in school. he got dumped in a vicious way. the relationship didn't last much but bora has certainly learnt critical facts either about himself, women and relationships. he experienced the peak of the amazing feelings and the most deep pit of harsh feelings. 
 
-that bora, who is writing from the starbucks of, the worst city ever, niğde feels like a mature man now. he met and talked his friend ametg with a different 
+that bora, who is writing from the starbucks of, the worst city ever, niğde feels like a mature man now. he met and talked his friend ametg. ametg has also changed a lot, he had great improvements in his life too both in a good and poor way. 
