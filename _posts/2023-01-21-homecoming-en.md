@@ -5,11 +5,11 @@ categories: diary
 permalink: homecoming - en
 title: homecoming - en
 ---
-<!--- <audio controls>
-  <source src="https://www.computerhope.com/jargon/m/example.mp3" />
-</audio> --->
+<audio controls>
+  <source src="https://open.spotify.com/track/0IedgQjjJ8Ad4B3UDQ5Lyn?si=e7f8d7df83484197" />
+</audio>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0IedgQjjJ8Ad4B3UDQ5Lyn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<!--- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0IedgQjjJ8Ad4B3UDQ5Lyn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> --->
 
 definitely read with the up above.
 
