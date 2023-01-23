@@ -48,4 +48,8 @@ gözündeki yaşları çocuğun görmemesini istersin, ağzından "çay lütfen"
 önüne bakman gerektiğini hatırlatırsın kendine yine.
 bunun kaçıncı olduğunu unutmuşsundur bile.
 
+kafandan atamadığın bu kız seni çoktan kenara koydu bora. geçmişindeki bir figür olarak yerini aldın ve bitmesi gerekiyordu.
+
+anımsat bunu kendine.
+
 çok senelerin var bora daha yaşayacak, 22 yaş nedir ki?
