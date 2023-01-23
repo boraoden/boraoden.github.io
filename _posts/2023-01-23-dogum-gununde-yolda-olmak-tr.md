@@ -9,7 +9,8 @@ emektar bilgisayarın otobüsün her hareketinde tir tir titriyordur ama yazası
 
 kulağındaysa teoman vardır,
 
-> nasıl oluyor? vakit bir türlü geçmezken     
+> nasıl oluyor?    
+vakit bir türlü geçmezken     
 yıllar, hayatlar geçiyor
 
 şeklinde sesleniyordur sana.
