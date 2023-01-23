@@ -39,7 +39,7 @@ otobüste istemsizce gülersin, aranızdaki yaş farkı bire inmiştir bugün ye
 
 "neden bu kadar sürdü" diye sorarsın kendine, arkadaşlarına, internete. "neden unutamadım?" diye düşündükçe kafayı yiyecek olursun. 
 
-onun hakkında yazmayacağına, yazılarında ondan bahsetmeyeceğine dair kendine söz vermişsindir güya. iradesiz gözükürsün kendine. bilirsin böyle yazılar yazmak işini hiç kolaylaştırmıyordur. zaman denilen üçkağıtçıya güvenerek hata ettiğini fark edersin.
+onun hakkında yazmayacağına, yazılarında ondan bahsetmeyeceğine dair kendine söz vermişsindir güya. iradesiz gözükürsün gözüne. bilirsin böyle yazılar yazmak işini hiç kolaylaştırmıyordur. zaman denilen üçkağıtçıya güvenerek hata ettiğini fark edersin.
 
 _neyse_ dersin.
 
