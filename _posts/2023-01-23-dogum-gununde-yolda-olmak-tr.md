@@ -54,7 +54,7 @@ o kendine tembihlediğin sıkı, sert ve kuvvetli erkek tarafının elinden kay�
 
 geride bıraktığın senelerin önündeki yaşa güzel bir malzeme olacağını temenni etmekten başka bir şey gelmez elinden. 
 
-kucağına sıkıştırdığın bilgisayarının köşesi batmaya başlamıştır, canın yanıyordur. zihnindeki acıdan dikkatini aldığını görürsün ve değiştirmezsin bilgisayarın yerini.
+kucağına sıkıştırdığın bilgisayarının köşesi batmaya başlamıştır bacağına, canın yanıyordur. zihnindeki acıdan dikkatini aldığını görürsün ve değiştirmezsin bilgisayarın yerini.
 
 kendine çok kızarsın bora, çok. bir insana senin dengelerini bu kadar değiştirme gücünü verdiğin için çok kızarsın.
 
