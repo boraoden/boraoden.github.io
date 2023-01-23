@@ -43,14 +43,12 @@ onun hakkında yazmayacağına, yazılarında ondan bahsetmeyeceğine dair kendi
 
 _neyse_ dersin.
 
-muavin çocuk geliyordur, ne içeceğini soracaktır sana ama duygusallaşınca çevrendeki her şey onu hatırlatır, aşık olduysan bilirsin bunu okuyucu.  çocuğun tezgahındaki kahve bile sana günler boyu termosta taşıdığın kahveleri anımsatır, tüm bokluğuna rağmen o stresli günlere dönmek istersin sırf onun yanında biraz daha fazla olabilmektir niyetin o sevimsiz kütüphanede. 
-gözündeki yaşları çocuğun görmemesini istersin, ağzından "çay lütfen" sözleri dökülür, çatallanmıştır sesin saatlerdir konuşmamaktan ve düğümlenmiş boğazından dolayı.
+muavin çocuk geliyordur, ne içeceğini soracaktır sana ama duygusallaşınca çevrendeki her şey onu hatırlatır, aşık olduysan bilirsin bunu okuyucu.  çocuğun tezgahındaki kahve bile sana günler boyu termosta taşıdığın kahveleri anımsatır, tüm bokluğuna rağmen o stresli günlere dönmek istersin sırf onun yanında biraz daha fazla olabilmektir niyetin o sevimsiz kütüphanede. gözündeki yaşları çocuğun görmemesini istersin, ağzından "çay lütfen" sözleri dökülür, çatallanmıştır sesin saatlerdir konuşmamaktan ve düğümlenmiş boğazından dolayı.
 
 önüne bakman gerektiğini hatırlatırsın kendine yine.
 bunun kaçıncı olduğunu unutmuşsundur bile.
 
-kafandan atamadığın bu kız seni çoktan kenara koydu bora. geçmişindeki bir figür olarak yerini aldın ve defterin dürüldü. onun zihninde ettiğin köşe geçici bir köşeydi ve çoktan bitmesi gereken, bitti.
-anımsat bunu kendine.
+kafandan atamadığın bu kız seni çoktan kenara koydu bora. onun geçmişindeki bir figür olarak yerini aldın ve defterin dürüldü. onun zihninde ettiğin köşe geçici bir köşeydi ve o, o köşeyi sana vermemeyi tercih etti. çoktan bitmesi gereken, bitti. anımsat bunu kendine.
 
 o kendine tembihlediğin sıkı, sert ve kuvvetli erkek tarafının elinden kayıp gittiğini hissedersin, kalbinin aklını ele geçirmesine bugünlük müsaade edersin. bugün izindesindir.
 
