@@ -60,14 +60,15 @@ kendine çok kızarsın bora, çok. bir insana senin dengelerini bu kadar deği�
 
 doğum günü niyetli başlayan yazın yine son üç aydaki diğer yazılarının bir kopyası olmuştur.
 
-bu hakikaten sondu dersin.
+"bu hakikaten sondu" dersin. "bir daha yazmayacağım. hatta her şeyi silsem mi?" dersin.
 
-24 ocağa, yeni hayatının ilk gününe sıkı başlayacaksındır.
+24 ocak yaklaşıyordur, yeni hayatının ilk gününe sıkı başlayacaksındır.
 
 en azından öyle umarsın.
 
-muavin içeceklerin bardaklarını toplamaya geliyordur, onun elindeki koca mavi çöp poşetine tüm duygularını atmak istersin. 
+muavin içeceklerin bardaklarını toplamaya geliyordur, onun elindeki koca mavi çöp poşetine tüm duygularını atmak istersin. birazdan ışıklar kapanır, koca otobüste yamuk yumuk bir şekilde otururken ekranın aydınlatıyordur etrafı. bugünlük bu kadar yazmanın yeterli olduğunu düşünürsün.
 
-daha güzel günlere, daha güzel yaşlara, bora. seninle gurur duyuyorum oğlum.
+daha güzel günlere, daha güzel yaşlara, daha güzel insanlara, daha güzel şehirlere bora. 
+seninle gurur duyuyorum oğlum. lütfen kendini üzme.
 
 doğum günün kutlu olsun.
