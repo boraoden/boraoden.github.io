@@ -62,7 +62,7 @@ kendine çok kızarsın bora, çok. bir insana senin dengelerini bu kadar deği�
 
 doğum günü niyetli başlayan yazın yine son üç aydaki diğer yazılarının bir kopyası olmuştur.
 
-"bu hakikaten sondu" dersin. "bir daha yazmayacağım. hatta her şeyi silsem mi?" dersin.
+"bu hakikaten sondu" dersin. "bir daha yazmayacağım. hatta her şeyi silsem mi?" diye bir aklına gelir ama seneler sonra tüm bunlara bakıp güleceğini bilirsin.
 
 24 ocak yaklaşıyordur, yeni hayatının ilk gününe sıkı başlayacaksındır.
 
