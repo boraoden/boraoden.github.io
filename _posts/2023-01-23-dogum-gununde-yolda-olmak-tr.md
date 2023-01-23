@@ -52,7 +52,9 @@ muavin çocuk geliyordur, ne içeceğini soracaktır sana ama duygusallaşınca 
 önüne bakman gerektiğini hatırlatırsın kendine yine.
 bunun kaçıncı olduğunu unutmuşsundur bile.
 
-kafandan atamadığın bu kız seni çoktan kenara koydu bora. onun geçmişindeki bir figür olarak yerini aldın ve defterin dürüldü. onun zihninde ettiğin köşe geçici bir köşeydi ve o, o köşeyi sana vermemeyi tercih etti. çoktan bitmesi gereken, bitti. anımsat bunu kendine.
+tüm bunlar da geçecektir, gelen her kriz daha da zayıf oluyordur, dirayetin artıyordur. yorgunluğa, strese, yalnızlığa, yolculuğa bağlarsın. ama kuvvetli kalmak zorundasındır bora. erkek olmanın şartı budur.
+
+_kafandan atamadığın bu kız seni çoktan kenara koydu bora. onun geçmişindeki bir figür olarak yerini aldın ve defterin dürüldü. onun zihninde ettiğin köşe geçici bir köşeydi ve o, o köşeyi sana vermemeyi tercih etti. çoktan bitmesi gereken, bitti. anımsat bunu kendine._
 
 o kendine tembihlediğin sıkı, sert ve kuvvetli erkek tarafının elinden kayıp gittiğini hissedersin, kalbinin aklını ele geçirmesine bugünlük müsaade edersin. bugün izindesindir.
 
