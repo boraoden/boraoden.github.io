@@ -48,8 +48,27 @@ gözündeki yaşları çocuğun görmemesini istersin, ağzından "çay lütfen"
 önüne bakman gerektiğini hatırlatırsın kendine yine.
 bunun kaçıncı olduğunu unutmuşsundur bile.
 
-kafandan atamadığın bu kız seni çoktan kenara koydu bora. geçmişindeki bir figür olarak yerini aldın ve defterin dürüldü. onun zihninde ettiğin köşe geçici bir köşeydi ve o kö bitmesi gereken, bitti.
-
+kafandan atamadığın bu kız seni çoktan kenara koydu bora. geçmişindeki bir figür olarak yerini aldın ve defterin dürüldü. onun zihninde ettiğin köşe geçici bir köşeydi ve çoktan bitmesi gereken, bitti.
 anımsat bunu kendine.
 
-çok senelerin var bora daha yaşayacak, 22 yaş nedir ki?
+yine de bugüne özel sıkı, sert ve kuvvetli erkek tarafının elinden kayıp gittiğini hissedersin, kalbinin aklını ele geçirmesine bugünlük müsaade edersin.
+
+geride bıraktığın senelerin önündeki yaşa güzel bir malzeme olacağını temenni etmekten başka bir şey gelmez elinden. 
+
+kucağına sıkıştırdığın bilgisayarının köşesi batmaya başlamıştır, canın yanıyordur. zihnindeki acıdan dikkatini aldığını görürsün ve değiştirmezsin bilgisayarın yerini.
+
+kendine çok kızarsın bora, çok. bir insana senin dengelerini bu kadar değiştirme gücünü verdiğin için çok kızarsın.
+
+doğum günü niyetli başlayan yazın yine son üç aydaki diğer yazılarının bir kopyası olmuştur.
+
+bu hakikaten sondu dersin.
+
+24 ocağa, yeni hayatının ilk gününe sıkı başlayacaksındır.
+
+en azından öyle umarsın.
+
+muavin içeceklerin bardaklarını toplamaya geliyordur, onun elindeki koca mavi çöp poşetine tüm duygularını atmak istersin. 
+
+daha güzel günlere, daha güzel yaşlara, bora.
+
+doğum günün kutlu olsun.
