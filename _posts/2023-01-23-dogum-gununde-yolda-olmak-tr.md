@@ -7,6 +7,8 @@ title: doğum gününde yolda olmak - tr
 ---
 emektar bilgisayarın otobüsün her hareketinde tir tir titriyordur ama yazasın gelmiştir, o istek bastırdığında kendine yapabileceğin en rezil kötülük karşı koymaktır ona. önündeki teyze indirmişse de koltuğunu en arkaya, iki büklüm bir pozisyon bulur sığdırırsın bilgisayarı bir yerlere ve flörtleşmeye başlarsın klavyenle.
 
+yollar melankolik olur.
+
 kulağındaysa teoman vardır,
 
 > nasıl oluyor?    
@@ -33,7 +35,7 @@ aklına tek bir insan gelir. aklına gelmesi için teoman'a ihtiyacın yoktur da
 
 biliyorsundur okuyacaktır bunu, hatta ziyaret etmiştir muhakkak internetteki bu dijital köşeni bugün çoktan ve belki okumuştur yazılarından birini. hatırladığını adın gibi bilirsin yani, her şeye rağmen "keşke yazsaydı" şeklinde hüzünlenirsin biraz. 
 
-yazmamasının senin için daha iyi olduğunu kanıksamış olsan da "yine de arasaydı" diye düşünmekten kendini alamazsın. sana kendini hatırlatsa da hatırlatmasa da üzüleceğini hissedersin, haliyle hatırlatmasını istemek daha hoş gelir gözüne.
+yazmamasının senin için daha iyi olduğunu kanıksamış olsan da "yine de arasaydı" diye düşünmekten kendini alamazsın. sana kendini hatırlatsa da hatırlatmasa da üzüleceğini hissedersin, haliyle hatırlatmasını istemek daha hoş gelir gözüne. fakat yine sonra anlarsın ki aradığın şey alelade bir doğum günü mesajı değildir, hiç atmayacağı bir mesaj, bir geri dönüştür beklediğin. bunu kabullenmen zaman alır.
 
 otobüste istemsizce gülersin, aranızdaki yaş farkı bire inmiştir bugün yeniden. yaptığınız planlar aklına gelir.
 
@@ -77,3 +79,5 @@ daha güzel günlere, daha güzel yaşlara, daha güzel insanlara bora.
 seninle gurur duyuyorum oğlum. 
 
 doğum günün kutlu olsun.
+
+![]({{site.baseurl}}/images/littlebora.png)
