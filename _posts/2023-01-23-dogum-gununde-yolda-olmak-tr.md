@@ -16,6 +16,8 @@ yıllar, hayatlar geçiyor
 şeklinde sesleniyordur sana.
 hak verirsin ona.
 
+bu seneki, yaşadığın en dandik doğum günlerinden biridir. tüm günün fotokopicilerde evrak kovalayarak, birilerine emailler göndererek geçmiştir, senenin sana ayrılmış gününün son saatleriyse rahatsız otobüs koltuğunda uyuklamakla geçecektir işte.
+
 [doğum gününde yalnız olmayı](https://boraoden.net/dogum-gununde-yalniz-olmak-tr) çok iyi biliyorsundur lakin gece boyu sürecek bir yolculuğa çıkacağın hiç tutmamıştır daha önce yaş atladığın günde. 
 
 yolda olmanın tatlı bir metafor olduğu aklına gelir birden, 22 sene doldurmuşsundur şu dünyada fakat nereye gittiğini bilmiyorsundur. altındaki yirmi tonluk canavarsa izmir'e doğru yol alıyordur. üç sene geçmiştir izmir'e uğramayalı. güzel şeyler yaşamışsındır son ziyaretinde ve yüzüne zor bir tebessüm konar.
