@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: personal diary
 permalink: dogum-gununde-yolda-olmak-tr
@@ -42,5 +42,10 @@ onun hakkında yazmayacağını, yazılarında ondan bahsetmeyeceğine dair söz
 
 _neyse_ dersin.
 
-muavin çocuk geliyordur, ne içeceğini soracaktır ama duygusallaşınca çevrendeki her şey onu hatırlatır sana.  çocuğun tezgahındaki kahve bile sana termosta taşıdığın kahveleri anımsatır, tüm bokluğuna rağmen o stresli günlere dönmek istersin sırf onun yanında biraz daha fazla olabilmektir niyetin. 
+muavin çocuk geliyordur, ne içeceğini soracaktır sana ama duygusallaşınca çevrendeki her şey onu hatırlatır, aşık olduysan bilirsin bunu okuyucu.  çocuğun tezgahındaki kahve bile sana günler boyu termosta taşıdığın kahveleri anımsatır, tüm bokluğuna rağmen o stresli günlere dönmek istersin sırf onun yanında biraz daha fazla olabilmektir niyetin o sevimsiz kütüphanede. 
 gözündeki yaşları çocuğun görmemesini istersin, ağzından "çay lütfen" sözleri dökülür, çatallanmıştır sesin saatlerdir konuşmamaktan ve düğümlenmiş boğazından dolayı.
+
+önüne bakman gerektiğini hatırlatırsın kendine yine.
+bunun kaçıncı olduğunu unutmuşsundur bile.
+
+çok senelerin var bora daha yaşayacak, 22 yaş nedir ki?
