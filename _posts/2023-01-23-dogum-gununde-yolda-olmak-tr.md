@@ -68,7 +68,8 @@ en azından öyle umarsın.
 
 muavin içeceklerin bardaklarını toplamaya geliyordur, onun elindeki koca mavi çöp poşetine tüm duygularını atmak istersin. birazdan ışıklar kapanır, koca otobüste yamuk yumuk bir şekilde otururken ekranın aydınlatıyordur etrafı. bugünlük bu kadar yazmanın yeterli olduğunu düşünürsün.
 
-daha güzel günlere, daha güzel yaşlara, daha güzel insanlara, daha güzel şehirlere bora. 
+daha güzel günlere, daha güzel yaşlara, daha güzel insanlara bora. 
+
 seninle gurur duyuyorum oğlum. lütfen kendini üzme.
 
 doğum günün kutlu olsun.
