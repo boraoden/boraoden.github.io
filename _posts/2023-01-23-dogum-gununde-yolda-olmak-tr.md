@@ -70,6 +70,6 @@ muavin içeceklerin bardaklarını toplamaya geliyordur, onun elindeki koca mavi
 
 daha güzel günlere, daha güzel yaşlara, daha güzel insanlara bora. 
 
-seninle gurur duyuyorum oğlum. lütfen kendini üzme.
+seninle gurur duyuyorum oğlum. 
 
 doğum günün kutlu olsun.
