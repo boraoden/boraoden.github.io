@@ -51,7 +51,7 @@ bunun kaçıncı olduğunu unutmuşsundur bile.
 kafandan atamadığın bu kız seni çoktan kenara koydu bora. geçmişindeki bir figür olarak yerini aldın ve defterin dürüldü. onun zihninde ettiğin köşe geçici bir köşeydi ve çoktan bitmesi gereken, bitti.
 anımsat bunu kendine.
 
-yine de bugüne özel sıkı, sert ve kuvvetli erkek tarafının elinden kayıp gittiğini hissedersin, kalbinin aklını ele geçirmesine bugünlük müsaade edersin.
+o kendine tembihlediğin sıkı, sert ve kuvvetli erkek tarafının elinden kayıp gittiğini hissedersin, kalbinin aklını ele geçirmesine bugünlük müsaade edersin. bugün izindesindir.
 
 geride bıraktığın senelerin önündeki yaşa güzel bir malzeme olacağını temenni etmekten başka bir şey gelmez elinden. 
 
