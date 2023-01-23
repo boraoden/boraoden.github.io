@@ -60,15 +60,17 @@ geride bıraktığın senelerin önündeki yaşa güzel bir malzeme olacağını
 
 kucağına sıkıştırdığın bilgisayarının köşesi batmaya başlamıştır bacağına, canın yanıyordur. zihnindeki acıdan dikkatini aldığını görürsün ve değiştirmezsin bilgisayarın yerini.
 
-kendine çok kızarsın bora, çok. bir insana senin dengelerini bu kadar değiştirme gücünü verdiğin için çok kızarsın.
-
 doğum günü niyetli başlayan yazın yine son üç aydaki diğer yazılarının bir kopyası olmuştur.
 
-"bu hakikaten sondu" dersin. "bir daha yazmayacağım. hatta her şeyi silsem mi?" diye bir aklına gelir ama seneler sonra tüm bunlara bakıp güleceğini bilirsin.
+kendine çok kızarsın bora, çok. bir insana senin dengelerini bu kadar değiştirme gücünü verdiğin için çok kızarsın. lanet edersin kendine. tüm bu melankoliye, tüm bu kedere, kendine yaptığın eziyete.
+
+duygularına saygından tutarsın ayakta hepsini. ama ertesi gün eski bora'ya, sağlam bora'ya, sırtı dik bora'ya da döneceğini bilirsin. iyi hissedersin birden. fethedilecek bir hayat bekliyordur seni.
+
+"bu hakikaten sondu" dersin. "bir daha yazmayacağım. hatta her şeyi silsem mi?" diye bir aklına gelir ama seneler sonra tüm bunlara bakıp güleceğini bilirsin. 
 
 24 ocak yaklaşıyordur, yeni hayatının ilk gününe sıkı başlayacaksındır.
 
-en azından öyle umarsın.
+en azından öyle yapmaya niyetlisindir.
 
 otobüs bir mola verse sana iyi geleceğini düşünürsün, annen doğum günü pastandan koca bir parçayı çıkın yapıp koltuğunun altına sıkıştırmıştır son dakikada. dinlenme tesisi soğuğunu iyi bilirsin. yine de "otobüs bir dursa da mideye indirsem şunu" diye düşünürsün.
 
