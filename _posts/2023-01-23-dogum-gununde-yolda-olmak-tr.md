@@ -31,7 +31,7 @@ diyesi tutar.
 
 aklına tek bir insan gelir. aklına gelmesi için teoman'a ihtiyacın yoktur da uyumlu bir arkadaş olur işte teoman da sana.
 
-biliyorsundur okuyacaktır bunu, hatta ziyaret etmiştir muhakkak internetteki bu dijital köşeni bugün çoktan ve belki okumuştur yazılarından birini. hatırladığını adın gibi bilirsin yani, her şeye rağmen "keşke yazsaydı" şeklinde hüzünlenirsin biraz.
+biliyorsundur okuyacaktır bunu, hatta ziyaret etmiştir muhakkak internetteki bu dijital köşeni bugün çoktan ve belki okumuştur yazılarından birini. hatırladığını adın gibi bilirsin yani, her şeye rağmen "keşke yazsaydı" şeklinde hüzünlenirsin biraz. 
 
 yazmamasının senin için daha iyi olduğunu kanıksamış olsan da "yine de arasaydı" diye düşünmekten kendini alamazsın. sana kendini hatırlatsa da hatırlatmasa da üzüleceğini hissedersin, haliyle hatırlatmasını istemek daha hoş gelir gözüne.
 
@@ -68,7 +68,7 @@ doğum günü niyetli başlayan yazın yine son üç aydaki diğer yazılarını
 
 en azından öyle umarsın.
 
-otobüs bir mola verse sana iyi geleceğini düşünürsün, annen doğum günü pastandan koca bir parçayı çıkın yapıp koltuğunun altına sıkıştırmıştır son dakikada. dinlenme tesisi soğuğunu iyi bilirsin. yine de "şu otobüs bir dursa da mideye indirsem şunu" diye düşünürsün.
+otobüs bir mola verse sana iyi geleceğini düşünürsün, annen doğum günü pastandan koca bir parçayı çıkın yapıp koltuğunun altına sıkıştırmıştır son dakikada. dinlenme tesisi soğuğunu iyi bilirsin. yine de "otobüs bir dursa da mideye indirsem şunu" diye düşünürsün.
 
 muavin içeceklerin bardaklarını toplamaya geliyordur, onun elindeki koca mavi çöp poşetine tüm duygularını atmak istersin. birazdan ışıklar kapanır, koca otobüste yamuk yumuk bir şekilde otururken ekranın aydınlatıyordur etrafı. bugünlük bu kadar yazmanın yeterli olduğunu düşünürsün.
 
