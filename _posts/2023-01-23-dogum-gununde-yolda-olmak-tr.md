@@ -68,6 +68,8 @@ doğum günü niyetli başlayan yazın yine son üç aydaki diğer yazılarını
 
 en azından öyle umarsın.
 
+otobüs bir mola verse sana iyi geleceğini düşünürsün, annen doğum günü pastandan koca bir parçayı çıkın yapıp koltuğunun altına sıkıştırmıştır son dakikada. dinlenme tesisi soğuğunu iyi bilirsin. yine de "şu otobüs bir dursa da mideye indirsem şunu" diye düşünürsün.
+
 muavin içeceklerin bardaklarını toplamaya geliyordur, onun elindeki koca mavi çöp poşetine tüm duygularını atmak istersin. birazdan ışıklar kapanır, koca otobüste yamuk yumuk bir şekilde otururken ekranın aydınlatıyordur etrafı. bugünlük bu kadar yazmanın yeterli olduğunu düşünürsün.
 
 daha güzel günlere, daha güzel yaşlara, daha güzel insanlara bora. 
