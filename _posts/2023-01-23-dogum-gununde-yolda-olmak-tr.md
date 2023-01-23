@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: post
 categories: personal diary
 permalink: dogum-gununde-yolda-olmak-tr
@@ -48,7 +48,7 @@ gözündeki yaşları çocuğun görmemesini istersin, ağzından "çay lütfen"
 önüne bakman gerektiğini hatırlatırsın kendine yine.
 bunun kaçıncı olduğunu unutmuşsundur bile.
 
-kafandan atamadığın bu kız seni çoktan kenara koydu bora. geçmişindeki bir figür olarak yerini aldın ve bitmesi gerekiyordu.
+kafandan atamadığın bu kız seni çoktan kenara koydu bora. geçmişindeki bir figür olarak yerini aldın ve defterin dürüldü. onun zihninde ettiğin köşe geçici bir köşeydi ve o kö bitmesi gereken, bitti.
 
 anımsat bunu kendine.
 
