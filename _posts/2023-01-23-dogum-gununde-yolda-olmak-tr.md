@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: personal diary
 permalink: dogum-gununde-yolda-olmak-tr
