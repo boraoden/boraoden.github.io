@@ -68,7 +68,7 @@ kendine çok kızarsın bora, çok. bir insana senin dengelerini bu kadar deği�
 
 duygularına saygından tutarsın ayakta hepsini. ama ertesi gün eski bora'ya, sağlam bora'ya, sırtı dik bora'ya da döneceğini bilirsin. iyi hissedersin birden. fethedilecek bir hayat bekliyordur seni.
 
-"bu hakikaten sondu" dersin. "bir daha yazmayacağım. hatta her şeyi silsem mi?" diye bir aklına gelir ama seneler sonra tüm bunlara bakıp güleceğini bilirsin. 
+"bu hakikaten sondu" dersin. "bir daha yazmayacağım. hatta her şeyi silsem mi?" diye bir aklına gelir ama seneler sonra tüm bunlara bakıp güleceğini bilirsin. bu cidden sondur. kafanda kritik bir şalter atmıştır. bu kızın umurunda değilken üzülmek neye yarar bora?
 
 24 ocak yaklaşıyordur, yeni hayatının ilk gününe sıkı başlayacaksındır.
 
