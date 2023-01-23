@@ -69,6 +69,6 @@ en azından öyle umarsın.
 
 muavin içeceklerin bardaklarını toplamaya geliyordur, onun elindeki koca mavi çöp poşetine tüm duygularını atmak istersin. 
 
-daha güzel günlere, daha güzel yaşlara, bora.
+daha güzel günlere, daha güzel yaşlara, bora. seninle gurur duyuyorum oğlum.
 
 doğum günün kutlu olsun.
