@@ -26,7 +26,7 @@ son bir özür için tüm sevdiğim kadınlardan
 
 diyesi tutar.
 
-aklına tek bir insan gelir. aklına gelmesi için teoman'a ihtiyacın yoktur da uyumlu bir arkadaş olur işte o da sana.
+aklına tek bir insan gelir. aklına gelmesi için teoman'a ihtiyacın yoktur da uyumlu bir arkadaş olur işte teoman da sana.
 
 biliyorsundur okuyacaktır bunu, hatta ziyaret etmiştir muhakkak internetteki bu dijital köşeni bugün çoktan ve belki okumuştur yazılarından birini. hatırladığını adın gibi bilirsin yani, her şeye rağmen "keşke yazsaydı" şeklinde hüzünlenirsin biraz.
 
@@ -40,4 +40,7 @@ otobüste istemsizce gülersin, aranızdaki yaş farkı bire inmiştir bugün ye
 
 onun hakkında yazmayacağını, yazılarında ondan bahsetmeyeceğine dair söz vermişsindir güya. iradesiz gözükürsün kendine. bilirsin böyle yazılar yazmak işini hiç kolaylaştırmıyordur. zaman denilen üçkağıtçıya güvenerek hata ettiğini fark edersin.
 
-neyse
+_neyse_ dersin.
+
+muavin çocuk geliyordur, ne içeceğini soracaktır ama duygusallaşınca çevrendeki her şey onu hatırlatır sana.  çocuğun tezgahındaki kahve bile sana termosta taşıdığın kahveleri anımsatır, tüm bokluğuna rağmen o stresli günlere dönmek istersin sırf onun yanında biraz daha fazla olabilmektir niyetin. 
+gözündeki yaşları çocuğun görmemesini istersin, ağzından "çay lütfen" sözleri dökülür, çatallanmıştır sesin saatlerdir konuşmamaktan ve düğümlenmiş boğazından dolayı.
