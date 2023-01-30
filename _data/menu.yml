@@ -2,7 +2,11 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:  
-  
+  - title: me
+    entries:  
+      - title: <a href="/about-me">about me</a>
+    #  - title: <a href="/archive">archive</a>  
+      - title: <a href="/quote-corner">quote corner</a> 
 #  - title:   
 #  - title: 
   
@@ -18,18 +22,21 @@ entries:
 #  - title:  
 
 
-#  - title: "latest posts:"
-#    post_list:
-#      limit: 3
-#      show_more: false
-#      show_more_text: click to go to archive
-#      show_more_url: archive
+  - title: "latest posts:"
+    post_list:
+      limit: 10
+      show_more: false
+      show_more_text: click to go to archive
+      show_more_url: archive
 
-  - title: "contact me via:"
+  - title: "contact:"
     entries:
  #    - title: boraodenn [at] outlook [dot] com
-      - title: <a href="mailto:boraodenn@outlook.com">email</a>  <a href="https://www.linkedin.com/in/boraoden/">linkedin</a> #<a href= "https://github.com/boraoden">github</a> 
-      - title: <a href="https://open.spotify.com/user/6atimpsh5xjmanqgunag33zry?si=0822978bdbab432c">spotify</a> <a href= "https://letterboxd.com/wiseonn">letterboxd</a> <a href= "https://www.goodreads.com/user/show/116783385-bora">goodreads</a>   
+      - title: <a href="mailto:boraodenn@outlook.com">email</a>  
+      - title: <a href="https://www.linkedin.com/in/boraoden/">linkedin</a> #<a href= "https://github.com/boraoden">github</a> 
+      - title: <a href="https://open.spotify.com/user/6atimpsh5xjmanqgunag33zry?si=0822978bdbab432c">spotify</a> 
+      - title: <a href= "https://letterboxd.com/wiseonn">letterboxd</a> 
+      - title: <a href= "https://www.goodreads.com/user/show/116783385-bora">goodreads</a>   
 
 
 
