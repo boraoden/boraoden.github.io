@@ -22,13 +22,6 @@ entries:
 #  - title:  
 
 
-  - title: "latest posts:"
-    post_list:
-      limit: 10
-      show_more: false
-      show_more_text: click to go to archive
-      show_more_url: archive
-
   - title: "contact:"
     entries:
  #    - title: boraodenn [at] outlook [dot] com
@@ -40,7 +33,12 @@ entries:
 
 
 
-
+  - title: "latest posts:"
+    post_list:
+      limit: 10
+      show_more: false
+      show_more_text: click to go to archive
+      show_more_url: archive
 
 #  - title: <img src="/images/michaelscott.gif" alt="yeah." width="360" height="181.2" align="left">
 
