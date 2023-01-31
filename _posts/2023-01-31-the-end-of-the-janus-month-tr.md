@@ -19,7 +19,9 @@ bilgisayarımın hoparlöründense conor mason sesleniyor bana,
 
 > heaven's a mindset away
 
-diyor. klişe diyorum ama çok hak veriyorum. cennet, zihnimizde bitiyor sayın okuyucu. cennet, bir mental çerçeve değişikliği gerektiriyor hakikaten. 
+diyor. 
+
+klişe diyorum ama çok hak veriyorum. cennet, zihnimizde bitiyor sayın okuyucu. cennet, sadece bir mental çerçeve değişikliği gerektiriyor hakikaten. 
 
 memlekete senenin ilk karı geldi, yoğun da geldi. niğde ile ilgili en çok keyif aldığım taraf -pek de fazla değil zaten- kar şüphesiz. adeta bir fondöten gibi kapatıyor niğde'nin çirkin sokaklarını. neredeyse "ulu" bir sessizliğe gömülüyor şehir, özellikle sabahın erken saatleri ya da geceye doğru bastırmışsa yağış. çocukluğu anımsatıyor biraz da, her şeyin daha bir masum gözüktüğü, daha bir kaymak gibi olduğu günleri. kar yağınca tek derdin ertesi gün okulun tatil olmasını istediğin yahut aşağı inip kartopu savaşı yapmak için annenden izin alman gereken o pek bir hoş günleri. fakat tüm bu estetik kaygılardan da öte yaraları kapatıyor sanki kar. güzel bir "restart" atıyor her şeye, şehrin aurasına da insanlara da. o sebeple _january_ ile pek bir hoş ikili oluyorlar. özlemişim gökten düşen bu masum pamukları.
 
