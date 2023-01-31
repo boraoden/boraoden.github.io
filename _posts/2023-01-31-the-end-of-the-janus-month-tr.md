@@ -31,7 +31,7 @@ her neyse, pasaportumun kargosu yola çıktı bugün. vize çıkmıştır umarı
 
 izmir'den döndükten beri inanılmaz hastaydım ama gitgide toparlıyorum. bolca okuyorum, yazıyorum, izliyorum ve deliler gibi kahve içiyorum bu aralar. tembellik yapıyorum diyemem, çalışıyorum da diyemem. 
 
-dün ametg ile uzun bir masa tenisi seansı yaptık, 6-5 yendim elemanı 11'lik setlerde. ama bitirdiğimde -hastalık sebebiyle- sırılsıklamdım. biraz daha ciddiye alsa yenerdi beni herhalde, güzel kesiyor topu şerefsizim, hahah. 
+dün _ametg_ ile uzun bir masa tenisi seansı yaptık, 6-5 yendim elemanı 11'lik setlerde. ama bitirdiğimde -hastalık sebebiyle- sırılsıklamdım. biraz daha ciddiye alsa yenerdi beni herhalde, güzel kesiyor topu şerefsizim, hahah. 
 
 ![]({{site.baseurl}}/images/janus3.jpg)
 
