@@ -5,7 +5,7 @@ categories: diary personal
 permalink: the-end-of-the-janus-month-tr
 title: the end of the janus' month - tr
 ---
-ingilizcedeki ay isimlerinin birçoğu -malumunuz- roma tanrı ve kişiliklerinden isim alıyor. _march_ ve _june_ ilahi, _july_ ve _august_ ise tarihi bir köken barındırıyor örneğin. bunlar arasında beni en memnun edense _january_. _janus_'un ayı çünkü _january_.
+ingilizcedeki ay isimlerinin birçoğu -malumunuz- roma tanrı ve kişiliklerinden isim alıyor. _march_ ve _june_ ilahi, _july_ ve _august_ ise tarihi bir köken barındırıyor örneğin. bunlar arasında benim en çok hoşuma gidense _january_. _janus_'un ayı çünkü o.
 
 _janus_, iki yüze sahip bir roma tanrısı. pek meşhur değil doğrusu diğer akrabalarına göre ama benim nezdimde onlardan hiç de geride kalır yanı yok. _janus_'u pek bir sempatik bulmamın ardında yeni başlangıçların, değişimlerin, geçişlerin tanrısı olması yatıyor. bir kapı görevi görüyor adeta; geçmişe bakıyor bir yüzü, dersler çıkarıyor muhtemelen ve diğeriyse geleceğe, uzak ufuklara göz kırpıyor. elbette doğum günümün de bu ayda olması benim için onu daha da anlamlı kılıyor.
 
