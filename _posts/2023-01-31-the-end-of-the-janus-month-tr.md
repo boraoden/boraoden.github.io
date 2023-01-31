@@ -32,8 +32,7 @@ her neyse, pasaportumun kargosu yola çıktı bugün. vize çıkmıştır umarı
 izmir'den döndükten beri inanılmaz hastaydım ama gitgide toparlıyorum. bolca okuyorum, yazıyorum, izliyorum ve deliler gibi kahve içiyorum bu aralar. tembellik yapıyorum diyemem, çalışıyorum da diyemem. 
 
 dün _ametg_ ile uzun bir masa tenisi seansı yaptık, 6-5 yendim bizimkini 11'lik setlerde. ama bitirdiğimde -hastalık sebebiyle- sırılsıklamdım. biraz daha ciddiye alsa yenerdi beni herhalde, güzel kesiyor topu şerefsizim, hahah. 
-
-![]({{site.baseurl}}/images/janus3.jpg)
+<!--- ![]({{site.baseurl}}/images/janus3.jpg) --->
 
 öyle işte, uzun zaman sonra genel olarak iyi hissediyorum okuyucu. mutlu olmak için birtakım insanlara ihtiyacım olmadığını hatırlamam gerekiyormuş sadece. tek başınalık bağımlısı bora, mutluluğu başkalarında arama hatasına nasıl da düşmüş öyle kolayca, komik geliyor şimdi. kulağımda çalan bir _nothing but thieves_ yeter de artar hayattan keyif almama. yanımda birbirimizi yukarı taşıdığımız dostlarım da varsa tadından yenmez olur tabii, yalan söylemeyeceğim. ha unutmadan, bir de yanıma kıvrılmış bir kedi varsa iki adım ötemde, benden mutlusu yok. ne kadınlara ne de para döktüğü lüzumsuz onlarca materyale ihtiyacı varmış insanın; bunu unutmuşum bir şekilde. tek başınalıktan keyif almasını bilmeli, o kadar. çalışmalı kuşkusuz, kendi potansiyelini gerçekleştirmek için dişini tırnağına takmalı, yukarıda yazdıklarım da gelir bunlarla beraber doğal olarak. hedefler koymak elzem okuyucu, ölene kadar kendimizi nasıl oyalayacağız yoksa? mental mastürbasyonumuzu nasıl yapacağımız önem arz etmiyor mu? video oyunlarıyla mı yapmak istersin bunu, netflix ile mi, sosyal medya ile mi, alkol ile mi, kadınlar ile mi yoksa gözünü tepeye dikerek mi?
 
