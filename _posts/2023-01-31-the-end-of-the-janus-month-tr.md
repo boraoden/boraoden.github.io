@@ -2,8 +2,8 @@
 published: true
 layout: post
 categories: diary personal
-permalink: the-end-of-the-janus-month-tr
-title: the end of the janus' month - tr
+permalink: while-ending-the-month-of-janus-tr
+title: while ending the month of janus - tr
 ---
 ingilizcedeki ay isimlerinin birçoğu -malumunuz- roma tanrı ve kişiliklerinden isim alıyor. _march_ ve _june_ ilahi, _july_ ve _august_ ise tarihi bir köken barındırıyor örneğin. bunlar arasında benim en çok hoşuma gidense _january_. _janus_'un ayı çünkü o.
 
