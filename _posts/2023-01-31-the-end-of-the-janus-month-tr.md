@@ -44,4 +44,4 @@ dememiş miydi?
 
 kapatıyoruz ayını sevgili _janus_, tanrıya inanmıyorum ama inanmak zorunda kalsaydım baş ucuma posterini asacağım tanrı sen olurdun. hakikaten pek bir efektif değişimlere muktedirmişsin. teşekkür ederim. buna ihtiyacım varmış, şimdi haftalar önceki bora'ya gülerek ve hatta acıyarak bakıyorum. geçmişi geçmişte bırakabildiğim için seviniyorum, bırakamayanlara üzülüyorum.
 
-hiç olmadığım kadar kudretli, güzel ve bağımsız hissediyorum.
+elbette "mood swing"ler olacaktır ama şu an hiç olmadığım kadar kudretli, güzel ve bağımsız hissediyorum.
