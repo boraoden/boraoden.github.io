@@ -42,4 +42,5 @@ because i keep looking up
 
 dememiş miydi?
 
-kapatıyoruz ayını sevgili _janus_, tanrıya inanmıyorum ama inanmak zorunda kalsaydım baş ucuma posterini asacağım tanrı sen olurdun. hakikaten pek bir efektif değişimlere muktedirmişsin. teşekkür ederim. buna ihtiyacım varmış, şimdi haftalar önceki bora'ya gülerek ve hatta acıyarak bakıyorum. hiç olmadığım kadar kudretli, güzel ve bağımsız hissediyorum.
+kapatıyoruz ayını sevgili _janus_, tanrıya inanmıyorum ama inanmak zorunda kalsaydım baş ucuma posterini asacağım tanrı sen olurdun. hakikaten pek bir efektif değişimlere muktedirmişsin. teşekkür ederim. buna ihtiyacım varmış, şimdi haftalar önceki bora'ya gülerek ve hatta acıyarak bakıyorum. geçmişi geçmişte bırakabildiğim için seviniyorum, bırakamayanlar utansın.
+hiç olmadığım kadar kudretli, güzel ve bağımsız hissediyorum.
