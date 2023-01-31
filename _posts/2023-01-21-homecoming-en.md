@@ -2,7 +2,7 @@
 published: true
 layout: post
 categories: diary
-permalink: homecoming - en
+permalink: homecoming-en
 title: homecoming - en
 ---
 <!--- <audio controls>
