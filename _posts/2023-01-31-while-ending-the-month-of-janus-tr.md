@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: diary personal
 permalink: while-ending-the-month-of-janus-tr
