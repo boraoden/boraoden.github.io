@@ -45,6 +45,6 @@ dememiş miydi?
 
 adam bir şeyler biliyor.
 
-kapatıyoruz ayını sevgili _janus_, tanrıya inanmıyorum ama inanmak zorunda kalsaydım baş ucuma posterini asacağım tanrı sen olurdun. hakikaten ciddi değişimlere muktedirmişsin. teşekkür ederim. buna ihtiyacım varmış. şimdi, haftalar önceki bora'ya gülerek ve hatta acıyarak bakıyorum. geçmişi geçmişte bırakabildiğim için seviniyorum, bırakamayanlara üzülüyorum. elbette zor günler zamanı gelince yeniden bastıracak, bunu da aklımdan çıkarmıyorum.
+kapatıyoruz ayını sevgili _janus_, tanrıya inanmıyorum ama inanmak zorunda kalsaydım baş ucuma posterini asacağım tanrı sen olurdun. hakikaten ciddi değişimlere muktedirmişsin. teşekkür ederim. buna ihtiyacım varmış. şimdi, haftalar önceki bora'ya gülerek ve hatta acıyarak bakıyorum. elbette zor günler zamanı gelince yeniden bastıracak, bunu da aklımdan çıkarmıyorum.
 
-**hatalarımdan dersler çıkardım, büyüdüm ve şu an daha önce olmadığım kadar kudretli, güzel ve bağımsız hissediyorum.**
+şubat senin ayın olsun sevgili bora.
