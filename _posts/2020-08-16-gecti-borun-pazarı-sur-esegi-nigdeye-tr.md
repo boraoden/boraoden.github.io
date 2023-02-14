@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: eksi music
 permalink: gecti-borun-pazarı-sur-esegi-nigdeye-tr
