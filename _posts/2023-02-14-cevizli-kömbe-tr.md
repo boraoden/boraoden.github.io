@@ -33,25 +33,25 @@ elinden gelen hiçbir şey ama hiçbir şey yoktur.
 
 ortada kalmış gibi hissetmek çok koyar adama.
 
-"haksızlık yaptın teyzem, gitmeyi hak etmemiştin sen" dersin.
+"böyle olmaz ki teyzem, gitmeyi hak etmemiştin sen" dersin.
 
 sesi yankılanır kafanda birden, dolmuş gözlerin bırakır bu sefer yanaklarından damlaları.
 
-maharatlığını, iş bitiriciliğini anımsarsın, bir daha ağzına onun kömbelerini süremeyeceksindir. başkasınınkini istemezsin, kalsın.
+onun maharatlığını, iş bitiriciliğini anımsarsın, bir daha ağzına onun kömbelerini süremeyeceksindir. başkasınınkini istemezsin, "kalsın" dersin.
 
 buzdolabındaysa biberli ekmeği duruyordur. birkaç hafta önce yolladığı. hala evindedir taptaze antakya zahteri seni tanıştırdığı.
 
-nasıl yiyeceğini bilemezsin.
+nasıl yiyeceğini bilemezsin, düşünmek istemezsin.
 
 _teyze, anne yarısıdır._ derler ya, sen; kendi yarını kaybetmiş gibi hissediyorsundur.
 
-kendine çok kızarsın, çok. "neden daha çok aramadım, neden mersin'e uğradığında yanına bir saatliğine de olsa gelemedim" dersin.
+kendine çok kızarsın, çok. "neden daha çok aramadım, neden mersin'e uğradığında yanına bir saatliğine de olsa gelemedim" diye azarlarsın durmaksızın kendini.
 
 anlamı yoktur artık.
 
 "kim bilir ne planları vardı" diye düşünürsün.
 
-zorlamaya başlamıştır artık düşüncelerini toparlamak, bırakmalı yavaştan diye düşünürsün.
+zorlamaya başlamıştır artık düşüncelerini toparlamak, yavaştan bırakman gerektiğini duyumsarsın.
 
 eğer bir tanrı varsa seni cennetine koyduğuna eminim aynur teyzem.
 
