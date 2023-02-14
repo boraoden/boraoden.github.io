@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: eksi cinema
 permalink: batman-the-animated-series-tr
