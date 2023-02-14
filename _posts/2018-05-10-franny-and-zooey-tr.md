@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: eksi literature
 permalink: franny-and-zooey-tr
