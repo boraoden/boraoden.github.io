@@ -1,5 +1,9 @@
 ---
-published: false
+published: true
+layout: post
+categories: eksi literature
+permalink: the-sea-wolf-tr
+title: the sea wolf - tr
 ---
 okurken inanılmaz keyif aldığım, bir an olsun temposu düşmeyen harikulade roman. sindire sindire, biraz da okulun etkisiyle ancak bir ayda bitirebildim 367 sayfayı fakat yavaş yavaş okuduğum için gayet memnunum. keşke okurken notlar alsaydım dedim bitirdikten sonra. benim yaptığım hataya siz düşmeyin ve kitabı bence bir kalem defter ile birlikte okuyun.
 
