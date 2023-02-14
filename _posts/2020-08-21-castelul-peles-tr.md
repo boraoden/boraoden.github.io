@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: eksi history
 permalink: castelul-peles-tr
