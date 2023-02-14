@@ -1,5 +1,9 @@
 ---
 published: false
+layout: post
+categories: eksi music
+permalink: gecti-borun-pazarı-sur-esegi-nigdeye-tr
+title: 'geçti bor''un pazarı, sür eşeği niğde''ye - tr'
 ---
 fırsatların kaçtığını belirten ve ilerideki şansları değerlendirmek gerektiğini salık veren deyim. temeli `niğde` ilçesi olan `bor`'un pazarının salı, `niğde`'nin esas pazarının ise perşembe günü kuruluyor olmasına dayanır. esas diyorum zira artık şehirlerde tek bir pazar kurulma günü olmadığı aşikar. rivayete göre `bor` pazarı'nı kaçıran kişi, çarşamba günü yol alıp perşembe günkü `niğde` pazarı'na yetişecektir.
 
