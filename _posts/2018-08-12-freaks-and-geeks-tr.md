@@ -1,5 +1,9 @@
 ---
-published: false
+published: true
+layout: post
+categories: eksi cinema
+permalink: freaks-and-geeks-tr
+title: freaks and geeks - tr
 ---
 değeri az bilinmiş dizilerden, ha 18 bölümlük bir dizinin kolayca popülarite yakalaması kolay değil elbette ancak `freaks and geeks` gerçekten epey "`underrated`" maalesef. keşke birkaç bölüm daha izleyebilseydik lakin tatlı bir yerde bitirdiler gibi. zaten 1-2 sezon daha fazla olsa başarısı ve kalitesi düşerdi gibi geliyor bana. şimdi ise tüm bölümler ayrı güzel, ayrı bir lezzetli.
 
