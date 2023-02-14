@@ -1,5 +1,9 @@
 ---
-published: false
+published: true
+layout: post
+categories: eksi literature
+permalink: the-dharma-bums-tr
+title: the dharma bums - tr
 ---
 türkçe'ye `zen kaçıkları` şeklinde çevrilen -ki bu çeviri fonetik olarak sevimli, akılda kalıcı olsa da anlam karşılama bakımından hafif yetersiz kalmış olmalı- `goodreads`'teki bir kullanıcının "too much `bum`, not enough `dharma`." şeklinde esasında çok doğru bir yorum yaptığı vasat ve muhtemelen bu sebeple hayal kırıklığına uğramamla öncelikle `on the road`'a ardından da başka `beat kuşağı` mensubu yazarlara ve onların eserlerine yelken açmamı geciktirecek `jack kerouac` kitabı.
 
