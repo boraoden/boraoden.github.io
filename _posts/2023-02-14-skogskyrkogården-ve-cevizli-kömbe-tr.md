@@ -1,5 +1,9 @@
 ---
 published: false
+layout: post
+categories: personal
+permalink: skogskyrkogården-ve-cevizli-kömbe-tr
+title: skogskyrkogården ve cevizli kömbe - tr
 ---
 
 
