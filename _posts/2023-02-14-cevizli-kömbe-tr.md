@@ -2,8 +2,8 @@
 published: false
 layout: post
 categories: personal
-permalink: skogskyrkogården-ve-cevizli-kömbe-tr
-title: skogskyrkogården ve cevizli kömbe - tr
+permalink: cevizli-kömbe-tr
+title: cevizli kömbe - tr
 ---
 sevgililer günü gelmiştir, aklındaysa pek sevgili teyzen vardır sadece. son birkaç gününü onu düşünmemeye çalışarak geçirdiğini fark edersin. doğru mudur bu yaptığın bilemezsin.
 
