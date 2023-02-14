@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-categories: eksi cinema
+categories: eksi cinema music
 permalink: the-beatles-eight-days-a-week-tr
 title: the beatles eight days a week
 ---
