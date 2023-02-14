@@ -39,7 +39,7 @@ sesi yankılanır kafanda birden, dolmuş gözlerin bırakır bu sefer yanaklar�
 
 maharatlığını, iş bitiriciliğini anımsarsın, bir daha ağzına onun kömbelerini süremeyeceksindir. başkasınınkini istemezsin, kalsın.
 
-buzdolabındaysa biberli ekmeği duruyordur. birkaç hafta önce yolladığı.
+buzdolabındaysa biberli ekmeği duruyordur. birkaç hafta önce yolladığı. hala evindedir taptaze antakya zahteri seni tanıştırdığı.
 
 nasıl yiyeceğini bilemezsin.
 
