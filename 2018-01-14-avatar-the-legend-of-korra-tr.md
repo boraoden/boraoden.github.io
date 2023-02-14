@@ -1,3 +1,11 @@
+---
+layout: post
+categories: eksi cinema
+permalink: avatar-the-legend-of-korra-tr
+title: "avatar: the legend of korra - tr"
+
+---
+
 yeni bitirdiğim çizgi dizi. tlab'a kıyasla hikaye işlenişi çok ama çok farklı. 4 sezon/kitap -air, spirits, change ve balance- var. tüm kitaplarda birbirleri ile alakalı olsalar da bağımsız olaylar anlatılıyor.
 
  tlab gibi bir yolculuk hikayesi eşsizliği ve tadı yok zaten dizide ama düşmanların, rakiplerin içi boş olmaması ve nitelikli olması çekici kılıyor diziyi kanaatimce. aang'in maceralarının 70 yıl sonrasını ele alıyor fakat teknoloji beklenmedik şekilde zirve yapmış durumda. tlab'da da vardı elbette makineler, tamamen ilkel toplumları izlemiyorduk ama serinin mesajına, derinliğine, mistisizmine uyuyordu bunlar. burada ise absürt buldum açıkçası. dev lazerler, makineler vesaire, biraz üzdü beni ne yalan söyleyeyim. teknolojiyi o kadar geliştirmişsiniz, yok mu barut? tüfeği icat edip avatar'a suikast gerçekleştirmek pek zor olmasa gerek.
