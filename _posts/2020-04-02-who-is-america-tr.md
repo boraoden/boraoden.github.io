@@ -1,5 +1,9 @@
 ---
-published: false
+published: true
+layout: post
+categories: eksi cinema
+permalink: who-is-america-tr
+title: who is america - tr
 ---
 `sacha baron cohen`'in ne denli zeki ve yetenekli; amerika, yani dünyanın kaderini belirleyen/değiştiren ülkenin yöneticisini seçen insanlarınsa ne denli manipülasyona yatkın ve amiyane tabirle "bağnaz" olduğunu gösteren harika ve kategorisini kestiremediğim 7 bölümlük bir sezondan oluşan şovumsu.
 
