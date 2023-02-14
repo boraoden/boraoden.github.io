@@ -1,5 +1,9 @@
 ---
-published: false
+published: true
+layout: post
+categories: eksi cinema
+permalink: andrei-rublev-tr
+title: andrei rublev - tr
 ---
 giriş sahnesinin ne demek istediğini merak edenlere bizzat `tarkovsky`'nin 1969'daki bir röportajda yaptığı minik bir izahı aşağıdaki gibi olan, uzun ve seyri yorucu film.
 
