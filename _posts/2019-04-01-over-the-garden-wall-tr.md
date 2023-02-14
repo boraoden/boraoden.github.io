@@ -1,5 +1,9 @@
 ---
-published: false
+published: true
+layout: post
+categories: eksi cinema
+permalink: over-the-garden-wall-tr
+title: over the garden wall - tr
 ---
 daha önce denk gelmediğime oldukça şaşırdığım 2014 çıkışlı `cartoon network`'te yayınlanmış mini çizgi dizi. 10-11 dakikalık 10 bölümden oluşuyor. izlemesi kolay, sizi tek saniye sıkmıyor ve hemen bitiyor anlaşılacağı üzere. uzun olsa biraz ön yargılı davranmanıza hak verebilirdim ancak bir film kadar uzunluğu olan bu diziye muhakkak bir şans verin derim.
 
