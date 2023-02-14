@@ -58,3 +58,4 @@ eğer bir tanrı varsa seni cennetine koyduğuna eminim aynur teyzem.
 iyi ki teyzem olmuşsun.
 
 ışıklar içinde uyu canım benim.
+![]({{site.baseurl}}/images/ab2.JPG)
