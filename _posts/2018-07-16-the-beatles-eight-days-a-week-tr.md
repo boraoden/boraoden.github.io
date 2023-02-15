@@ -3,7 +3,7 @@ published: true
 layout: post
 categories: eksi cinema music
 permalink: the-beatles-eight-days-a-week-tr
-title: the beatles eight days a week
+title: the beatles eight days a week - tr
 ---
 seyri keyifli bir belgesel, açıkçası `the beatles` hakkında ortanın üstünde bir okuma yapmış, `the beatles`'a ilgili biri iseniz çok ama çok şey öğretmiyor ancak derlenen videolar ve fotoğraflar bana grubu ve üyelerini ayrı ayrı düşündürdü. ne kadar iyi bilsem de hiç görmediğim fotoğrafları, onları tanımadığımı hissettirdi bana. ne kadar eğlenceli ve sevimli olduklarını fark ettim.
 
