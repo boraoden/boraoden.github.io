@@ -3,7 +3,7 @@ published: true
 layout: post
 categories: eksi music
 permalink: childhoods-end-tr
-title: childhood's-end - tr
+title: childhood's end - tr
 ---
 `david gilmour`'un kendi ayakları üstünde oldukça başarılı durabilen bir müzisyen olduğunu gösteren bir diğer parça. solo çalışmaları da epey iyi ancak bu durumun en güçlü tezahürünü zaten `the division bell` albümünde gayet yeterli şekilde görüyoruz. 
 
