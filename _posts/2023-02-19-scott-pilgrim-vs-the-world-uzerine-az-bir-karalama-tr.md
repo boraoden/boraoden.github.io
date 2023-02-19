@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-categories: personal
+categories: cinema
 permalink: scott-pilgrim-vs-the-world-uzerine-az-bir-karalama-tr
 title: scott pilgrim vs. the world üzerine az bir karalama - tr
 ---
