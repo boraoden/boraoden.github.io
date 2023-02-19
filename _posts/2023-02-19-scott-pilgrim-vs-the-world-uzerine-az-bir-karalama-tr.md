@@ -5,7 +5,7 @@ categories: personal
 permalink: scott-pilgrim-vs-the-world-uzerine-az-bir-karalama-tr
 title: scott pilgrim vs. the world üzerine az bir karalama - tr
 ---
-biraz *scott pilgrim vs the world* hakkında konuşmak istiyorum bugün, tamamiyle eğlencelik gözüken bir filmin insanda neler düşündürebileceğine dair filmde gördüğüm ve üstüne okuduğum birkaç fikre dair bir montaj yapacağım esasında. filmi burada özet geçmek niyetim pek yok ve yazıda bolca ==spoiler== olacak. yine de okuyucu bu yazıyı filmi izlemeden okursa dahi filmin vereceği keyfin tek zerre azalacağını zannetmiyorum ama uyarımı yapmış olayım ve yine filmi "müzikleri böyle güzel", "sinematografi şöyle tatlı" diye övmenin de lüzumu yok, bu sempatik filmi değerli yapan şeyler çok daha başka tüm teknik detaylarıyla parlıyor olmasına rağmen.
+biraz *scott pilgrim vs the world* hakkında konuşmak istiyorum bugün, tamamiyle eğlencelik gözüken bir filmin insanda neler düşündürebileceğine dair filmde gördüğüm ve üstüne okuduğum birkaç fikre dair bir montaj yapacağım esasında. filmi burada özet geçmek niyetim pek yok ve yazıda bolca `spoiler` olacak. yine de okuyucu bu yazıyı filmi izlemeden okursa dahi filmin vereceği keyfin tek zerre azalacağını zannetmiyorum ama uyarımı yapmış olayım ve yine filmi "müzikleri böyle güzel", "sinematografi şöyle tatlı" diye övmenin de lüzumu yok, bu sempatik filmi değerli yapan şeyler çok daha başka tüm teknik detaylarıyla parlıyor olmasına rağmen.
 
 ---
 
