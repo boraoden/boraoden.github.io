@@ -32,7 +32,7 @@ filmin sonunda scott, kendinin zıt versiyonuyla, yani nega scott ile kapışaca
 ![]({{site.baseurl}}/images/b306ba9e-6537-4524-a6e2-e61084cbdf3b_text.gif)
  
 ## fikir 6: değişim ve eskilere benzeme
-scott, film boyunca ramona'nın ex'lerini yendikçe yorulmaya başladığını görüyoruz, ilk baştaki iyi-çocuk scott gidiyor ve ramona'nın bıktığı, tıpkı dövüştüğü ex'lere benzeyen bir scott ortaya çıkmaya başlıyor, bu da doğal olarak ramona'yı uzaklaştırıyor scott'tan. herhalde bu da esasında yine ilk fikre dayandırılabilecek bir mevzu zira yine her şeyin çözümü kendine saygı ve özsevgide bitiyor.
+scott'ın, film boyunca ramona'nın ex'lerini yendikçe yorulmaya başladığını görüyoruz, ilk baştaki iyi-çocuk scott gidiyor ve ramona'nın bıktığı, tıpkı dövüştüğü ex'lere benzeyen bir scott ortaya çıkmaya başlıyor, bu da doğal olarak ramona'yı uzaklaştırıyor scott'tan. herhalde bu da esasında yine ilk fikre dayandırılabilecek bir mevzu zira yine her şeyin çözümü kendine saygı ve özsevgide bitiyor.
 
 ---
 
