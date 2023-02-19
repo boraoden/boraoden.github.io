@@ -24,15 +24,15 @@ scott'ın, ramona'nın eski sevgilileri yüzleşmesi de yani filmin bütünü de
 ramona'nın filmin sonlarına doğru gördüğümüz çipi de önemli bir detay. birçok insanın zihninde, geçmişinden bir parça olabiliyor, hiçbir şekilde ayrılamayan, kişinin kafasından bir türlü çıkaramadığı. burada da **gideon** (veya scott için **envy**) karakteri bu rolü üstleniyor. geçmiş, pençelerini her daim üzerimizde tutuyor. scott'ın bir mücadeleye maruz kalmasının sebebi de bu, ramona; kafasında da eski sevgililerine ve özellikle de unutamadığına benzemeyecek bir insan arıyor belki. o sebeple scott'ı da epey iyi tanımaya, analiz etmeye çalışıyor. 
 
 ## fikir 4 : gönül eğlendirme
-burada ikinci bir ders daha var esasında önemli gözükebilecek. verilen bu ders bütünüyle doğru mudur bilmesem de bence bahsetmeye değer. filmde bir insanın sırf yalnız kalmamak uğruna yahut veya "elimizdeki en iyisi bu" düşüncesiyle bir partner aramaya girişmesi de eleştiriliyor belki. kalbi kırılmış insanların bir yere varmayacağını bildiği ilişkilere başlaması var filmde, sırf yalnız kalmamak için veya geçmişin üstünü çizmek için ki bu durum da birçok zaman iki tarafı da yıpratıcı bir olay olduğuyla kalabiliyor ne yazık ki. knives karakteri ve scott'ın ona bakışı da burada ayrıca lazım oluyor.
+burada ikinci bir ders daha var esasında önemli gözükebilecek. verilen bu ders bütünüyle doğru mudur bilmesem de bence bahsetmeye değer. filmde bir insanın sırf yalnız kalmamak uğruna yahut veya "elimizdeki en iyisi bu" düşüncesiyle bir partner aramaya girişmesi de eleştiriliyor belki. kalbi kırılmış insanların bir yere varmayacağını bildiği ilişkilere başlaması var filmde, sırf yalnız kalmamak için veya geçmişin üstünü çizmek için ki bu durum da birçok zaman iki tarafı da yıpratıcı bir olay olduğuyla kalabiliyor ne yazık ki. knives karakteri ve scott'ın ona bakışı da burada ayrıca değerli oluyor.
 
 ## fikir 5 : kendinle yüzleşme
-filmin sonunda scott, kendinin zıt versiyonuyla, nega scott ile kapışacak gibi oluyor ama bakmışız ki arkadaş olmuşlar. bu da herhalde scott'un kendisini affettiğini, hatalarını gördüğünü ve bunları bir şekilde kucakladığını gösteriyor.
+filmin sonunda scott, kendinin zıt versiyonuyla, yani nega scott ile kapışacak gibi oluyor ama bakmışız ki arkadaş olmuşlar. bu da herhalde scott'un kendisini affettiğini, hatalarını gördüğünü ve bunları bir şekilde kucakladığını gösteriyor.
 
 ![]({{site.baseurl}}/images/b306ba9e-6537-4524-a6e2-e61084cbdf3b_text.gif)
  
 ## fikir 6: değişim ve eskilere benzeme
-scott, film boyunca ramona'nın eski sevgililerini yendikçe yorulmaya başladığını görüyoruz, ilk baştaki iyi-çocuk scott gidiyor ve ramona'nın bıktığı, tıpkı dövüştüğü eski sevgililerine benzeyen bir scott ortaya çıkmaya başlıyor, bu da doğal olarak ramona'yı uzaklaştırıyor scott'tan. bu da esasında yine ilk fikre dayandırılabilecek bir mevzu zira yine her şeyin çözümü kendine saygı ve özsevgide bitiyor.
+scott, film boyunca ramona'nın eski sevgililerini yendikçe yorulmaya başladığını görüyoruz, ilk baştaki iyi-çocuk scott gidiyor ve ramona'nın bıktığı, tıpkı dövüştüğü eski sevgililerine benzeyen bir scott ortaya çıkmaya başlıyor, bu da doğal olarak ramona'yı uzaklaştırıyor scott'tan. herhalde bu da esasında yine ilk fikre dayandırılabilecek bir mevzu zira yine her şeyin çözümü kendine saygı ve özsevgide bitiyor.
 
 ---
 
