@@ -2,8 +2,8 @@
 published: true
 layout: post
 categories: cinema
-permalink: scott-pilgrim-ve-insan-iliskileri-hakkinda-tr
-title: scott pilgrim ve insan ilişkileri hakkında - tr
+permalink: scott-pilgrimin-iliskiler-hakkinda-dusundurdukleri-tr
+title: scott pilgrim'in ilişkiler hakkında düşündürdükleri - tr
 ---
 biraz *scott pilgrim vs the world* hakkında konuşmak istiyorum bugün, tamamiyle eğlencelik gözüken bir filmin insanda neler düşündürebileceğine dair filmde gördüğüm ve üstüne okuduğum birkaç fikre dair bir montaj yapacağım esasında. filmi burada özet geçmek niyetim pek yok ve yazıda bolca `spoiler` olacak. yine de okuyucu bu yazıyı filmi izlemeden okursa dahi filmin vereceği keyfin tek zerre azalacağını zannetmiyorum ama uyarımı yapmış olayım ve yine filmi "müzikleri böyle güzel", "sinematografi şöyle tatlı" diye övmenin de lüzumu yok, bu sempatik filmi değerli yapan şeyler çok daha başka tüm teknik detaylarıyla parlıyor olmasına rağmen.
 
