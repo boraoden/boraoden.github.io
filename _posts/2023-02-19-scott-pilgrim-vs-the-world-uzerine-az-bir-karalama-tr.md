@@ -36,6 +36,8 @@ scott, film boyunca ramona'nın eski sevgililerini yendikçe yorulmaya başladı
 
 ---
 
-nihayetinde hepimizin bir yükü var, karşımızdaki insanların da yükü var ve bunu kucaklamamız gerekiyor, kıskançlıktan ve karşımızdaki insanı yargılamaktan uzaklaşmamız zorunlu oluyor. hayatımız biriyle kesiştiğinde bu yeni partnerimizin  geçmiş yükü, mücadeleleri de bizim sırtımıza yükleniyor bir nevi. hiçbir ilişki kolay gelişmiyor ve geçmişin hayaletlerini iki insan da sağlıklı şekilde bertaraf ettiğinde iki kişinin de yapabileceği en güzel şey önlerine bakmak oluyor.
+sonuç olarak, hepimizin bir yükü var, karşımızdaki insanların da yükü var ve ortaya bir şeyler çıkarabilmek için bunu kucaklamamız gerekiyor. kıskançlıktan ve karşımızdaki insanı yargılamaktan uzaklaşmamız zorunlu oluyor. hayatımız biriyle kesiştiğinde bu yeni partnerimizin  geçmiş yükü, mücadeleleri de bizim sırtımıza yükleniyor bir nevi. hiçbir ilişki kolay gelişmiyor ve geçmişin hayaletlerini iki insan da sağlıklı şekilde bertaraf ettiğinde iki kişinin de yapabileceği en güzel şey önlerine bakmak oluyor.
 
-işte bu sebeple *scott pilgrim vs the world*, insana; insan ilişkileri, geçmiş, iletişimde yapılan hatalar derken inanılmaz düşündürücü ve aynı zamanda eğlenceli bir perspektif sunuyor insana. "ellerine sağlık edgar wright abi!" demek kalıyor bize de.
+tüm bunların gübresi olacak en vazgeçilmez şey de iki insanın kendilerine olan saygıları ve sevgileri oluyor elbette. kendi yüreklerinden ve zihinlerden güç almak yerine olası partnerlerinden güç ve medet bulan insanlar, tıpkı scott'ın ilk dövüşü gibi mağlup olduğuyla kalıyor ve yeşerecek güzel bir ilişki hiç başlayamamış oluyor.
+
+işte tüm bu fikirler temelinde *scott pilgrim vs the world*, insana; insan ilişkileri, geçmiş, iletişimde yapılan hatalar derken inanılmaz düşündürücü ve aynı zamanda eğlenceli bir perspektif sunuyor. "ellerine sağlık edgar wright abi!" demek kalıyor bize de.
