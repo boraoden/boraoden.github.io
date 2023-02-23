@@ -1,0 +1,3 @@
+---
+title: favourite paintings
+---
