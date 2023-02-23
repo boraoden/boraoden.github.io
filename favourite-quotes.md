@@ -1,3 +1,7 @@
+---
+title: favourite quotes
+---
+
 **here is my corner of quotes which consists of beautiful and meaningful quotes that i enjoy thinking about.**   
 
 ---
