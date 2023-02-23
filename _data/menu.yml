@@ -4,10 +4,10 @@
 entries:  
   - title: "me:"
     entries:  
-      - title: <a href="/about-me">about me</a>
+      - title: <a href="/about-me">about me</a> / <a href="/archive">archive</a>
       - title: <a href="/favourite-quotes">favourite quotes</a> 
       - title: <a href="/favourite-paintings">favourite paintings</a> 
-      - title: <a href="/archive">archive</a>  
+#      - title:   
       
 #  - title:   
 #  - title: 
