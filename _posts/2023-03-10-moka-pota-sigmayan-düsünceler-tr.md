@@ -5,7 +5,7 @@ categories: personal travel
 permalink: moka-pota-sigmayan-dusunceler-tr
 title: moka pota sığmayan düşünceler - tr
 ---
-lokasyon, firenze santa maria novella tren istasyonu dışındaki _24 ore_ açık mcdonalds; saat, gmt+1'e göre gece 2, türkiye'deyse saat 4 olsa gerek. 
+lokasyon, firenze santa maria novella tren istasyonu dışındaki _24 ore_ açık mcdonalds; saatse, gmt+1'e göre gece 2, türkiye'deyse saat 4 olsa gerek. 
 
 feci bir yağmur var toskana civarında bu aralar. insan, dışarı çıkmaktan yoğun bir korku duyuyor adeta günün ilerleyen saatlerinde sırılsıklam olacağını öngörerek. bu yorgun ve düşünceli kuzey italya gecesinin yavaş akan dakikalarında da durum farklı değil. pisa, dönmek için uzak; floransa, ayrılmak için çiğ, bense hostel bulmak için çok maceraperestim, yersen.
 
