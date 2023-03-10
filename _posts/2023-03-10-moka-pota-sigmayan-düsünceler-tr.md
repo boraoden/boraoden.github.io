@@ -7,7 +7,7 @@ title: moka pota sığmayan düşünceler - tr
 ---
 lokasyon, firenze santa maria novella tren istasyonu dışındaki _24 ore_ açık mcdonalds; saat, gmt+1'e göre gece 2, türkiye'deyse saat 4 olsa gerek. 
 
-feci bir yağmur var toskana civarında bu aralar. insan dışarı çıkmaktan yoğun bir korku duyuyor adeta günün ilerleyen saatlerinde sırılsıklam olacağını öngörerek. bu yorgun ve düşünceli kuzey italya gecesinin yavaş akan dakikalarında da durum farklı değil. pisa, dönmek için uzak; floransa, ayrılmak için çiğ, bense hostel bulmak için çok maceraperestim, yersen.
+feci bir yağmur var toskana civarında bu aralar. insan, dışarı çıkmaktan yoğun bir korku duyuyor adeta günün ilerleyen saatlerinde sırılsıklam olacağını öngörerek. bu yorgun ve düşünceli kuzey italya gecesinin yavaş akan dakikalarında da durum farklı değil. pisa, dönmek için uzak; floransa, ayrılmak için çiğ, bense hostel bulmak için çok maceraperestim, yersen.
 
 ilişkimin fena olmadığı, az sayıdaki yoldaşlarımı saymamı isteseniz pek fazla şey uğramaz dilime herhalde; beni tek saniye yarı yolda bırakmayan laptopum, ağrıdan ve yaralardan kıvranan ayaklarım, düşüncelerden içinde adım atılamayan zihnim, umarsızca google maps'e bakmaktan bataryası folloş olmuş emektar telefonum belki biraz da. yeter de artar bunlar, fazlası zarar hocam, inan. 
 
