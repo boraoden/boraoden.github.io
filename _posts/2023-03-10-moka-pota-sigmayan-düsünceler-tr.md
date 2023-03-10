@@ -23,7 +23,7 @@ neyse, boşver maçı sevgili okuyucu, neredeyse bir haftadır filtre kahve içm
 
 > o değil de, abi insan pisa'da nasıl niğdeli ile, nasıl allah'ın çamardı'sından biri ile denk gelebilir yahu, aklım almıyor, onur abi'ye ve esra abla'ya selam olsun. umarım varmışlardır sağ salim çocuklarının yanına. dünya küçük derlerdi de inanmazdım.
 
-sana yalan atmanın anlamı yok okuyucu, beni biliyorsun buralara kadar takip ettiysen yazıları az biraz. insan; yanında değer verdiği insanlar olsun istiyor, beraber kahkaha atacağı dostlarını arıyor rönesans kokan sokakları adımlarken, kahvesini yudumlarken, turistleri izlerken... yalnız seyahat etmenin keyfi ayrı elbette, özgürlük ruhuma işlemiş, gelemiyorum pek zıttına fakat ara ara boşluğu hissetmiyor değil yazar. yine de keyfim gayet yerinde, şikayet etmenin manası yok. sivas ve fener de yenmiş olsa bayağı kıyaktım. maçtan sonra iki bira gömmüştüm bile. başka günlere artık diyeceğim ancak bir daha ne zaman denk gelir bilmem.
+sana yalan atmanın anlamı yok okuyucu, beni biliyorsun buralara kadar takip ettiysen yazıları az biraz. insan; yanında değer verdiği insanlar olsun istiyor, beraber kahkaha atacağı dostlarını arıyor rönesans kokan sokakları adımlarken, kahvesini yudumlarken, turistleri izlerken... yalnız seyahat etmenin keyfi ayrı elbette, özgürlük ruhuma işlemiş, gelemiyorum pek zıttına fakat ara ara yoldaş boşluğu hissetmiyor değil yazar. yine de keyfim gayet yerinde, şikayet etmenin manası yok. sivas ve fener de yenmiş olsa bayağı kıyaktım. maçtan sonra iki bira gömmüştüm bile. başka günlere artık diyeceğim ancak bir daha ne zaman denk gelir bilmem.
 
 neyse, siz italyanlar ne diyor, buona notte?
 
