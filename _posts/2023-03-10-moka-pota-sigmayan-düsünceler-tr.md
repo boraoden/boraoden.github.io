@@ -13,7 +13,7 @@ ilişkimin fena olmadığı, az sayıdaki yoldaşlarımı saymamı isteseniz de 
 
 ![]({{site.baseurl}}/images/fl3.jpg)
 
-yarına, yani daha doğrusu bugüne kaldı şehrin büyük kısmı. geç vardım zaten floransaya hastanede kan verme işlerini halledeyim derken. birkaç _galleria_, bir iki _piazza_, az bir bahçe, bir tutam da _basilica_ görmek fena olmaz herhalde. çıplak davut da cabası, güzel promosyon sanki, ha?
+yarına, yani daha doğrusu bugüne kaldı şehrin büyük kısmı. geç vardım zaten floransaya hastanede kan verme işlerini halledeyim derken. birkaç _galleria_, bir iki _piazza_, az bir bahçe, bir tutam da _basilica_ görmek fena olmaz herhalde. çıplak davut da cabası, güzel promosyon sanki, ha? floransa sokaklarında avare avare yürümek dahi pek bir tatlı halihazırda.
 
 fiorentina-sivasspor maçından çıktım birkaç saat önce, tribünden izlediğim ilk futbol maçımdı şaka maka. yaban ellerde olması hoş olsa gerek. ne yalan söyleyeyim, çok boktan oynadı sivas. kaleye otobüs çekti amiyane tabirle. fiorentina ise bolca pozisyon bulmuş olmasına rağmen sadece birini gole çevirebildi, yiğidolar maçın sivas'taki ayağında bir sürpriz yapar mı, zor sanki. umarım yanılırım elbette. hem kanatlardan hem de merkezden oldukça etkili gelen bir fiorentina vardı bugün. bir türk olarak fiorentina taraftarının arasında kanlı canlı atmosferi koklamak bir hayli hoştu. dürüst olacağım, arada bir tırstığım oldu beni araya alırlar diye, neyse ki çaktırmadım, hahah. en azından ömrümde floransa'da sivasspor gördüm diyebilirim artık, bu bana kafi. 
 
