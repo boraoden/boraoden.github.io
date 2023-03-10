@@ -11,6 +11,8 @@ feci bir yağmur var toskana civarında bu aralar. insan dışarı çıkmaktan y
 
 az sayıdaki fena götürmeyen yoldaşlarımı saymamı isteseniz pek fazla şey gelmez dilime herhalde; beni tek saniye yarı yolda bırakmayan laptopum, ağrıdan ve yaralardan kıvranan ayaklarım, düşüncelerden içinde adım atılamayan zihnim, umarsızca google maps'e bakmaktan bataryası folloş olmuş emektar telefonum belki biraz da. yeter de artar bunlar, fazlası zarar hocam, inan. 
 
+![]({{site.baseurl}}/images/fl3.jpg)
+
 yarına, yani daha doğrusu bugüne kaldı şehrin büyük kısmı. geç vardım zaten floransaya hastanede kan verme işlerini halledeyim derken. birkaç _galleria_, bir iki _piazza_, az bir bahçe, bir tutam da _basilica_ görmek fena olmaz herhalde. çıplak davut da cabası, güzel promosyon sanki, ha?
 
 fiorentina-sivasspor maçından çıktım birkaç saat önce, tribünden izlediğim ilk futbol maçımdı şaka maka. yaban ellerde olması hoş olsa gerek. ne yalan söyleyeyim, çok boktan oynadı sivas. kaleye otobüs çekti amiyane tabirle. fiorentina ise bolca pozisyon bulmuş olmasına rağmen sadece birini gole çevirebildi, yiğidolar maçın sivas'taki ayağında bir sürpriz yapar mı, zor sanki. umarım yanılırım elbette. hem kanatlardan hem de merkezden oldukça etkili gelen bir fiorentina vardı bugün. bir türk olarak fiorentina taraftarının arasında kanlı canlı atmosferi koklamak bir hayli hoştu. dürüst olacağım, arada bir tırstığım oldu beni araya alırlar diye, neyse ki çaktırmadım, hahah. en azından ömrümde floransa'da sivasspor gördüm diyebilirim artık, bu bana kafi. 
@@ -21,10 +23,8 @@ neyse, boşver maçı sevgili okuyucu, neredeyse bir haftadır filtre kahve içm
 
 o değil de, abi insan pisa'da nasıl niğdeli ile, nasıl allah'ın çamardı'sından biri ile denk gelebilir yahu, aklım almıyor, onur abiye ve esra ablaya selam olsun. umarım varmışlardır sağ salim çocuklarının yanına. dünya küçük derlerdi de inanmazdım.
 
-![]({{site.baseurl}}/images/fl1.jpg)
-
 sana yalan atmanın anlamı yok okuyucu, beni biliyorsun buralara kadar takip ettiysen yazıları az biraz. insan değer verdiği insanlar olsun istiyor, beraber kahkaha atacağı dostlarını arıyor rönesans kokan sokakları adımlarken, kahvesini yudumlarken, turistleri izlerken... yalnız seyahat etmenin keyfi ayrı elbette, özgürlük ruhuma işlemiş, gelemiyorum pek zıttına ama yine de ara ara boşluğu hissettmiyor değil insan. yine de keyfim gayet yerinde, şikayet etmenin manası yok. sivas ve fener de yenmiş olsa bayağı kıyaktım. maçtan sonra iki bira gömmüştüm bile. başka günlere artık, bir daha ne zaman denk gelir bilmem.
 
 neyse, siz italyanlar ne diyor, buona notte?
 
-![]({{site.baseurl}}/images/fl3.jpg)
+![]({{site.baseurl}}/images/fl1.jpg)
