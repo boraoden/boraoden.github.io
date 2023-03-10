@@ -1,5 +1,9 @@
 ---
-published: false
+published: true
+layout: post
+categories: personal travel
+permalink: moka-pota-sigmayan-dusunceler-tr
+title: moka pota sığmayan düşünceler - tr
 ---
 lokasyon, firenze santa maria novella tren istasyonu dışındaki _24 ore_ açık mcdonalds; saat, gmt+1'e göre gece 2, türkiye'deyse saat 4 olsa gerek. 
 
