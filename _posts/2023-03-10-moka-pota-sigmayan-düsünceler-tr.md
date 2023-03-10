@@ -5,7 +5,7 @@ categories: personal travel
 permalink: moka-pota-sigmayan-dusunceler-tr
 title: moka pota sığmayan düşünceler - tr
 ---
-lokasyon, firenze santa maria novella tren istasyonu dışındaki _24 ore aperto_ mcdonalds; saat, gmt+1'e göre gece 2, türkiye'deyse saat 4 olsa gerek. 
+lokasyon, firenze santa maria novella tren istasyonu dışındaki _24 ore_ açık mcdonalds; saat, gmt+1'e göre gece 2, türkiye'deyse saat 4 olsa gerek. 
 
 feci bir yağmur var toskana civarında bu aralar. insan, dışarı çıkmaktan yoğun bir korku duyuyor adeta günün ilerleyen saatlerinde sırılsıklam olacağını öngörerek. bu yorgun ve düşünceli kuzey italya gecesinin yavaş akan dakikalarında da durum farklı değil. pisa, dönmek için uzak; floransa, ayrılmak için çiğ, bense hostel bulmak için çok maceraperestim, yersen.
 
@@ -21,7 +21,7 @@ fiorentina-sivasspor maçından çıktım birkaç saat önce, tribünden izledi�
 
 neyse, boşver maçı sevgili okuyucu, neredeyse bir haftadır filtre kahve içmedim. bu italyanların espresso goygoyu hiç de boş değilmiş, yalan yok, espresso dışında bir kahve içtikleri yok neredeyse. hoş, o zift gibi şeyi içtiğim yok, evde moka potta pişiriyorum kahvemi. ritüellerin gücüne inan okuyucu, hayattan aldığın küçük zevkleri katlayan şeyler onlar. insan; moka potunu birbirine geçirip sıkarken, altını açıp o meşum _hısslamasını_ duymayı beklerken pek bir keyif duyuyor, çok otantik bir hoşluk içine işliyor. memlekette kahveyi ne kadar otomatize içtiğimi fark ettirdi bana. bir ölçek kahve koy, su kaynak, üstüne dök, filtreyi bastır, bardağa dök, bitti. moka pot kahvesinin tadına da çok ayılıp bayıldığımı söyleyemeyeceğim açıkçası ama ne espressonun kısa ömürlülüğü var ne de filtre kahvenin yavanlığı ve oldu-bittiliği. yapması zahmetli olduğu için doğal olarak kıymetli de oluyor insanın gözünde galiba, bilmiyorum.
 
-o değil de, abi insan pisa'da nasıl niğdeli ile, nasıl allah'ın çamardı'sından biri ile denk gelebilir yahu, aklım almıyor, onur abi'ye ve esra abla'ya selam olsun. umarım varmışlardır sağ salim çocuklarının yanına. dünya küçük derlerdi de inanmazdım.
+> o değil de, abi insan pisa'da nasıl niğdeli ile, nasıl allah'ın çamardı'sından biri ile denk gelebilir yahu, aklım almıyor, onur abi'ye ve esra abla'ya selam olsun. umarım varmışlardır sağ salim çocuklarının yanına. dünya küçük derlerdi de inanmazdım.
 
 sana yalan atmanın anlamı yok okuyucu, beni biliyorsun buralara kadar takip ettiysen yazıları az biraz. insan; yanında değer verdiği insanlar olsun istiyor, beraber kahkaha atacağı dostlarını arıyor rönesans kokan sokakları adımlarken, kahvesini yudumlarken, turistleri izlerken... yalnız seyahat etmenin keyfi ayrı elbette, özgürlük ruhuma işlemiş, gelemiyorum pek zıttına ama yine de ara ara boşluğu hissetmiyor değil yazar. yine de keyfim gayet yerinde, şikayet etmenin manası yok. sivas ve fener de yenmiş olsa bayağı kıyaktım. maçtan sonra iki bira gömmüştüm bile. başka günlere artık diyeceğim ancak bir daha ne zaman denk gelir bilmem.
 
