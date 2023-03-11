@@ -2,8 +2,8 @@
 published: true
 layout: post
 categories: personal travel
-permalink: moka-pottan-tasan-dusunceler-tr
-title: moka pottan taşan düşünceler - tr
+permalink: moka-potumdan-tasanlar-tr
+title: moka potumdan taşanlar - tr
 ---
 lokasyon, firenze santa maria novella tren istasyonu dışındaki _24 ore aperto_ mcdonalds; saatse, gmt+1'e göre gece 2, türkiye'deyse saat 4 olsa gerek. 
 
