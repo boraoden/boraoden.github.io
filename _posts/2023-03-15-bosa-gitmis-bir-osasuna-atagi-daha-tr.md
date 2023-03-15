@@ -17,15 +17,15 @@ insan uslanmaz mı hiç sayın hocam, uslanmaz mı?
 
 gözlerinin içine baktığında seni kendinden geçiren bir litvanyalı ile tanışırsın, her şey çok güzeldir ama olmaz bir türlü. beceremiyorsundur bu romantik işleri belki, alkol eksikliği dersin ama çok da yeterli bahane değildir sanki.
 
-bir insanla tanıştığında yaptığın ve kendini sayısız kez uyardığın hataları bu sefer en yoğun haliyle yaptığını fark edersin.
+bir insanla tanıştığında yaptığın ve kendini sayısız kez uyardığın hataları bu sefer en ama en yoğun haliyle yaptığını fark edersin, geçmiştekilere de daha az benzer bu sefer.
 
-tanışalı bir hafta olan bir kıza aşık olmaya başlamaktır bu.
+tanışalı bir hafta olan yabancı bir kıza aşık olmaya başlamaktır bu.
 
-sana ilgisi olduğunu hissedersin fakat o engelleyemediğin ani heyecanın, o bir türlü yenemediğin "nice guy" halin bir kez daha vurur yüzüne, potansiyel ilişkine, litvanyalı tatlı ieva'ya.
+sana ilgisi olduğunu hissedersin fakat o engelleyemediğin ani heyecanın, o bir türlü yenemediğin "nice guy" halin bir kez daha vurur yüzüne, potansiyel ilişkine, litvanyalı tatlı ieva'nın sana olan ilgisine.
 
 ne yapacağını bilemezsin, ne yapacağını bilememenin çok tanıdık olduğunu bilirsin sadece. 
 
-kalbini küt küt attırır, arno nehri kıyısında bir şişe şarap bitirirsiniz, "sohbet çok güzel akmıştı oysa" diye düşünürsün.
+kalbini küt küt attırır, arno nehri kıyısında bir şişe şarap bitirirsiniz beraber, "sohbet çok güzel akmıştı oysa" diye düşünürsün. _before sunrise_ havasını ciğerlerine alırsın avrupa'nın bir kentinde saatlerce yürürken yanında çok hoş bir kızla.
 
 boğazlamak istediğin, içindeki o her şeye engel olan romantik kızı kendinden uzaklaştırır bir şekilde yine. 
 
