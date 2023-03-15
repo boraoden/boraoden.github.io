@@ -27,7 +27,7 @@ ne yapacağını bilemezsin, ne yapacağını bilememenin çok tanıdık olduğu
 
 kalbini küt küt attırır, arno nehri kıyısında bir şişe şarap bitirirsiniz beraber, "sohbet çok güzel akmıştı oysa" diye düşünürsün. _before sunrise_ havasını ciğerlerine alırsın avrupa'nın bir kentinde saatlerce yürürken yanında çok hoş bir kızla.
 
-boğazlamak istediğin, içindeki o her şeye engel olan romantik kızı kendinden uzaklaştırır bir şekilde yine. 
+boğazlamak istediğin, içindeki o her şeye engel olan romantik yanın; kızı kendinden uzaklaştırır bir şekilde yine. 
 
 partiye gidersin, olması gerektiği gibi davranamazsın; mesaj atarsın, yine eline yüzüne bulaştırırsın. 
 
@@ -35,7 +35,7 @@ dil bariyeri de girdi mi araya, 22 yaşında sakallı koca bir çekingene dönd�
 
 sevgili gotik ieva'ysa dövmeleriyle beraber, belki bir spotify profili, yıllar sonra anımsanacak ve yüzüne kısmi bir gülümseme getirecek bir ayrıntı olarak kalacaktır muhtemelen hatrında.
 
-oh sevgili okuyucu, bu kaçıncıdır, üstelik berbat ettiğin bu incirler geçmiştekilerden çok daha güzel gözükmüştür gözüne, çok daha farklı olacaktır belki.
+ah sevgili okuyucu, bu kaçıncıdır, üstelik berbat ettiğin bu incirler geçmiştekilerden çok daha güzel gözükmüştür gözüne, çok daha farklı olacaktır belki diye varsayımlar yaptığınla kalırsın.
 
 "bari kendine hayatı italya'da zindan etme be bora" desen de elinden gelmez pek bir şey.
 
