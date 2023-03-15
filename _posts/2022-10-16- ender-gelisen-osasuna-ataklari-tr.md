@@ -42,4 +42,4 @@ yalnızlık çukuruna o kadar derince batmışsındır ki sana yukarılardan eli
 
 kendine geldiğinde kafanda _california dreaming_ çalıyordur. bu satırları bir tek onun anlayacağını düşünürsün ve yüzüne bir tebessüm konar sadece. o güzel kurabiyelerin tadı ağzına gelir, gözlerin dolar ve _benden bu kadar_ dersin. 
 
-ender gelişen bir atağın daha sonlanmmıştır, bir diğerinin ne zaman gelişeceğiyse tam bir soru işaretidir.
+ender gelişen bir atağın daha sonlanmıştır, bir diğerinin ne zaman gelişeceğiyse tam bir soru işaretidir.
