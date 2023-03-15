@@ -5,15 +5,15 @@ categories: personal travel
 permalink: yeni-bir-osasuna-atagi-her-zamankinden-tr
 title: 'yeni bir osasuna atağı, her zamankinden - tr'
 ---
-ekim 2022'de bir yazı yazıldı buraya, _ender gelişen osasuna atakları_ adı altında. uzun süre sitede varlığını korudu o yazı ama bir süre sonra silmeye karar verdi yazar onu, hem güncelliğini yitirmişti hem de çok komikti birçok noktadan, lüzumsuzca romantikti belki. yazar yazıyı şöyle bitirmişti. 
+ekim 2022'de bir yazı yazılır buraya, _ender gelişen osasuna atakları_ adı altında. uzun süre sitede varlığını korur o yazı ama bir süre sonra silmeye karar verir yazar onu, hem güncelliğini yitirmiştir hem de çok komiktir birçok noktadan, lüzumsuzca romantiktir belki. yazar o yazıyı şöyle bitirmiştir. 
 
 > ender gelişen bir atağın daha sonlanmıştır, bir diğerinin ne zaman gelişeceğiyse tam bir soru işaretidir.
 
-o soru işareti kayboldu hemen hemen bir hafta önce yazar için, pisa'nın yamuk kaldırımlarında hızlı ve heyecanlı adımlar atıp kafasını toplayamadığında anladı yazar bunu. geçen birkaç ay, mekan değişikliği ve tanışılan yeni insanlar sağladı bunu herhalde.
+o soru işareti kaybolur hemen hemen bir hafta önce yazar için, pisa'nın yamuk kaldırımlarında hızlı ve heyecanlı adımlar atıp kafasını toplayamadığında anlar yazar bunu. geçen birkaç ay, mekan değişikliği ve tanışılan yeni insanlar sağlamıştır bunu herhalde.
 
-ama bir _çuval inciri_ berbat etti yine yazar, böyle de bir yazısı vardı sitede.
+ama bir _çuval inciri_ berbat eder yine yazar, böyle de bir yazısı vardır bir zamanlar sitede.
 
-insan uslanmaz mı hiç sayın hocam, uslanmaz mı?
+insan uslanmaz mı hiç sayın okuyucu, uslanmaz mı?
 
 gözlerinin içine baktığında seni kendinden geçiren bir litvanyalı ile tanışırsın, her şey çok güzeldir ama olmaz bir türlü. beceremiyorsundur bu romantik işleri belki, alkol eksikliği dersin ama çok da yeterli bahane değildir sanki.
 
