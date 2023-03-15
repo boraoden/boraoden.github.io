@@ -9,7 +9,7 @@ ekim 2022'de bir yazı yazıldı buraya, _ender gelişen osasuna atakları_ adı
 
 > ender gelişen bir atağın daha sonlanmıştır, bir diğerinin ne zaman gelişeceğiyse tam bir soru işaretidir.
 
-o soru işareti kayboldu galiba hemen hemen bir hafta önce yazar için, pisa'nın yamuk kaldırımlarında hızlı ve heyecanlı adımlar atıp kafasını toplayamadığında anladı yazar bunu. 
+o soru işareti kayboldu hemen hemen bir hafta önce yazar için, pisa'nın yamuk kaldırımlarında hızlı ve heyecanlı adımlar atıp kafasını toplayamadığında anladı yazar bunu. 
 
 ama bir _çuval inciri_ berbat etti yine, böyle de bir yazısı vardı sitede.
 
