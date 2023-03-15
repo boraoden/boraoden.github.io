@@ -5,7 +5,7 @@ categories: personal travel
 permalink: yeni-bir-osasuna-atagi-her-zamankinden-tr
 title: 'yeni bir osasuna atağı, her zamankinden - tr'
 ---
-ekim 2022'de bir yazı vardı burada, _ender gelişen osasuna atakları_ adı altında. uzun süre sitede varlığını korudu o yazı ama bir süre sonra silmeye karar verdi yazar onu, hem güncelliğini yitirmişti hem de çok komikti birçok noktadan, lüzumsuzca romantikti belki. yazar yazıyı şöyle bitirmişti. 
+ekim 2022'de bir yazı yazıldı buraya, _ender gelişen osasuna atakları_ adı altında. uzun süre sitede varlığını korudu o yazı ama bir süre sonra silmeye karar verdi yazar onu, hem güncelliğini yitirmişti hem de çok komikti birçok noktadan, lüzumsuzca romantikti belki. yazar yazıyı şöyle bitirmişti. 
 
 > ender gelişen bir atağın daha sonlanmmıştır, bir diğerinin ne zaman gelişeceğiyse tam bir soru işaretidir.
 
