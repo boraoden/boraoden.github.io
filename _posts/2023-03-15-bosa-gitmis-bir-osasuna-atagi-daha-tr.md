@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: post
 categories: personal travel
 permalink: yeni-bir-osasuna-atagi-her-zamankinden-tr
