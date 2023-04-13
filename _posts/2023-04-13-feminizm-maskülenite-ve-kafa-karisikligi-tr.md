@@ -81,9 +81,10 @@ patriyarka duygusal açıdan hissetmeyen erkeği ödüllendiriyor ve hisseden er
 ### cinsellik ve pornografi
 
 buraya direkt önemli bir pasajı aktarıyorum:
+
 "most men and women are not having satisfying and fulfilling sex. we have all heard the notion that men come to relationships looking for sex and not love and that women come to relationships looking for love and not sex. in actuality, men come to sex hoping that it will provide them with all the emotional satisfaction that would come from love. most men think that sex will provide them with a sense of being alive, connected, that sex will offer closeness, intimacy, pleasure. and more often than not sex simply does not deliver the goods. this fact does not lead men to cease obsessing about sex; it intensifies their lust and their longing. if women have been taught through sexist socialization that a journey through the difficult terrain of sex will lead us to our heart’s desire, men have been taught that their heart’s desire should be for sex and more sex. coming in the wake of sexual liberation, women’s liberation seemed to promise heterosexual and bisexual men that women would begin to think the same way males do about sexuality, that female sexuality would become just as predatory, just as obsessive as male sexual desire. lots of men thought this was the promise of paradise. finally they were going to be able to go for the sexual gusto without having to worry about commitment. sexist logic had convinced them and convinces them still that they can have connection and intimacy without commitment, that “have dick will travel” meant that their needs could and would be met on command, at any time, anywhere. in our culture these attitudes toward sexuality have been embraced by most men and many post–sexual liberation, postfeminist women. they are at the root of our cultural obsession with sex. when i first began to write books on love, to talk to lone individuals and then large audiences about the subject, i realized that it was practically impossible to have a serious discussion about love—that discussions of love, especially public conversations, are taboo in our society. yet everyone talks about sex. we see all manner of sexual scenes on our television and movie screens. talking about sex is acceptable. talk shows engage audiences daily with explicit discussions of sexuality. discussions of sex are fundamentally easier to engage in because in patriarchal culture sex has been presented to us as a “natural” desire. most folks believe we are hardwired biologically to long for sex but they do not believe we are hardwired to long for love. almost everyone believes that we can have sex without love; most folks do not believe that a couple can have love in a relationship if there is no sex."
 
-ve birkaç sayfa sonra ekliyor;
+ve birkaç sayfa sonra ekliyor:
 
 "pornography can sexualize that rage, and it can make sex look like revenge…. everywhere, men are in power, controlling virtually all the economic, political, and social institutions of society. yet individual men do not feel powerful—far from it. most men feel powerless and are often angry at women, whom they perceive as having sexual power over them: the power to arouse them and to give or withhold sex. this fuels both sexual fantasies and the desire for revenge."
 
@@ -95,7 +96,23 @@ ve birkaç sayfa sonra ekliyor;
 
 ### iyileşen erkek
 
-bell hooks'un alıntıladığı bir yazar, 
+bell hooks'un alıntıladığı bir yazar, "intimacy"i hayata entegre etmeye çalışma pratiği üstüne konuşuyor ve hayatta kalmamızın anahtar rolünün sevgi olduğunu belirtiyor. sevdikçe ve sevildiğimizi hissettikçe yaralarımızın iyileşeceğini ve kalplerimizin güvende hissedeceğini belirtiyor ve ancak bu sayede duygularımıza daha da yaklaşabileceğimizi söylüyor.
+
+"once the “new man” that is the man changed by feminism was represented as a wimp, as overcooked broccoli dominated by powerful females who were secretly longing for his macho counterpart, masses of men lost interest. reacting to this inversion of gender roles, men who were sympathetic chose to stop trying to play a role in female-led feminist movement and became involved with the men’s movement. positively, the men’s movement emphasized the need for men to get in touch with their feelings, to talk with other men. negatively, the men’s movement continued to promote patriarchy by a tacit insistence that in order to be fully self-actualized, men needed to separate from women. the idea that men needed to separate from women to find their true selves just seemed like the old patriarchal message dressed up in a new package."
+
+feminist maskülenite her erkeğin doğuştan gelen bir değeri olduğunu ve bunu elde etmek için herhangi bir görev yapmaları yahut bir şey kanıtlamaları gerekmediğini söylüyor. erkeğin kovalaması gereken gücün birilerine karşı üstünlük değil de kendinden ve başkalarından sorumlu olabilme gücü olduğunu belirtiyor.
+(lakin bu doğru mu, her erkek sevilmeyi ve onaylanmayı hak eder mi? eğer böyle diyebiliyorsak bile kadınların partnerleri hakkında düşünme algoritmaları hakikaten bu mudur? emin değilim.)
+
+(erkeklerin duygusal farkındalık yolculuğunu, kendilerini sevme yolunu vesaire tümüyle feminist bir maskülenite çerçevesinden incelemek doğru mu? tüm "male masculinity" gerçekten toksik patriyarkal mıdır? feminizm bazen insan olmanın tüm iyi özelliklerini sahiplenip tüm kötü özellikleri maskülenite ve patriyarkaya dışlıyor gibi hissettirdi bana açıkçası.)
+
+patriyarkal maskülenitenin, "gerçek erkeklerin" erkekliğini kanıtlaması için yalnızlığı ve bağlanmamayı idealize ettiğini söylüyor bell hooks ayrıca. feminist maskülenite ise başkaları ile bağlanmayı ve bir komünite kurmayı destekliyor ona göre. "dünyada hiçbir topluluk yoktur ki tek başına bir erkekten kurulmuş olsun" diye ekliyor. thoreau'nun bile yalnız başına yaşadığı kulübesinde annesine sıkça mektup yazdığını söylüyor. patriyarkanın erkekliği yalnızlığa ittiğini eklemiş oluyor böylece.
+
+### bitirmeye yaklaşırken 
+
+sonlara doğru kendi etrafındaki erkeklerden ve kısmi bir uyanıştan bahsedip genel bir özet sunuyor bell hooks. direkt aktarıyorum ağzından:
+
+
+
 
 
 
