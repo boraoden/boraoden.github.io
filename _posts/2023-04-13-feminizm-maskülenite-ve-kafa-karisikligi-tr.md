@@ -5,7 +5,7 @@ categories: ramble
 permalink: feminizm-maskülenite-ve-kafa-karisikligi-tr
 title: 'feminizm, maskülenite ve kafa karışıklığı - tr'
 ---
-_bell hooks_'un _the will to change: men, masculinity, and love_ kitabını okuyalı bir süre oldu, ingilizce okumaya çalıştığım için bazı noktalarda anlatılmaya çalışılan konsepti tam kavrayamamış olsam da kitabın benim zihnimde uyandırdıklarını ve itiraz etmek istediğim mevzuları solidifiye etmek istedim doğrusu. 
+bell hooks'un _the will to change: men, masculinity, and love_ kitabını okuyalı bir süre oldu, ingilizce okumaya çalıştığım için bazı noktalarda anlatılmaya çalışılan konsepti tam kavrayamamış olsam da kitabın benim zihnimde uyandırdıklarını ve itiraz etmek istediğim mevzuları solidifiye etmek istedim doğrusu. 
 
 modern kadın-erkek ilişkilerinin ve problemlerinin "manosphere" bakışından uzak, daha feminist bir taraftan incelenmesi; bu kitabı okumaya niyetlenmemde büyük pay sahibiydi ve yazılan birçok şeye katılmasam da kitabı okuduğuma çoğunlukla memnun da kaldım diyebilirim. 
 
@@ -26,7 +26,7 @@ tüm çocukların da baba sevgisi aradığını ama bu arayışta hemen her zama
 
 ### dile getirilemeyen duygular
 
-patriyarkanın erkeklere kendi üzüntü ve yaslarını dile getirmeyi adeta yasak koştuğunu söylüyor bell hooks. patriyarka umursamıyor. öte yandan kadınlar yüreklerini rahatça açabiliyor, birileriyle konuşabiliyor. patriyarka erkeklere bir çeşit duygusal stoacılık öğütlüyor, erkeklere hissetmemelerini, eğer şans eseri hissederlerse onu gömmelerini, unutmalarını veya o hissin uzaklaşmasını ummalarını öğütlüyor patriyarka. "erkek acısı" isimlendirilmiyor, konuşulmuyor ve haliyle iyileştirilemiyor zira bir sesi dahi yok. sadece erkekler reddetmiyor erkeklerin acısını, kadınlar da bunu yapıyor. duygularını kucaklamaya çalışan erkekler, kadınlar tarafından "needy" veya "attention seeker" olarak görülüyor. güçlü erkek imajının partnerlerinin zayıflıklarını görerek sarsılmasını hoş karşılamıyor kadınlar. 
+patriyarkanın erkeklere kendi üzüntü ve yaslarını dile getirmeyi adeta yasak koştuğunu söylüyor bell hooks. patriyarka umursamıyor. öte yandan kadınlar; yüreklerini rahatça açabiliyor, birileriyle konuşabiliyor. patriyarka erkeklere bir çeşit duygusal stoacılık öğütlüyor, erkeklere hissetmemelerini, eğer şans eseri hissederlerse onu gömmelerini, unutmalarını veya o hissin uzaklaşmasını ummalarını öğütlüyor patriyarka. "erkek acısı" isimlendirilmiyor, konuşulmuyor ve haliyle iyileştirilemiyor zira bir sesi dahi yok. sadece erkekler reddetmiyor erkeklerin acısını, kadınlar da bunu yapıyor. duygularını kucaklamaya çalışan erkekler, kadınlar tarafından "needy" veya "attention seeker" olarak görülüyor. güçlü erkek imajının partnerlerinin zayıflıklarını görerek sarsılmasını hoş karşılamıyor kadınlar. 
 
 bell hooks bunda, kadınların başarısız hissetme tarafının da etkin olduğunu söylüyor. seksist bir şekilde sevme görevini üstlenmiş kadın, partneri sevilmediğini hissettirince suçlu ve başarısız hissediyor ve biraz da bu sebeple "erkek acısı"nı duymayı reddetme yolunu seçebiliyor.
 
@@ -109,10 +109,10 @@ patriyarkal maskülenitenin, "gerçek erkeklerin" erkekliğini kanıtlaması iç
 
 ### bitirmeye yaklaşırken 
 
-sonlara doğru kendi etrafındaki erkeklerden ve kısmi bir uyanıştan bahsedip genel bir özet sunuyor bell hooks. direkt aktarıyorum ağzından:
+sonlara doğru kendi etrafındaki erkeklerden ve kendi düşünsel evriminden bahsediyor bell hooks:
 
+"as i matured, as my feminist consciousness developed to include the recognition of patriarchal abuse of men, i could hear male pain. i could see men as comrades and fellow travelers on the journey of life and not as existing merely to provide instrumental support. since men have yet to organize a feminist men’s movement that would proclaim the rights of men to emotional awareness and expression, we will not know how many men have indeed tried to express feelings, only to have the women in their lives tune out or be turned off. talking with men, i have been stunned when individual males would confess to sharing intense feelings with a male buddy, only to have that buddy either interrupt to silence the sharing, offer no response, or distance himself. men of all ages who want to talk about feelings usually learn not to go to other men. and if they are heterosexual, they are far more likely to try sharing with women they have been sexually intimate with. women talk about the fact that intimate conversation with males often takes place in the brief moments before and after sex. and of course our mass media provide the image again and again of the man who goes to a sex worker to share his feelings because there is no intimacy in that relationship and therefore no real emotional risk. being “vulnerable” is an emotional state many men seek to avoid. some men spend a lifetime in a state of avoidance and therefore never experience intimacy. sadly, we have all colluded with the patriarchy by faking it with men, pretending levels of intimacy and closeness we do not feel. we tell men we love them when we feel we have absolutely no clue as to who they really are. we tell fathers we love them when we are terrified to share our perceptions of them, our fear that if we disagree, we will be cast out, excommunicated. in this way we all collude with patriarchal culture to make men feel they can have it all, that they can embrace patriarchal manhood and still hold their loved ones dear. in reality, the more patriarchal a man is, the more disconnected he must be from feeling. if he cannot feel, he cannot connect. if he cannot connect, he cannot be intimate."
 
+---
 
-
-
-
+of, bilemiyorum. çok uzun sürdü ki bazı kısımları çeviremedim bile. çok tekrara düşebiliyor bell hooks, bazen erkekler özelinde çok genelleme yaptığı da oluyor ve minik minik kendiyle çeliştiği de fakat güzel sunuyor bu konular üstüne düşünen birçok erkeğin kafasındaki açmazları, erkekleri tanımak isteyen kadınların zihnini kurcalayanları. ama çocuk yetiştirme hataları ve ebeveynlik muhabbetleri beni pek açmadı kitap boyu sıkça bahsedilen. yine de zaten yazı boyunca eleştirilerimi ve eklemeleri parantezler içinde belirtmeye çalıştım. sanırım kafamda bazı sorulara cevap olmaktan çok daha çok soru işareti yarattı bell hooks, yine de okuduğuma memnunum diyebilirim _the will to change_'i.
