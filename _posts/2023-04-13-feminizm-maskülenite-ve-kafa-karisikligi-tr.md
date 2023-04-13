@@ -2,7 +2,7 @@
 published: true
 layout: post
 categories: ramble
-permalink: feminizm-maskülenite-ve-kafa-karisikligi-tr
+permalink: feminizm-maskulenite-ve-kafa-karisikligi-tr
 title: 'feminizm, maskülenite ve kafa karışıklığı - tr'
 ---
 bell hooks'un _the will to change: men, masculinity, and love_ kitabını okuyalı bir süre oldu, ingilizce okuduğum için bazı noktalarda anlatılmaya çalışılan konsepti tam kavrayamamış olsam da kitabın benim zihnimde uyandırdıklarını ve hem katıldığım hem de itiraz etmek istediğim mevzuları solidifiye etmek istedim doğrusu. 
