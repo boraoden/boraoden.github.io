@@ -23,7 +23,6 @@ tüm çocukların da baba sevgisi aradığını ama bu arayışta hemen her zama
 (bell hooks kitap boyunca çocuk yetiştirme ve babalık hakkında bolca kelamda bulunuyor ama ben bunları biraz es geçtim fikirlerini ve kendi fikirlerimi buraya dökerken, belirtmeden geçmeyeyim.)
 
 ![]({{site.baseurl}}/images/bh1.jpg)
-
 ### dile getirilemeyen duygular
 
 patriyarkanın erkeklere kendi üzüntü ve yaslarını dile getirmeyi adeta yasak koştuğunu söylüyor bell hooks. patriyarka umursamıyor. öte yandan kadınlar; yüreklerini rahatça açabiliyor, birileriyle konuşabiliyor. patriyarka erkeklere bir çeşit duygusal stoacılık öğütlüyor, erkeklere hissetmemelerini, eğer şans eseri hissederlerse onu gömmelerini, unutmalarını veya o hissin uzaklaşmasını ummalarını öğütlüyor patriyarka. "erkek acısı" isimlendirilmiyor, konuşulmuyor ve haliyle iyileştirilemiyor zira bir sesi dahi yok. sadece erkekler reddetmiyor erkeklerin acısını, kadınlar da bunu yapıyor. duygularını kucaklamaya çalışan erkekler, kadınlar tarafından "needy" veya "attention seeker" olarak görülüyor. güçlü erkek imajının partnerlerinin zayıflıklarını görerek sarsılmasını hoş karşılamıyor kadınlar. 
@@ -32,7 +31,6 @@ bell hooks bunda, kadınların başarısız hissetme tarafının da etkin olduğ
 
 patriyarkanın değer verdiği tek duygunun öfke olduğunu söylüyor bell hooks. erkeklerin sinirlenmesinin "normal" ve "doğal" olduğunu belirtip bu durumun ilişkide aşkın önüne engel olduğunu söylüyor. 
 (ayrıca gaddar patriyark erkeklerin zararları hakkında bolca laf söylüyor bell hooks ama hakikaten tüm maskülen erkekler dominant, zalim, şiddet yanlısı, sevgisiz mi olmak zorunda? bu tip bir genelleme ne kadar doğru acaba bell abla?)
-
 ### patriyarka ve bazı roller
 
 patriyarka tanımı olarak; "patriarchy is a political-social system that insists that males are inherently dominating, superior to everything and everyone deemed weak, especially females, and endowed with the right to dominate and rule over the weak and to maintain that dominance through various forms of psychological terrorism and violence. when my older brother and i were born with a year separating us in age, patriarchy determined how we would each be regarded by our parents. both our parents believed in patriarchy; they had been taught patriarchal thinking through religion." diyor bell hooks. 
@@ -60,9 +58,7 @@ erkeklerin, neden patriyarkadan sıyrılmış, daha acısız, sağlıklı ve kol
 bell hooks'a göre patriyarka, erkekleri çocuk yetiştirme ve disipline etmede şiddete yönlendirdiği gibi kadınları da buna yönlendiriyor. kadınlar bunun normal yetiştirme yolu olduğunu düşünmeye başlıyor kendileri de öyle "hizaya getirildiği" için ve çocuklarına karşı şiddet kullanmaktan kaçınmıyor oluyorlar.
 
 ![]({{site.baseurl}}/images/bh3.jpg)
-
 ### erkeğin kadındaki sevgi arayışı
-
 adölesan dönemde anne sevgisi görmeyen erkekler, bell hooks'a göre, bu sevgiyi ileri hayatlarındaki partnerlerinde arayabiliyor ve zaman içinde bu durum kadının yıpranmasıyla ve nihayetinde erkeği ve ilişkiyi bırakmasıyla sonuçlanabiliyor. bu da erkeklerin sevgiye ve aşka güven yitirmesiyle ve sıkça partnerlerinin kendilerine olan sevgilerini test etmeleriyle sonuçlanıyor ki bu da ilişkinin sonlanmasını hızlandırıyor.
 (bence burada doğru bir noktaya parmak basıyor bell hooks, benim de gözlemlediğim bir olgu bu. erkek, ne kadar sevgi dilenirse partnerinden partneri o kadar uzaklaşıyor, ki hakkıdır da uzaklaşmak. sağlıklı bir erkeğin kaçınması gereken ilk şeylerden biri kuşkusuz partnerine annesi gibi bakmamak olmalı.)
 
