@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: ramble
 permalink: feminizm-maskülenite-ve-kafa-karisikligi-tr
