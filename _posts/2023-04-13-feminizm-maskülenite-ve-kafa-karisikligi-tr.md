@@ -7,7 +7,7 @@ title: 'feminizm, maskülenite ve kafa karışıklığı - tr'
 ---
 bell hooks'un _the will to change: men, masculinity, and love_ kitabını okuyalı bir süre oldu, ingilizce okuduğum için bazı noktalarda anlatılmaya çalışılan konsepti tam kavrayamamış olsam da kitabın benim zihnimde uyandırdıklarını ve hem katıldığım hem de itiraz etmek istediğim mevzuları solidifiye etmek istedim doğrusu. 
 
-modern kadın-erkek ilişkilerinin ve problemlerinin "manosphere" bakışından uzak, daha feminist bir taraftan incelenmesi; bu kitabı okumaya niyetlenmemde büyük pay sahibiydi ve yazılan birçok şeye katılmasam da kitabı okuduğuma çoğunlukla memnun da kaldım diyebilirim. 
+modern kadın-erkek ilişkilerinin ve problemlerinin "manosphere" bakışından uzak, daha feminist bir taraftan incelenmesi; bu kitabı okumaya niyetlenmemde büyük pay sahibiydi ve yazılan her şeye katılmasam da kitabı okuduğuma çoğunlukla memnun da kaldım diyebilirim. 
 
 yazı biraz uzun kaçabilir, önden uyarımı yapayım. kitaptan alıntılar üstünden gideceğim ve kendi fikirlerimle harmanlayıp onaylayacağım yahut itirazlarda bulunacağım. kendi fikirlerimi parantez içinde belirtmeye çalışacak olsam da bazı kısımları türkçe'ye çevirirken ister istemez objektivitenin kaybolacağını belirtmeden geçmeyeyim. haydi başlayalım.
 
