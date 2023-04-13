@@ -78,14 +78,24 @@ bell abla, yazısına erkeklerin "intimacy"e sıcak bakan bir çerçeveden yeti�
 patriyarka duygusal açıdan hissetmeyen erkeği ödüllendiriyor ve hisseden erkekler izole kalıyor adeta ve bu izolasyon korkusu da duygularına yaklaşmak isteyen erkeği bundan mahrum kılıyor.
 (bu bazı noktalardan doğru, hakikaten hem kadınlar hem de erkekler, erkeklerin duygu göstermesi durumunda onlara karşı kısmi bir cephe alabiliyor ama bunda yine cephe alan yegane taraf erkekler değil kuşkusuz.)
 
-### cinsellik
+### cinsellik ve pornografi
 
 buraya direkt önemli bir pasajı aktarıyorum:
 "most men and women are not having satisfying and fulfilling sex. we have all heard the notion that men come to relationships looking for sex and not love and that women come to relationships looking for love and not sex. in actuality, men come to sex hoping that it will provide them with all the emotional satisfaction that would come from love. most men think that sex will provide them with a sense of being alive, connected, that sex will offer closeness, intimacy, pleasure. and more often than not sex simply does not deliver the goods. this fact does not lead men to cease obsessing about sex; it intensifies their lust and their longing. if women have been taught through sexist socialization that a journey through the difficult terrain of sex will lead us to our heart’s desire, men have been taught that their heart’s desire should be for sex and more sex. coming in the wake of sexual liberation, women’s liberation seemed to promise heterosexual and bisexual men that women would begin to think the same way males do about sexuality, that female sexuality would become just as predatory, just as obsessive as male sexual desire. lots of men thought this was the promise of paradise. finally they were going to be able to go for the sexual gusto without having to worry about commitment. sexist logic had convinced them and convinces them still that they can have connection and intimacy without commitment, that “have dick will travel” meant that their needs could and would be met on command, at any time, anywhere. in our culture these attitudes toward sexuality have been embraced by most men and many post–sexual liberation, postfeminist women. they are at the root of our cultural obsession with sex. when i first began to write books on love, to talk to lone individuals and then large audiences about the subject, i realized that it was practically impossible to have a serious discussion about love—that discussions of love, especially public conversations, are taboo in our society. yet everyone talks about sex. we see all manner of sexual scenes on our television and movie screens. talking about sex is acceptable. talk shows engage audiences daily with explicit discussions of sexuality. discussions of sex are fundamentally easier to engage in because in patriarchal culture sex has been presented to us as a “natural” desire. most folks believe we are hardwired biologically to long for sex but they do not believe we are hardwired to long for love. almost everyone believes that we can have sex without love; most folks do not believe that a couple can have love in a relationship if there is no sex."
 
+ve birkaç sayfa sonra ekliyor;
+
+"pornography can sexualize that rage, and it can make sex look like revenge…. everywhere, men are in power, controlling virtually all the economic, political, and social institutions of society. yet individual men do not feel powerful—far from it. most men feel powerless and are often angry at women, whom they perceive as having sexual power over them: the power to arouse them and to give or withhold sex. this fuels both sexual fantasies and the desire for revenge."
+
 ![]({{site.baseurl}}/images/bh4.jpg)
 
-### pornografi
+(çoğunlukla farklı nedenlerden köken alsa da hem "manosphere" dünyasında hem de bell hooks'un penceresinde pornografiye karşı bir tutum var ki ben de bu tutumun arkasındayım.)
+
+(bell hooks, modern patriyarkal seksin şiddetli ve dominasyon odaklı olduğunu vesaire yine dile getiriyor ancak seks hem bu şekilde hem de keyif verici olamaz mı? bazı kadınlar cinsel dünyalarında domine edilmeyi istemiyor mu, isteyemez mi, bu da mı patriyarkal bir zihin ürünü yoksa?)
+
+### iyileşen erkek
+
+bell hooks'un alıntıladığı bir yazar, 
 
 
 
