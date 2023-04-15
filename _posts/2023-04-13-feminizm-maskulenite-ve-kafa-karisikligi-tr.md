@@ -9,13 +9,13 @@ bell hooks'un _the will to change: men, masculinity, and love_ kitabını okuyal
 
 modern kadın-erkek ilişkilerinin ve problemlerinin "manosphere" bakışından uzak, daha feminist bir taraftan incelenmesi; bu kitabı okumaya niyetlenmemde büyük pay sahibiydi ve yazılan her şeye katılmasam da kitabı okuduğuma çoğunlukla memnun da kaldım diyebilirim. 
 
-yazı biraz uzun kaçabilir, önden uyarımı yapayım. kitaptan alıntılar üstünden gideceğim ve kendi fikirlerimle harmanlayıp onaylayacağım yahut itirazlarda bulunacağım. kendi fikirlerimi parantez içinde belirtmeye çalışacak olsam da bazı kısımları türkçe'ye çevirirken ister istemez objektivitenin kaybolacağını belirtmeden geçmeyeyim. haydi başlayalım.
+yazı biraz uzun kaçabilir, önden uyarımı yapayım. kitaptan alıntılar üstünden gideceğim ve kendi fikirlerimle harmanlayıp onaylayacağım yahut itirazlarda bulunacağım. kendi düşüncelerimi parantez içinde belirtmeye çalışacak olsam da bazı kısımları türkçe'ye çevirirken ister istemez objektivitenin kaybolacağını söylemeden geçmeyeyim. haydi başlayalım.
 
 ---
 
 ### giriş
 
-bell hooks, söze; feminizmin en sağlıklı ve hatta yegane uygulanma yolunun erkekler hakkında konuşmanın üstünden geçtiğini belirterek başlıyor, kadınların kendi güç arayışlarında erkeklerle olan bağlarını reddetmememesi gerektiğini ve reddemeyeceğini belirtiyor. patriyarkaya olan savaşta erkeklerin de değişmesi gerektiğini ve bizzat ona karşı mücadeleye girişmesi gerektiğini belirtiyor.
+bell hooks, söze; feminizmin en sağlıklı ve hatta yegane uygulanma yolunun erkekler hakkında konuşmanın üstünden geçtiğini belirterek başlıyor, kadınların kendi güç arayışlarında erkeklerle olan bağlarını reddetmememesi gerektiğini ve reddemeyeceğini iddia ediyor. patriyarkaya olan savaşta erkeklerin de değişmesi gerektiğini ve bizzat ona karşı mücadeleye girişmesi gerektiğini de ekliyor.
 
 ayrıca kadınların, erkeklerin sevgisine ihtiyacı olduğunu dile rahatça getiremeyişine zira bu durumun onların eksikliği gibi algılandığına değiniyor ama bir yandan da bunun tüm kadınların bir ihtiyacı olduğunu da es geçmiyor.
 
