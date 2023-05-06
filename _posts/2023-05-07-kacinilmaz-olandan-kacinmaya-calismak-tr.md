@@ -5,7 +5,7 @@ categories: personal
 permalink: kacinilmaz-olandan-kacinmaya-calismak-tr
 title: kaçınılmaz olandan kaçınmaya çalışmak - tr
 ---
-şehir bu sefer milano, ancak mekan yine 24 ore aperto mcdonald's, yine saat gece 1.30'u gösteriyor ve yine ben. hava çok sıcak, dışarıda açtım bilgisayarı ve yazı yazıyorum, ne kadar otantik. mcdonald's mı ilham perisi yoksa bitmeyen geceler mi, emin değilim.
+şehir bu sefer milano, ancak mekan yine 24 ore aperto mcdonald's, yine saat gece 1.30'u gösteriyor ve yine ben. hava çok sıcak, dışarıda açtım bilgisayarı ve yazı yazıyorum, ne kadar otantik. mcdonald's mı ilham perisi yoksa bitmeyen geceler mi, emin değilim. yazı boyunca bazen üçüncü gözden bazense direkt kendi ağzımdan yazacağım sanırım. ne de olsa ruh durumum da bundan pek farklı sayılmaz; bazen hayatımın ipleri tümüyle ellerimde, bazense sadece seyirciyim.
 
 oy kullanmak için bu kadar yol tepince insan ölümsüzleştirmek istiyor herhalde gününü, bir yandan kaçırılmış bir milan-lazio maçı dururken ekstra zor oluyor tabii bu. milano metrosunda yedisinden yetmişine kırmızı siyah formayı görmek dahi heyecanlandırmaya yetiyordu doğrusu insanı.
 
