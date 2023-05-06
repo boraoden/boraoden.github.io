@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: personal
 permalink: kacinilmaz-olandan-kacinmaya-calismak-tr
