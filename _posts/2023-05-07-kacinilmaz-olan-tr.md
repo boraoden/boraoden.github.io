@@ -9,7 +9,7 @@ title: kaçınılmaz olan - tr
 
 lynyrd skynyrd'tan _simple man_ çalıyor kulağımda, ne ala.
 
-![]({{site.baseurl}}//images/mccafe2.jpg)
+![]({{site.baseurl}}/images/mccafe2.jpg)
 
 oy kullanmak için bu kadar yol tepince insan ölümsüzleştirmek istiyor herhalde gününü, bir yandan kaçırılmış bir milan-lazio maçı dururken ekstra zor oluyor tabii bu. milano metrosunda yedisinden yetmişine kırmızı siyah formayı görmek dahi heyecanlandırmaya yetiyordu doğrusu insanı.
 
