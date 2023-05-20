@@ -35,12 +35,12 @@ entries:
 
 
 
-  - title: "latest posts:"
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: see archive...
-      show_more_url: archive
+#  - title: "latest posts:"
+#    post_list:
+#      limit: 5
+#      show_more: true
+#      show_more_text: see archive...
+#      show_more_url: archive
 
 #  - title: <img src="/images/michaelscott.gif" alt="yeah." width="360" height="181.2" align="left">
 
