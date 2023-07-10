@@ -13,7 +13,7 @@ here are my favourite paintings, although they are a bit famous and not so many,
 
 ### _Der Wanderer Über Dem Nebelmeer_ by **Caspar David Friedrich**
 
-![]({{site.baseurl}}/images/wandererabovetheseaoffog.jpg)
+![]({{site.baseurl}}/images/wandererabovetheseaoffog2.jpg)
 
 ### _Kahnfahrt auf der Elbe bei Dresden_ by **Carl Gustav Carus**
 
@@ -31,4 +31,3 @@ here are my favourite paintings, although they are a bit famous and not so many,
 ### _Scuola di Atene_ by **Raffaello Sanzio**
 
 ![]({{site.baseurl}}/images/lascuoladiatene.jpg)
-
