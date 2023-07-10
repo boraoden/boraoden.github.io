@@ -31,7 +31,7 @@ neredeyse sigara girmemiş ciğerinin güzel bir "corset" arzuladığını hisse
 
 zor be oğlum bora zor, hatırlasana doğum gününde otobüs yolculuğundaydın. şimdi yarım sene ülkenden ve ailenden uzak kaldın. hataların oldu, kendine kızdığın anlar oldu, kendinle gurur duyduğun anlar da oldu. ilkleri deneyimledin, özellikle italya senin için bir dönüm noktası oldu, okulun sıkıntıya girdi belki ama değdiğini düşünüyorsun sahici şekilde.
 
-john frusciante başlıyor şimdi dört duvar arasındaki boğucu yurt odanda. "song to sing when i'm lonely"i söylüyor. kalakalıyorsun öyle. ellerin kolların bağlı hissediyorsun.
+john frusciante başlıyor şimdi bu sıkıcı dört duvar arasındaki boğucu yurt odanda. "song to sing when i'm lonely"i söylüyor. kalakalıyorsun öyle. ellerin kolların bağlı hissediyorsun.
 
 şu hayatta tek başınasın bora, hep tek başına. unutma. hayatına kimler girerse girsin yalnız doğdun, yalnız yaşadın ve yalnız öleceksin. her hatanla, her başardığınla, her deneyimlediğinle seninle gurur duyuyorum abi.
 
