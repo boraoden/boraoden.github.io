@@ -29,7 +29,7 @@ saat onu çeyrek geçiyor geceye doğru, duş alması gerek yazarın, dolabında
 
 neredeyse sigara girmemiş ciğerinin güzel bir "corset" arzuladığını hissediyor, bunu okuyacak olanın suratına konan gülümsemeyi şimdiden hissediyor.
 
-zor be oğlum bora zor, hatırlasana doğum gününde otobüs yolculuğundaydın. şimdi yarım sene ülkenden ve ailenden uzak kaldın. hataların oldu, kendine kızdığın anlar oldu, kendinle gurur duyduğun anlar da oldu. ilkleri deneyimledin, özellikle italya senin için bir dönüm noktası oldu, okulun sıkıntıya girdi belki ama değdiğini düşünüyorsun sahici şekilde.
+zor be oğlum bora zor, hatırlasana doğum gününde tuhaf bir otobüs yolculuğundaydın italya maceran için. şimdi yarım sene ülkenden ve ailenden uzak kalmış olacaksın. hataların oldu, kendine kızdığın anlar oldu, kendinle gurur duyduğun anlar da oldu. ilkleri deneyimledin, özellikle italya senin için bir dönüm noktası oldu, okulun sıkıntıya girdi belki ama değdiğini düşünüyorsun sahici şekilde.
 
 john frusciante başlıyor şimdi bu sıkıcı dört duvar arasındaki boğucu yurt odanda. "song to sing when i'm lonely"i söylüyor. kalakalıyorsun öyle. ellerin kolların bağlı hissediyorsun.
 
