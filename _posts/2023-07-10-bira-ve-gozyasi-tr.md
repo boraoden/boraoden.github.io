@@ -2,8 +2,8 @@
 published: true
 layout: post
 categories: personal
-permalink: bira ve gözyaşı - tr
-title: bira ve gözyaşı - tr
+permalink: beers and tears - tr
+title: beers and tears - tr
 ---
 lokasyon almanya bu sefer, minik bir öğrenci şehri, ulm. aylar sonra yeniden gelmesi zorunlu olmuş bir post sanırım. 
 
