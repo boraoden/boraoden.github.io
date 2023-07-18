@@ -4,7 +4,7 @@ layout: post
 categories: personal
 permalink: i know ii - en
 ---
-oh, i wasn't posting in english for a while. just wanted to write something more on this beautiful song of placebo and myself.
+oh, i wasn't posting in english for a while. just wanted to write something more on this beautiful song of placebo and myself. [this](https://boraoden.net/i-know-en) was not enough apparently.
 
 i know better now, why brian molko wrote the lyrics "the past will catch you up as you run faster". it's impossible to escape from past; not only your own past of course, the past of your loved ones too.
 
@@ -39,7 +39,16 @@ don't you see you're pathetic that you're sticking to past, being insecure, exce
 
 don't know you how bad is feeling like "got no friends and got no lover" from _for what's it worth_?
 
-don't do this, bora, just let it go my buddy, let it go and pass...
+you know that you should not do this, bora, you should just let it go my buddy, let it go and pass...
+
+but you are fearful that you can't do it and even though you somehow hide it, you are afraid that you can't eliminate that feeling never. 
+
+but it's worth trying bora, worth trying.
+
+do you want your soulmate to see at [the bitter end](https://open.spotify.com/track/3WBPiogtVDBSXK7uOpxJ6m?si=8efc9b6054394348) you dumbfuck?
+
+oh bora, you're so coward, so frantic dude.
+
+you said her that i am ready to everything [because i want you](https://open.spotify.com/track/3BCwHknc8WQtp1iN2BSECe?si=271759c0735149f8). why don't you act like that then boy?
 
 ![]({{site.baseurl}}/images/iknow2a.jpg)
-
