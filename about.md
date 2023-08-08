@@ -4,7 +4,7 @@ title: about me
 published: true
 permalink: about-me
 ---
-<a href="/projects">projects</a> <a href="/docs/CV_BoraOden.pdf">cv</a>
+<a href="/projects">projects</a> <a href="/docs/CV_BoraOden-6.pdf">cv</a>
 
 <!--- <img src="images/medic.gif" alt="mediiic!" width="245" height="127"> --->
 
