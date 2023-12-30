@@ -29,7 +29,8 @@ entries:
     entries:
  #    - title: boraodenn [at] outlook [dot] com
       - title: <a href="mailto:boraodenn@outlook.com">email</a>  
-      - title: <a href="https://www.linkedin.com/in/boraoden/">linkedin</a> #<a href= "https://github.com/boraoden">github</a> 
+      - title: <a href="https://www.linkedin.com/in/boraoden/">linkedin</a> 
+     #- title: <a href= "https://github.com/boraoden">github</a> 
       - title: <a href="https://open.spotify.com/user/6atimpsh5xjmanqgunag33zry?si=0822978bdbab432c">spotify</a> 
       - title: <a href= "https://letterboxd.com/wiseonn">letterboxd</a> 
       - title: <a href= "https://www.goodreads.com/user/show/116783385-bora">goodreads</a>   
