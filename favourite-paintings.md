@@ -3,7 +3,8 @@ title: favourite paintings
 published: true
 ---
 
-here are my favourite paintings, although they are a bit famous and not so many, i simply love how all of them mean something for me. (i will probably update this page a lot, so stay in tuned!)
+here are my favourite paintings, although they are a bit famous and not so many, i simply love how all of them mean something for me. 
+(i will probably update this page a lot, so stay in tuned!)
 
 ---
 
