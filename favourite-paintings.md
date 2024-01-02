@@ -8,6 +8,10 @@ here are my favourite paintings, although they are a bit famous and not so many,
 
 ---
 
+### _Dinamismo di un cane al guinzaglio_ by ** Giacomo Balla**
+
+![]({{site.baseurl}}/images/dynamism-of-dog.jpg)
+
 ### _Karaliu Pasaka_ by **Mikalojus Konstantinas Čiurlionis**
 
 ![]({{site.baseurl}}/images/Karaliu_pasaka.jpg)
