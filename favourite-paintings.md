@@ -7,6 +7,10 @@ here are my favourite paintings, although they are a bit famous and not so many,
 
 ---
 
+### _Karaliu Pasaka_ by **Mikalojus Konstantinas Čiurlionis**
+
+![]({{site.baseurl}}/images/Karaliu_pasaka.jpg)
+
 ### _Boreas_ by **John William Waterhouse**
 
 ![]({{site.baseurl}}/images/boreas.jpg)
