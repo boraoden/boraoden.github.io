@@ -11,3 +11,5 @@ permalink: about-me
 hey! i am just a medical student from turkey who is enthusiastic about tech, books, cinema, sports, cats and coffee. yes, it is nine year old me down there!
 
 ![looking handsome, eh?]({{site.baseurl}}/images/bora1a.png)
+
+<audio src="/audio/don't look back in anger.mp3" controls></audio>
