@@ -12,4 +12,4 @@ hey! i am just a medical student from turkey who is enthusiastic about tech, boo
 
 ![looking handsome, eh?]({{site.baseurl}}/images/bora1a.png)
 
-<audio src="/audio/don't look back in anger.mp3" controls></audio>
+<audio src="/audio/don't look back in anger.mp3" controls audioTracks></audio>
