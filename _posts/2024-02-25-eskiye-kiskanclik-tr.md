@@ -1,5 +1,4 @@
 ---
-published: null
 layout: post
 categories: ramble personal
 permalink: eskiye-kiskanclik-tr
