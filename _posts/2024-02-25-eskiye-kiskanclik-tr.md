@@ -4,7 +4,7 @@ categories: ramble personal
 permalink: eskiye-kiskanclik-tr
 title: eskiye kıskançlık - tr
 ---
-bu sığ kitabı okuduktan sonra kindleda aldığım birkaç highlight boşa gitmesin diye bir çaba içine girdim ve pek dikkat vermeden işaretlediğim parçalar üstünden minikçe bir yazı yazayım istedim. kitabın bana faydası olmuş mudur bilmiyorum doğrusu lakin yine de okumuş bulunduk işte. 25 şubat itibariyle kitabın konu ettiği kavramı çok nadiren hissediyorum diyebilirim. neyse, lafı uzatmadan haydi başlayalım.
+bu sığ kitabı okuduktan sonra aldığım birkaç not boşa gitmesin diye bir çaba içine girdim ve pek dikkat vermeden işaretlediğim parçalar üstünden minikçe bir yazı yazayım istedim. kitabın bana faydası olmuş mudur bilmiyorum doğrusu lakin yine de okumuş bulunduk işte. 25 şubat itibariyle kitabın konu ettiği kavramı çok nadiren hissediyorum diyebilirim. neyse, lafı uzatmadan haydi başlayalım.
 
 ---
 #### giriş ve örnekler
@@ -21,6 +21,7 @@ retroaktif kıskançların, partnerlerinin hayatlarından minik minik ayrıntıl
 çeviri yapmaya gelmedim, bilmiyorum "copyright" problemleri oluyor mu ama bence yazar retroaktif kıskançlığı on numara özetlemiş, o yüzden direkt yapıştırıyorum buraya.
 
 > retroactive jealousy, or what is sometimes also referred to as retrospective jealousy, involves obsessive and unpleasant thoughts and emotions regarding a partner's past relationships and sexual history. some people are troubled by the fact that their partner went through a "promiscuous phase" involving multiple lovers. some people are troubled by the fact that their partner engaged in different types of sexual behaviour, or had more sexual partners than themselves. some people are troubled by the fact that their partner was once deeply in love and committed to another person. some people are troubled by the fact that their partner once kissed another boy in the seventh grade (i'm not kidding). wherever you fall on the spectrum, retroactive jealousy usually involves intrusive and unwanted thoughts and mental images, and highly charged emotional responses concerning a partner's past.
+
 #### sorgulama
 
 yazar, ardından, partnerinizin cinsel geçmişini ve ilişkilerini sorgulamanın bazı durumlarda makul olabileceğini ekliyor ve kendimize şu soruları sormamızı istiyor:
@@ -29,16 +30,19 @@ yazar, ardından, partnerinizin cinsel geçmişini ve ilişkilerini sorgulamanı
 3- değerleri ve normları sizinkinden hakikaten çok mu farklı, zıt mısınız? yahut partneriz cinsel ilişkiye sizin baktığınızdan çok mu farklı bir şekilde bakıyor?
 
 bu sorulardan herhangi birine de gönül rahatlığı ile onay verebiliyorsak ilişkiye devam etmemenin daha iyi bir opsiyon olabileceğini ekliyor. eğer çevrenizdeki hemen herkesin "uzak dur" dediği bir insanla beraberseniz gerçekten uzak durmak iyi olabilir diye bitiriyor.
+
 #### semptomlar
 
 güçsüz hissetmek, kontrolün elinden kaydığını hissetmek ve umutsuzluğa düşmenin; sürekli bir tehdit, yıkıcı düşünceler ve duygular altında yaşamanın berbat bir şey olduğunu söylüyor yazar ve sırf bunun dahi retroaktif kıskançlığı yenmek uğruna adım atılması için gerekli bir motivasyon olabileceğini söylüyor.
 
 akabinde retroaktif kıskançlık ile bitmiş ilişkilerin ardından kişi yeni bir ilişkiye başladığında, kişinin kendi yahut partnerinin geçmişinden bağımsız şekilde, bu yeni ilişkinin de bir önceki ile benzer kaderi paylaştığını söylüyor yazar. sorunun partnerleriniz ve geçmişleri olmadığını, sorunun siz olduğunu belirtiyor ve bunu kabul etmenizi istiyor. bunu sizin yarattığınızı ve sadece yine sizin yıkabileceğinizi belirtiyor.
+
 #### zaman ve algılar
 
 partnerizin geçmişine dokunmuş insanların partnerizinde kısacık ve neredeyse yanılgısal bir etkisi olduğunu söylüyor yazar. zamanın hafızayı değiştirdiğini ve hatıralara da sadece günümüz lensinden bir bakış imkanımız olduğunu söylüyor ve her anla, her dakikayla partnerizinin hatıralarının da solduğunu ve değiştiğini ve eninde sonunda gerçek deneyimden sadece çok ufak bir parçanın partnerizin bilincinde çok hayali bir şekilde var olduğunu söylüyor ve partnerinizin eski aşklarının onlar üstünde inanılmaz silinmez ve unutulmaz bir etki yarattığı sanrısından vazgeçin diye uyarıyor bizleri.
 
 ben burada katılmıyorum ama tam, biraz "züğürt tesellisi" gibi geliyor bu bana. nihayetinde belirttiği bazı noktalar doğru ama partnerizin kafasının içini de tümden bilmenize imkan yok, haliyle kim, ne kadar, ne boyutta önemli, kestirmek de mümkün değil zaman istediği kadar zihnimizle oyunlar oynasa da. yine de olayın belirtilmesi değerli bir yönü bu kuşkusuz.
+
 #### büyüme ve değişme
 
 retroaktif kıskançlıkla mücadele hepimizi büyütüyor ve geliştiriyor. durumumuzu daha iyi anlamamıza ve kıskançlığımızın köküne inmemize yol açıyor fakat aynı zamanda kendi kökümüze de bakıyoruz, derin ve karanlık gerçeklerimizi keşfediyor ve kendimizi bir nevi transforme ediyoruz. haliyle retroaktif kıskançlık, işin sonunda bizi biz yapan bir çark tetikleyici oluyor ve kişisel gelişimimize katkıda bulunuyor diyor yazar. biraz abartıyor ama haksız da sayılmaz. Heinlein abi de güzel demiş.
@@ -52,6 +56,7 @@ bunu güçlendirmek için de "kadınlar özgüvenli ve kendinden emin erkeklerde
 > intense jealousy telegraphs intense insecurity. and this is not good, because, sooner or later, insecurity will obliterate your partner's attraction to you. if you are constantly worried about something your partner did in the past (or might do in the future) not only are you not really living, but you are also conveying a subconscious message to your partner, which is "i'm threatened by just about every other person out there."
 
 tüm ilişkilerin çekim ile beslendiğini ve çekimin bir seçim olmadığını, aynı zamanda soğumanın da bir seçim olmadığını belirtiyor ve partneriz sizi ne kadar severse sevsin, ilişkiye ne kadar önem verirse versin kıskançlık ve güvensizliğiniz yüzünden "turn off" olacağını belirtiyor. haliyle bunun da kıskançlık ile mücadele de bir diğer motivatör olması gerektiğini söylüyor.
+
 #### tanımlar
 
 başkaları size partnerizin geçmişini kabul etmeniz gerektiğini söyler fakat bu hatalı bir deyiştir diyor yazar. boştur, anlamsızdır zira geçmiş yoktur. olmayan bir şeyi kabul etmek mümkün değildir. var olmasının tek yoluysa sizin ona verdiğiniz anlam, ona verdiğiniz şimdinizi belirleme gücü kadardır diyor yazar. geçmiş bir tarih, gelecekse gizemdir diye ekliyor. geleceği tahmin etmek mümkün değildir çünkü varolmuyordur, geçmişi değiştirmek de mümkün değildir çünkü o da varolmuyordur. önemli olan şimdidir ve partnerizin geçmişini anlamak, kabul etmek gibi kavramlar tam anlamıyla mümkün değildir diye bağlıyor konuyu.
