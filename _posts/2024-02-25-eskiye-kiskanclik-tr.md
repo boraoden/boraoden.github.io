@@ -3,6 +3,7 @@ published: null
 layout: post
 categories: ramble personal
 permalink: eskiye-kiskanclik-tr
+title: eskiye kıskançlık - tr
 ---
 bu sığ kitabı okuduktan sonra kindleda aldığım birkaç highlight boşa gitmesin diye bir çaba içine girdim ve pek dikkat vermeden işaretlediğim parçalar üstünden minikçe bir yazı yazayım istedim. kitabın bana faydası olmuş mudur bilmiyorum doğrusu lakin yine de okumuş bulunduk işte. 25 şubat itibariyle kitabın konu ettiği kavramı çok nadiren hissediyorum diyebilirim. neyse, lafı uzatmadan haydi başlayalım.
 
