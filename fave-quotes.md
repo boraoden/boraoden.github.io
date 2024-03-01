@@ -18,7 +18,7 @@ title: fave quotes
 > 
 -Alexis Carrel
 
-<img src="/images/.selfmademan.jpg" width="219.3" height="306.9">
+<img src="/images/selfmademan.jpg" width="219.3" height="306.9">
 
 > We don't stop playing because we grow old; we grow old because we stop playing. 
 > 
