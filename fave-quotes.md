@@ -7,10 +7,12 @@ title: fave quotes
 ---
 
 > Some books should be tasted, some devoured, but only a few should be chewed and digested thoroughly.
-> -Francis Bacon
+> 
+-Francis Bacon
 
 > Isn't it funny how day by day nothing changes, but when we look back everything is different
-> -C.S. Lewis
+> 
+-C.S. Lewis
 
 > Man cannot remake himself without suffering, for he is both the marble and the sculptor
 > -Alexis Carrel
