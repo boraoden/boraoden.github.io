@@ -12,8 +12,11 @@ permalink: about-me
 
 hey! i am just a medical student from turkey who is enthusiastic about tech, books, cinema, sports, cats and coffee. yes, it is nine year old me down there.
 
+![looking handsome, eh?]({{site.baseurl}}/images/bora1a.png)
+
 contact:
-email : boraodenn [at] outlook [dot] com
+
+- email : boraodenn [at] outlook [dot] com
 - <a href="https://www.linkedin.com/in/boraoden/">linkedin</a> 
 - <a href= "https://github.com/boraoden">github</a> 
 - <a href="https://open.spotify.com/user/6atimpsh5xjmanqgunag33zry?si=0822978bdbab432c">spotify</a> 
@@ -21,4 +24,4 @@ email : boraodenn [at] outlook [dot] com
 - <a href= "https://www.goodreads.com/user/show/116783385-bora">goodreads</a> 
 lol, even <a href= "https://www.instagram.com/boratempora/">instagram</a>, <a href= "https://www.duolingo.com/profile/selfmadecat">duolingo</a> and <a href= "https://hevy.com/user/selfmadecat">hevy</a>
       
-![looking handsome, eh?]({{site.baseurl}}/images/bora1a.png)
+
