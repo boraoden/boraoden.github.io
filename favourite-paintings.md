@@ -1,5 +1,5 @@
 ---
-title: fave paintings
+title: fave arts
 published: true
 ---
 
