@@ -10,7 +10,7 @@ bu basit kitabı okuduktan sonra aldığım birkaç not boşa gitmesin diye bir 
 ### giriş ve örnekler
 
 > jealousy, that dragon which slays love under the pretence of keeping it alive. 
-> - havelock ellis
+> -havelock ellis
 
 havelock ellis adlı fransız doktor abimiz çok güzel demiş burada ve yazar da kitabı böyle başlatmış ki basit ama doğru bir deyiş olmuş bu da. kıskançlığı, ister geçmişe yönelik olsun ister şimdiye yönelik, sevgi/aşk adı altında rasyonalize etmek, optimal düzeyinin üstünde olmasının getirdiği toksisiteyi bu şekilde örtmeye çalışmak sık yapılan bir hata, daha doğrusu bahane. bu bahanenin de en az 150-200 sene kadar geriye gittiğini görmek de şaşırtıcı hafif.
 
