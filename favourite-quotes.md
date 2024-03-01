@@ -31,7 +31,7 @@ title: fave quotes
 > Research is what I'm doing when I don't know what I'm doing.
 -Wernher von Braun
 
->We didn't talk about problems, or parents, or automobiles, or ambitions. We talked about life. We decided that it was no good asking what is the meaning of life, because life isn't an answer, life is the question, and you, yourself, are the answer. And the sea was there, forty feet away and coming closer, and the sky over the sea, and the sun going down the sky. And it was cold, and it was the high point of my life.
+> We didn't talk about problems, or parents, or automobiles, or ambitions. We talked about life. We decided that it was no good asking what is the meaning of life, because life isn't an answer, life is the question, and you, yourself, are the answer. And the sea was there, forty feet away and coming closer, and the sky over the sea, and the sun going down the sky. And it was cold, and it was the high point of my life.
 I'd had high points before. Once at night walking in the park in the rain in autumn. Once out in the desert, under the stars, when I turned into the earth turning on its axis. Sometimes thinking, just thinking things through. But always alone. By myself. This time I was not alone. I was on the high mountain with a friend. There is nothing, there is nothing that beats that. If it never happens again in my life, still I can say I was there once.
 -Ursula K. Le Guin 
 
