@@ -12,7 +12,7 @@ permalink: about-me
 
 hey! i am just a medical student from turkey who is enthusiastic about tech, books, cinema, sports, cats and coffee. yes, it is nine year old me down there.
 
-<img src="/images/bora1a.png" width="100" height="100">
+<img src="/images/bora1a.png" width="150" height="150">
 
 contact:
 
