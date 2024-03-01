@@ -6,6 +6,12 @@ title: fave quotes
 
 ---
 
+<img src="/images/selfmademan.jpg" width="219.3" height="306.9">
+
+> Man cannot remake himself without suffering, for he is both the marble and the sculptor
+> 
+-Alexis Carrel
+
 > Some books should be tasted, some devoured, but only a few should be chewed and digested thoroughly.
 > 
 -Francis Bacon
@@ -13,12 +19,6 @@ title: fave quotes
 > Isn't it funny how day by day nothing changes, but when we look back everything is different
 > 
 -C.S. Lewis
-
-> Man cannot remake himself without suffering, for he is both the marble and the sculptor
-> 
--Alexis Carrel
-
-<img src="/images/selfmademan.jpg" width="219.3" height="306.9">
 
 > We don't stop playing because we grow old; we grow old because we stop playing.  
 > 
