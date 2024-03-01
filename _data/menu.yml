@@ -15,15 +15,15 @@ entries:
 #      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"      
  # - title: if you wanna talk about anything, don't hesitate to reach me via;
 
-  - title: "contact:"
-    entries:
+ # - title: "contact:"
+ #   entries:
  #    - title: boraodenn [at] outlook [dot] com
-      - title: <a href="mailto:boraodenn@outlook.com">email</a>  
-      - title: <a href="https://www.linkedin.com/in/boraoden/">linkedin</a> #<a href= "https://github.com/boraoden">github</a> 
-      - title: <a href="https://open.spotify.com/user/6atimpsh5xjmanqgunag33zry?si=0822978bdbab432c">spotify</a> 
-      - title: <a href= "https://letterboxd.com/wiseonn">letterboxd</a> 
-      - title: <a href= "https://www.goodreads.com/user/show/116783385-bora">goodreads</a> 
-      - title: lol, even <a href= "https://www.instagram.com/boratempora/">instagram</a>, <a href= "https://www.duolingo.com/profile/selfmadecat">duolingo</a> and <a href= "https://hevy.com/user/selfmadecat">hevy</a>
+ #     - title: <a href="mailto:boraodenn@outlook.com">email</a>  
+ #     - title: <a href="https://www.linkedin.com/in/boraoden/">linkedin</a> #<a href= "https://github.com/boraoden">github</a> 
+ #     - title: <a href="https://open.spotify.com/user/6atimpsh5xjmanqgunag33zry?si=0822978bdbab432c">spotify</a> 
+ #     - title: <a href= "https://letterboxd.com/wiseonn">letterboxd</a> 
+ #     - title: <a href= "https://www.goodreads.com/user/show/116783385-bora">goodreads</a> 
+ #     - title: lol, even <a href= "https://www.instagram.com/boratempora/">instagram</a>, <a href= "https://www.duolingo.com/profile/selfmadecat">duolingo</a> and <a href= "https://hevy.com/user/selfmadecat">hevy</a>
       
 #  - title: "latest posts:"
 #    post_list:
