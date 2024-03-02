@@ -10,7 +10,8 @@ title: retroaktif kıskançlık - tr
 ## giriş ve örnekler
 
 > jealousy, that dragon which slays love under the pretence of keeping it alive. 
-> -havelock ellis
+> 
+-havelock ellis
 
 havelock ellis adlı fransız doktor abimiz çok güzel demiş burada ve yazar da kitabı böyle başlatmış ki basit ama doğru bir deyiş olmuş bu da. kıskançlığı, ister geçmişe yönelik olsun ister şimdiye yönelik, sevgi/aşk adı altında rasyonalize etmek, optimal düzeyinin üstünde olmasının getirdiği toksisiteyi bu şekilde örtmeye çalışmak sık yapılan bir hata, daha doğrusu bahane. bu bahanenin de en az 150-200 sene kadar geriye gittiğini görmek de şaşırtıcı hafif.
 
@@ -35,7 +36,7 @@ bu sorulardan herhangi birine de gönül rahatlığı ile onay verebiliyorsak il
 güçsüz hissetmek, kontrolün elinden kaydığını hissetmek ve umutsuzluğa düşmenin; sürekli bir tehdit, yıkıcı düşünceler ve duygular altında yaşamanın berbat bir şey olduğunu söylüyor yazar ve sırf bunun dahi retroaktif kıskançlığı yenmek uğruna adım atılması için gerekli bir motivasyon olabileceğini söylüyor.
 
 akabinde retroaktif kıskançlık ile bitmiş ilişkilerin ardından kişi yeni bir ilişkiye başladığında, kişinin kendi yahut partnerinin geçmişinden bağımsız şekilde, bu yeni ilişkinin de bir önceki ile benzer kaderi paylaştığını söylüyor yazar. sorunun partnerleriniz ve geçmişleri olmadığını, sorunun siz olduğunu belirtiyor ve bunu kabul etmenizi istiyor. bunu sizin yarattığınızı ve sadece yine sizin yıkabileceğinizi belirtiyor.
-### zaman ve algılar
+## zaman ve algılar
 
 partnerizin geçmişine dokunmuş insanların partnerizinde kısacık ve neredeyse yanılgısal bir etkisi olduğunu söylüyor yazar. zamanın hafızayı değiştirdiğini ve hatıralara da sadece günümüz lensinden bir bakış imkanımız olduğunu söylüyor ve her anla, her dakikayla partnerizinin hatıralarının da solduğunu ve değiştiğini ve eninde sonunda gerçek deneyimden sadece çok ufak bir parçanın partnerizin bilincinde çok hayali bir şekilde var olduğunu söylüyor ve partnerinizin eski aşklarının onlar üstünde inanılmaz silinmez ve unutulmaz bir etki yarattığı sanrısından vazgeçin diye uyarıyor bizleri.
 
