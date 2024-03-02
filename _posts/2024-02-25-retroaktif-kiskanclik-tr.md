@@ -47,7 +47,8 @@ ben burada katılmıyorum ama tam, biraz "züğürt tesellisi" gibi geliyor bu b
 retroaktif kıskançlıkla mücadele hepimizi büyütüyor ve geliştiriyor. durumumuzu daha iyi anlamamıza ve kıskançlığımızın köküne inmemize yol açıyor fakat aynı zamanda kendi kökümüze de bakıyoruz, derin ve karanlık gerçeklerimizi keşfediyor ve kendimizi bir nevi transforme ediyoruz. haliyle retroaktif kıskançlık, işin sonunda bizi biz yapan bir çark tetikleyici oluyor ve kişisel gelişimimize katkıda bulunuyor diyor yazar. biraz abartıyor ama haksız da sayılmaz. Heinlein abi de güzel demiş.
 
 > a competent and self-confident person is incapable of jealousy in anything. 
-> - robert heinlein
+> 
+-robert heinlein
 
 kıskançlığın bir diğer ayağının özgüven olduğunu söylüyor. kendimizi istemsizce eskilerle karşılaştırdığımızı ve eğer kendimizden bütünüyle emin değilsek de sonu olmayan bir sorgulama sarmalına girdiğimizi söylüyor. (ben daha iyi değil miyim? daha iyiysem neden onlarla da takılmış? ama eninde sonunda şimdi burada ve benimle işte? vs...)
 bunu güçlendirmek için de "kadınlar özgüvenli ve kendinden emin erkeklerden hoşlanır." diye başlıyor ve bize james bond'un partnerlerinin eski sevgililerini takıp takmadığını hayal edip edemediğimizi soruyor. biraz komik ama yanlış da değil.
