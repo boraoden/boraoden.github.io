@@ -8,7 +8,7 @@ title: favourite quotes
 
 <img src="/images/selfmademan.jpg" width="219.3" height="306.9">
 
-> Man cannot remake himself without suffering, for he is both the marble and the sculptor
+> Man cannot remake himself without suffering, for he is both the marble and the sculptor.
 > 
 -Alexis Carrel
 
@@ -16,7 +16,7 @@ title: favourite quotes
 > 
 -Francis Bacon
 
-> Isn't it funny how day by day nothing changes, but when we look back everything is different
+> Isn't it funny how day by day nothing changes, but when we look back everything is different.
 > 
 -C.S. Lewis
 
