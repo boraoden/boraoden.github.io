@@ -16,6 +16,10 @@ title: favourite quotes
 > 
 -Francis Bacon
 
+> Comparison is the thief of joy.
+> 
+-Theodore Roosevelt
+
 > Isn't it funny how day by day nothing changes, but when we look back everything is different.
 > 
 -C.S. Lewis
