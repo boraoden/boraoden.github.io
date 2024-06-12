@@ -12,6 +12,6 @@ tıp fakültesi bitmiyor okuyucu, sınavların ardı arkası kesilmiyor, arkada�
 
 **significant other** gidinceyse daha bir boktan oluyor bu şehir, bu okul. eh, kendine ve karşısındakine bir söz verdi insan, mücadele her zaman kıymetli, değil mi?
 
-özledim sizleri okuyucular, sağ elleri kaldırsanız da kimler burada bir görsek esasında. :-)
+özledim sizleri değerli okuyucular, sağ elleri kaldırsanız da kimler burada bir görsek esasında. :-)
 
 şimdiden iyi bayramlar.
