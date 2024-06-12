@@ -14,4 +14,6 @@ tıp fakültesi bitmiyor okuyucu, sınavların ardı arkası kesilmiyor, arkada�
 
 özledim sizleri değerli okuyucular, sağ elleri kaldırsanız da kimler burada bir görsek esasında. :-)
 
+tahmini rölatif riskin annesini öpeyim, kuduz profilaksisineyse bolca selamımı yollayayım, sağlık mevzuatına hayatta bol başarılar dileyeyim.
+
 şimdiden iyi bayramlar.
