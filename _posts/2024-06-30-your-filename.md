@@ -1,1 +1,0 @@
-nächste haltestelle, albertplatz
