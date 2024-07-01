@@ -1,7 +1,8 @@
 ---
 layout: post
 categories: ramble personal
-permalink: 'nächste haltestelle, albertplatz - en'
+permalink: nachste-haltestelle-albertplatz-en
+title: 'nächste haltestelle, albertplatz - en'
 ---
 you hear the announcement coming from german mechanic lady of beautiful yet ordinary and boring trams of dresden. your times full of paranoia thinking of imaginary german control guys are ended, thanks to your _wunderbar_ deutschland ticket. 
 
