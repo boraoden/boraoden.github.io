@@ -1,3 +1,8 @@
+---
+layout: post
+categories: ramble personal
+permalink: 'nächste haltestelle, albertplatz - en'
+---
 you hear the announcement coming from german mechanic lady of beautiful yet ordinary and boring trams of dresden. your times full of paranoia thinking of imaginary german control guys are ended, thanks to your _wunderbar_ deutschland ticket. 
 
 but there is always a bitterness you feel coming within with these internship you do in summer, something is lacking, something is wrong. you usually never know what is the problem truly. sometimes it's loneliness like in stockholm, sometimes it's tiredness and confusion like in ulm, sometimes it's anxiety and responsibilities concerning your future like in here, dresden. you would feel it in every neuron of your brain, in every little capillary of your heart if it's possible.
