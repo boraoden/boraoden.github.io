@@ -15,4 +15,5 @@ yep, you still don't know what to do when you graduate. is it weird, is it norma
 then you forget everything, you focus on your sweet rewe pastry that you got for 1,39 euro. dude, these germans know how to run a bakery, for real. and you know what? they are really sweet usually, quite colorful unlike stereotypes, incredibly lively yet organized. practical but soulful. direct, sometimes rude but useful. 
 
 much loves.
-![[tram1.jpg]]
+![]({{site.baseurl}}/images/tram1.jpg)
+
