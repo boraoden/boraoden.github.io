@@ -1,6 +1,7 @@
 ---
-title: favourite arts
+title: favourite paintings
 published: true
+permalink: favourite-paintings
 ---
 
 here are my favourite paintings, although they are a bit famous and not so many, i simply love how all of them mean something for me. 
