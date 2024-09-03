@@ -6,7 +6,7 @@ permalink: about-me
 ---
 <!--<a href="/projects">projects</a> -->
 
-<a href="/docs/CV_BoraOden-2024.pdf">cv</a> <a href="/docs/bora öden - past works.pdf">past works</a>
+<a href="/docs/CV_BoraOden-2025.pdf">cv</a> <a href="/docs/bora öden - past works.pdf">past works</a>
 
 <!--- <img src="images/medic.gif" alt="mediiic!" width="245" height="127"> --->
 
