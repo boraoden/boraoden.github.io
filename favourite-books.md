@@ -9,7 +9,7 @@ ps: they are not in order.
 
 - The Sea Wolf by Jack London
 
-- The Fouıntainhead by Ayn Rand
+- The Fountainhead by Ayn Rand
 
 - The Dispossessed by Ursula K. Le Guin
 
@@ -22,4 +22,3 @@ ps: they are not in order.
 - The Sorrows Of Young Werther by J. W. von Goethe
 
 - Very Far Away From Anywhere Else by Ursula K. Le Guin
-
