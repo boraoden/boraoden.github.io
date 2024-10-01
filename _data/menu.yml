@@ -12,7 +12,7 @@
 entries:
   - title: <a href="/about-me">about me</a>
   - title: <a href="/archive">archive</a>
-  - title: "favourite: <a href="/favourite-quotes">quotes</a> - <a href="/favourite-paintings">paintings</a> - <a href="/favourite-books">books</a>"    
+  - title: enjoyed <a href="/favourite-quotes">quotes</a>&<a href="/favourite-paintings">paintings</a>&<a href="/favourite-books">books</a>"
   
 # - title: <a href="/archive/best-posts">best posts</a>
 # - title: <img src="bora4.png" alt="yeah, that's nine year old me there!" width="150" height="150"> hey! i am just a medical student from turkey who is enthuastic about tech, books, cinema, sports, cats and coffee. 
