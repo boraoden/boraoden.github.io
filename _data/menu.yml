@@ -12,7 +12,7 @@
 entries:
   - title: <a href="/about-me">about me</a>
   - title: <a href="/archive">archive</a>
-  - title: favourite
+  - title: "favourite:"
     entries:
       - title: <a href="/favourite-quotes">quotes</a> 
       - title: <a href="/favourite-paintings">paintings</a> 
