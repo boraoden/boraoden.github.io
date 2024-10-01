@@ -7,3 +7,6 @@ gem "jekyll-seo-tag"
 gem "faraday-retry"
 
 gemspec
+
+bundle install
+
