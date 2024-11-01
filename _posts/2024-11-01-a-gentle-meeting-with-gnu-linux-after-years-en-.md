@@ -29,4 +29,3 @@ so yeah, if you come this far, thank you for reading my operating system journey
 ```
 sudo see ya! :-)
 ```
-
