@@ -12,7 +12,7 @@ well, this wasn't my first encounter with tux to be honest, as you can understan
 
 so yeah, my linux journey started around 8-9 years ago. of course first, i don't remember exactly but i probably tried ubuntu first and it was the ugliest thing i have ever seen, yet it became even weirder with the "unity" desktop thing canonical brought. hopefully, that era didn't last so long. i have tried mint, it was flawless yet kinda still ugly especially when you don't know how to tweak and customize it, i have used elementary os and loved it so much, it was the pretty solution that i was looking for and used for some time as my main operating system. then after some time i did some upgrades on my pc and returned to windows 8 for such a long time. 
 
-![]({{site.baseurl}}/images/tuxsquare.png)
+![]({{site.baseurl}}/images/tuxsquare.png|300)
 
 probably around pandemic, when we were at home all the time, i wanted to dip a finger to linux ocean again somehow. tried manjaro kde, fell in love with kde with that but i got used to debian based distributions, so called "stable" distros, with time. and that was it when i dive into kde world even more. kde was my everything and believe, i was totally in love with kde in every sense. kde connect was perfect, customizations were so detailed and almost infinite, desktop was so beautiful looking and community was so huge. i realized these all with kubuntu. kde neon was kinda shit but kubuntu was "the one" for me. and it must be the distribution that i used for the longest period of my life. between 1-2 years i believe. kubuntu was epic, man!
 
@@ -26,6 +26,5 @@ after some days of using dual boot, i took all my data from windows and settled 
 
 so yeah, if you come this far, thank you for reading my operating system journey through years. 
 
-```
-sudo see ya! :-)
-```
+> sudo see ya! :-)
+
