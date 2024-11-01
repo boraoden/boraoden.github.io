@@ -1,8 +1,8 @@
 ---
 layout: post
 categories: ramble technology
-permalink: linux-journey-through-years-en
-title: linux journey through years - en
+permalink: my-linux-journey-through-years-en
+title: my linux journey through years - en
 ---
 ![]({{site.baseurl}}/images/linuxmint.png)
 
