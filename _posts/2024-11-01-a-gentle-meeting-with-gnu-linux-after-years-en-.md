@@ -1,14 +1,14 @@
 ---
 layout: post
 categories: ramble technology
-permalink: a-gentle-greeting-with-gnu-linux-after-years-en
-title: a gentle meeting with gnu/linux after years - en
+permalink: linux-journey-through-years-en
+title: linux journey through years - en
 ---
 ![]({{site.baseurl}}/images/linuxmint.png)
 
 yeah yeah, i know. here is not [r/unixporn](https://www.reddit.com/r/unixporn/) yet this screenshot was a must for an average linux user, lol.
 
-well, this wasn't my first encounter with tux to be honest, as you can understand from title. in my high school years i was distro-hopping crazily thanks to my old brick-like lenovo g-580. we were together for 9 years until i replace it in 2022 so i can't truly complain. around 2015-2018 while it still had 4 gb of ram rather than 8, while it had a fucking  hdd rather than a ssd, believe me it wasn't the best experience of windows and i loved windows 10 in the beginning, so it was extra sad to experience just "slowness" in my beloved laptop. yeah, windows 8 but such a revolution ui-wise but man, windows 10 was good, especially after thinking of this crap called windows 11 microsoft forcing people to use. i am not even talking about windows 8.1, for real, what the fuck was that?
+well, this wasn't my first encounter with tux to be honest, as you can understand from title. in my high school years i was distro-hopping crazily thanks to my old brick-like lenovo g-580. we were together for 9 years until i replace it in 2022 so i can't truly complain. around 2015-2018 while it still had 4 gb of ram rather than 8, while it had a fucking  hdd rather than a ssd, believe me it wasn't the best experience of windows and i loved windows 10 in the beginning, so it was extra sad to experience just "slowness" in my beloved laptop. yeah, windows 8 was such a revolution ui-wise, windows 10 was even superior, especially after thinking of this crap called windows 11, that microsoft is forcing people to use. i am not even talking about windows 8.1, for real, what the fuck was that?
 
 so yeah, my linux journey started around 8-9 years ago. of course first, i don't remember exactly but i probably tried ubuntu first and it was the ugliest thing i have ever seen, yet it became even weirder with the "unity" desktop thing canonical brought. hopefully, that era didn't last so long. i have tried mint, it was flawless yet kinda still ugly especially when you don't know how to tweak and customize it, i have used elementary os and loved it so much, it was the pretty solution that i was looking for and used for some time as my main operating system. then after some time i did some upgrades on my pc and returned to windows 8 for such a long time. 
 
@@ -27,4 +27,3 @@ after some days of running both via dual boot, i took all my data from windows a
 so yeah, if you come this far, thank you for reading my operating system journey through years. 
 
 > sudo see ya! :-)
-
