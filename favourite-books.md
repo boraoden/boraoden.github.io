@@ -3,7 +3,7 @@ title: favourite books
 ---
 
 here are my favourite books from different aspects and eras of my life. 
-ps: they are not in order.
+note: the list is not in order in anyway, i just have written down my favourites.
 
 ---
 
