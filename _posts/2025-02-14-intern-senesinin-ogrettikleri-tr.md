@@ -56,6 +56,6 @@ günler geçer, mesailer bitmez. apache skoru girersin bol bol. ilaç iadesi yap
 
 çok hasta ölümü görürsün. alışırsın diyeceğim ama alışamazsın pek. bazılarını umursamazsın ama bazıları düşündürür. epey. manevi bağ kurmamış olsan da bir şekilde hastayla, hasta üstünde geçirdiğin dakikaların son bulmuş olması; hastanın artık sadece somut bir beden olarak orada varoluyor oluşu senin kendi varoluşun hakkında kafanda sorular sordurur. ölümü daha sık düşünmeye başlarsın. ölümü hep hatırlarsın. şu meşhur romalı generalleri yoğun bakımda çalıştırmak lazımmış. ölümü hatırlamadığın gün yok hani.
 
-neyse işte. aylar geçer, geçmeye devam edecektir. kariyer yolu belirsiz. hayatsa dengesizdir. yorgun, sporsuz, sağlıksız, derssiz günler geçer. sadece iş-ev-uyku üçgeninde dönüp durursun. 18 yaşındaki bora, şu halini görse ne düşünürdü diye kendine sorarsın, hayal dahi edemezsin. evet, hayal dahi edemezsin.
+neyse işte. aylar geçer, geçmeye devam edecektir. kariyer yolu belirsiz. hayatsa dengesizdir. yorgun, sporsuz, sağlıksız, derssiz günler geçer. sadece iş-ev-uyku üçgeninde dönüp durursun. 18 yaşındaki bora, şu halini görse ne düşünürdü diye kendine sorarsın, hayal dahi edemezsin. evet, hayal dahi edemezsin. evet. intern senesinden öğrendiklerin bunlardır işte.
 
 geçmiş olsun, "intern arkadaşınız" kaçar.
