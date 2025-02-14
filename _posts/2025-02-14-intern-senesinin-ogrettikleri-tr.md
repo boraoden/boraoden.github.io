@@ -4,7 +4,7 @@ categories: ramble
 permalink: intern-senesinin-ogrettikleri-tr
 title: intern senesinin öğrettikleri - tr
 ---
-intern senesi diyorlar tıp fakültesi denen altı senelik dolandırıcılığın son aşamasına. hem de ne "intern"lük ha. merak ediyorum sonra nereden geliyormuş bu kelime, kaç kez "intern" oldum bir yerde, erasmus bursu parasına ucuz işçilik yaptım da hiç merak etmediğime kızıyorum sonra. ama şu bir sene sürecek "intern"lük pek bir rezillik be okuyucu, öncekilerde en azından keyif alıyordum hani.
+intern senesi diyorlar tıp fakültesi denen altı senelik dolandırıcılığın son aşamasına. hem de ne "intern"lük ha. merak ediyorum sonra nereden geliyormuş bu kelime, hani kaç kez "intern" oldum bir yerde, erasmus bursu parasına ucuz işçilik yaptım fakat hiç merak etmediğime kızıyorum. yine de şu bir sene sürecek "intern"lük pek büyük bir rezillik be okuyucu, okuyunca anlayacaksın beni.
 
 quora'da demişler;
 
