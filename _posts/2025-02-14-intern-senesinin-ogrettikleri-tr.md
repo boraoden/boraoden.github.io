@@ -4,7 +4,7 @@ categories: ramble
 permalink: intern-senesinin-ogrettikleri-tr
 title: intern senesinin öğrettikleri - tr
 ---
-intern senesi diyorlar tıp fakültesi denen altı senelik dolandırıcılığın son aşamasına. hem de ne "intern"lük ha. merak ediyorum sonra nereden geliyormuş bu kelime, hani kaç kez "intern" oldum bir yerde, erasmus bursu parasına ucuz işçilik yaptım fakat hiç merak etmediğime kızıyorum. yine de şu bir sene sürecek "intern"lük pek büyük bir rezillik be okuyucu, okuyunca anlayacaksın beni.
+intern senesi diyorlar tıp fakültesi denen altı senelik dolandırıcılığın son aşamasına. hem de ne "intern"lük ha. merak ettim de baktım nereden geliyormuş bu kelime, hani kaç kez "intern" oldum farklı farklı yerlerde, erasmus bursu parasına ucuz işçilik yaptım fakat hiç merak etmediğime kızdım şimdi etimolojiyi seven birisi olarak.
 
 quora'da demişler;
 
@@ -28,7 +28,7 @@ ilk beş seneyi yorucu zannederdim. yanılmışım. daha doğrusu altıncı sın
 
 başlayalım.
 
-üçüncü ayım henüz daha bu 12 aylık bok yolunda, intern senesi diye adlandırdıkları. o yüzden yolun başında beni bezdirmiş, fragmanıyla bile beni darmaduman etmiş bu periyodun nasıl ilerleyeceği konusunda en ufak fikrim yok doğrusu. 
+üçüncü ayım henüz daha bu 12 aylık bok yolunda, "intern" senesi diye adlandırdıkları. o yüzden yolun başında beni bezdirmiş, fragmanıyla bile beni darmaduman etmiş bu periyodun nasıl ilerleyeceği konusunda en ufak fikrim yok doğrusu. 
 
 yine de aralık iyiydi. halk sağlığı aradığım soft başlangıcı yapmama yardımcı olmuş, kendimi sahte ve geçici bir rehavetin içinde bulmama neden olmuştu. halk sağlığı ayı, gardını indirdiğini sandığım anda kötü vurdu yine de. sağlık ocaklarına atılan bitmek bilmeyen hoca baskınları, dümenden makale sunumları, laf olsun diye yapılmış oyunlaştırmalar derken intern senesinin angarya dolu yoğunluğuna adım atmış oldum. bu sadece girişti nitekim.
 
