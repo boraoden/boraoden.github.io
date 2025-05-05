@@ -5,7 +5,7 @@ categories: cinema
 permalink: /batman-mask-of-the-phantasm-en
 title: 'batman: mask of the phantasm - en'
 ---
-dear dc, bob kane and warner bros, you must have written and filmed hundreds of brilliant pieces of art through years but *batman: mask of the phantasm* may be the most underrated product of yours.
+dear dc, bob kane and warner bros; you must have written and filmed hundreds of brilliant pieces of art through years but *batman: mask of the phantasm* may be the most underrated product of yours.
 
 from the jokes of joker to the wisdom of alfred, with this movie i realized i have missed the *batman: the animated series* which has a huge impact in my childhood cartoon-watching era. it's not so uncommon to see batman's love life in comics or in movies yet i think andrea beaumont character is the deepest bruce wayne lover we have ever seen. 
 
