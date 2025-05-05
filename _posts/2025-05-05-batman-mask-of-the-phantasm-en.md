@@ -3,6 +3,7 @@ published: true
 layout: post
 categories: cinema
 permalink: /batman-mask-of-the-phantasm-en
+title: 'batman: mask of the phantasm - en'
 ---
 dear dc, bob kane and warner bros, you must have written and filmed hundreds of brilliant pieces of art through years but <i>batman: mask of the phantasm<i> may be the most underrated product of yours that has ever been created.
 
