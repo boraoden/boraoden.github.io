@@ -20,4 +20,4 @@ people who know me can easily ask me: "dude, when did you even feel young? you w
 
 nephrology ward, icu hell, a&e for 2 months and now general surgery have all killed the soul of that bora slowly though. with romance dies, usual daily stuff puts a heavier weight on this boy's shoulder even more and makes him a old, grumpy man with a hunchback in his 24. sad but true.
 
-cheers mate, have a good sunday. 
+cheers mate, have a good sunday.
