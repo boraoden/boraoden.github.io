@@ -16,8 +16,10 @@ have watched _white lotus_ season 3 too recently. it was a forced and shite seas
 
 oh, also watched ricky gervais' _after life_. bro, it was so beautiful, so perfect, so lovely. i knew he always had such an clever and dense humour but the guy is so talented in terms of making people both laugh so hard and make you have tears in your eyes seconds after that. tony, i feel you friend.
 
+eurovision is today. it always reminds me one specific person and one specific moment only. estonia song is cool tho. _espresso macchiato_ is so funny yet meaningful. espresso macchiato, mi amore, por favore. hahah. you always loved espresso macchiato. wish i was there, watching the show together.
+
 people who know me can easily ask me: "dude, when did you even feel young? you were always such an introverted, semi-antisocial guy of ours." well. it's not wrong for sure. but i felt young, definitely youngest and craziest i can ever feel in erasmus two years ago. that era caused a whole another sequences of new adventures, trips and brand new stories for innocent introverted boy bora and he is well beyond grateful for all of them.
 
-months in nephrology ward, icu hell, a&e shithole for 2 depressive months and now general surgery have killed the soul of that bora slowly though. with romance dies, usual daily stuff puts a heavier weight on this boy's shoulder even more and makes him an old, grumpy man with an imaginary hunchback in his 24. sad but true.
+endless weeks in nephrology ward, icu hell, a&e shithole for 2 depressive months and now general surgery dumbasses have killed the soul of that bora slowly though. with romance dies, usual daily stuff puts a heavier weight on this boy's shoulder even more and makes him an old, grumpy man with an imaginary hunchback in his 24. sad but true.
 
 cheers mate, have a good sunday.
