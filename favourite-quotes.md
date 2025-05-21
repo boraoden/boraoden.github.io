@@ -12,6 +12,10 @@ title: favourite quotes
 > 
 -Alexis Carrel
 
+> When one door closes, another one opens but we often look so long and so regretfully upon the closed door that we do not see the ones which open for us.
+> 
+-Alexander Graham Bell
+
 > Some books should be tasted, some devoured, but only a few should be chewed and digested thoroughly.
 > 
 -Francis Bacon
