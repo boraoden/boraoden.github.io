@@ -14,7 +14,8 @@ relationships rely to this idea too i am starting to believe. sure, there is val
 
 people can change, however not all of them. cruel, rough and maybe impulsive mistakes will be repeated by some people. you may think they can change, your eyes can get blind by the bright shining lights of beautiful emotions and hopes. even though you can lie to yourself through hard times, the past usually never lies. innocent looking, repeating betrayals and disappointments will seem different to you, at that point you will realize again that the past will never lie. you somehow, instanly will turn into a problem when you were the answer two years ago. that cycle will continue, while you will just stay used and left behind by the ruthless soul digesters.
 
-it will hit the most when you see yourself questioning the quote: "don't cry because it's over. smile because it happened." road was beautiful indeed, yet how you crossed the finish line will feel like an unexpected punch in the face.
+it will hit the most when you see yourself questioning the quote "don't cry because it's over. smile because it happened." 
+road was beautiful indeed, yet how you crossed the finish line will feel like an unexpected punch in the face.
 
 and in the end,
 
