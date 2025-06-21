@@ -3,6 +3,7 @@ layout: post
 categories: personal
 permalink: nostalgic-dinners-and-bitter-betrayals-en
 title: nostalgic dinners and bitter betrayals - en
+published: false
 ---
 summer 24' was such an mind-opening period and experience for me. from meaningful dinners to never-ending conversations, from different movies and tv shows to wonderful trips... it ended promising too, at least that was what i thought.
 
