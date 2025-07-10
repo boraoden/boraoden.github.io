@@ -15,8 +15,6 @@ note: the list is not in order in anyway, i just have written down my favourites
 
 - The Fountainhead by Ayn Rand
 
-- The Dispossessed by Ursula K. Le Guin
-
 - The Catcher In The Rye by J.D. Salinger
 
 - A Man Without A Country by Kurt Vonnegut
@@ -24,5 +22,7 @@ note: the list is not in order in anyway, i just have written down my favourites
 - Solaris by Stanislaw Lem
 
 - The Sorrows Of Young Werther by J. W. von Goethe
+
+- The Dispossessed by Ursula K. Le Guin
 
 - Very Far Away From Anywhere Else by Ursula K. Le Guin
