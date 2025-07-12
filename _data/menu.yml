@@ -16,7 +16,7 @@ entries:
     entries:
      - title:  <a href="/favourite-quotes">quotes</a> 
      - title:  <a href="/favourite-paintings">paintings</a> 
-     - title:  <a href="/favourite-books">books</a>
+     - title:  <a href="https://www.goodreads.com/review/list/116783385?shelf=favorites&view=table">books</a>
      - title:  <a href="https://letterboxd.com/wiseonn/list/favourite-ones/">movies</a>
   
 # - title: <a href="/archive/best-posts">best posts</a>
