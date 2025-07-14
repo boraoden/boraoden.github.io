@@ -12,10 +12,12 @@
 entries:
   - title: <a href="/about-me">about me</a>
   - title: <a href="/archive">archive</a>
-  - title: "favourite:"
-    entries:
-     - title:  <a href="/favourite-quotes">quotes</a> / <a href="/favourite-paintings">paintings</a>  
-     - title:  <a href="https://www.goodreads.com/review/list/116783385?shelf=favorites&view=table">books</a> / <a href="https://letterboxd.com/wiseonn/list/favourite-ones/">movies</a>
+  - title: <a href="/favourites">corner of tastes</a>
+  
+#  - title: "favourite:"
+#    entries:
+#     - title:  <a href="/favourite-quotes">quotes</a> / <a href="/favourite-# paintings">paintings</a>  
+#     - title:  <a href="https://www.goodreads.com/review/list/116783385?shelf=favorites&view=table">books</a> / <a href="https://letterboxd.com/wiseonn/list/favourite-ones/">movies</a>
      
   
 # - title: <a href="/archive/best-posts">best posts</a>
