@@ -10,9 +10,9 @@
 #      - title: <a href="/favourite-arts">favourite arts</a> 
 
 entries:
-  - title: <a href="/about-me">about me</a>
+  - title: <a href="/about-me">about</a>
   - title: <a href="/archive">archive</a>
-  - title: <a href="/favourites">atlas of tastes</a>
+  - title: <a href="/favourites">aftertaste</a>
   
 #  - title: "favourite:"
 #    entries:
