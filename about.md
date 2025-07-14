@@ -1,8 +1,8 @@
 ---
 layout: page
-title: about me
+title: about
 published: true
-permalink: about-me
+permalink: about
 ---
 <!--<a href="/projects">projects</a> -->
 
