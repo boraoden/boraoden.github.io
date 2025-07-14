@@ -1,3 +1,9 @@
+---
+title: aftertaste
+permalink: aftertaste
+---
+
+
 well, i needed to make my homepage even more minimal so curated all my little "favourite" lists and compilations here. feel free to check them out!
 
 ---
