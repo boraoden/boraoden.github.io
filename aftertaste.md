@@ -6,4 +6,6 @@ well, i needed to make my homepage even more minimal so curated all my little "f
 
 ---
 
-<a href="/favourite-quotes">quotes</a> / <a href="/favourite-paintings">paintings</a> / <a href="https://www.goodreads.com/review/list/116783385?shelf=favorites&view=table">books</a> / <a href="https://letterboxd.com/wiseonn/list/favourite-ones/">movies</a>
+<div style="text-align: center;">
+  <p><a href="/favourite-quotes">quotes</a> - <a href="/favourite-paintings">paintings</a> - <a href="https://www.goodreads.com/review/list/116783385?shelf=favorites&view=table">books</a> - <a href="https://letterboxd.com/wiseonn/list/favourite-ones/">movies</a></p>
+</div>
