@@ -14,11 +14,11 @@ bu aralar fazlaca gelişme oldu spor anlamında ülke adına. elbette fenerbahç
 
 turnuvayı izlerken litvanya'nın genç gardı rokas jokubaitis'i tanımış oldum. iyi topçu eleman ama sakatlandı. yunanistan'a karşı litvanya'nın şansı zor gibi ama baltık basketbolundan her şey beklenir. o da güzel maç olacaktır eminim. bu jokubaitis zamanında barcelona yapmış, bizim sertaç ile fotoğraflarını görünce pek bir sevindim. aynı zamanda tanıdık bir yerde, litvanya'nın kuzeydeki küçük şehri mazeikiai'de doğmuş. güzel tesadüfler yani. :)
 
-![[rjss.jpg]]
+![]({{site.baseurl}}/images/rjss.jpg)
 
 neyse işte, basketbol bu kadardı. pazar günü ispanya feci tokatladı bizi. yenmeyi bekleyemezdik kuşkusuz ama 6-0 da inanılmaz bir dayak oldu konya'da. önümüze bakmak lazım tabii. hayat akıyor. gürcistan ve bulgaristan'ın önünde ikinci bitirebilir ve dünya kupası için elemeye kalabilirsek harika olur ama bizim milli takım son dakika bir sakarlık yapmasıyla meşhur malumunuz. takımda ayağına top yakışan oyuncu sayısı bir elin parmağını geçmez. arda güler elbette bunlardan biri. geçen günlerde la liga'da bir kafa golü atınca arjantinli genç takım arkadaşı ile yerba mate içer şekilde bir gol sevinci yaptılar. görünce çok şaşırdım ve sevindim de aynı zamanda. futbolun bu multikültürel havası beni pek bir mutlu ediyor açıkçası. hayatımda bir kez yerba mate içtim, cinque terre'nin tatlış kasabalarından birinde plajda kalabalık bir grupla otururkendi o da iki buçuk sene evvel. estonyalı güzelce bir kız arkadaş, arjantinli ve fransız iki arkadaşını çağırmış ve bizim grupla tanıştırmıştı. isimlerini unuttum çocukların yalan olmasın. ama fransız olanın pek tatlı bir fransız İngilizcesi vardı. le mans doğumluydu diye hatırımda kalmış. meşhur yarıştan vesaire bahsetmişti. arjantinli olansa bize adeta sınırsız mate sunmuş, beni bu über lezzetli güzel çayla ve onun o özel bardağıyla ve pipetiyle o zaman tanıştırmıştı. bir daha da içmedim, denk gelmedim. çocukla futbol, dünya kupası, messi ekseninde konuşmuş; ülkelerimizin kötü ekonomileriyle trauma-bonding yaşamıştık. unutulmayacak bir gündü. arda güler ve mastantuono'nun bu interaksiyonu da beni direkt o güne götürdü desem yanlış olmaz.
 
-![[agrm.jpg]]
+![]({{site.baseurl}}/images/agrm.jpg)
 
 kadınlarımızsa üzücü şekilde finalde yenildi italya'ya voleybolda ucundan. hak etmişlerdi de kazanmayı oysa. dünya ikinciliğine üzülür olmak absürt olsa da altın madalya çok yakındı, kötü kaçtı. önümüzdeki şampiyonalara bakmak lazım. takımın çekirdeği çok sağlam nihayetinde. elbette başarılar art arda gelecektir.
 
