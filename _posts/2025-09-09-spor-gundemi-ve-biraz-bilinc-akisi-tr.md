@@ -4,7 +4,7 @@ categories: personal
 permalink: spor-gundemi-ve-biraz-bilinc-akisi-tr
 title: spor gündemi ve biraz bilinç akışı - tr
 ---
-hazirandan beri uğrayamadım buralara. bu sefer türkçe sesleneyim dedim halka. spesifik bir teması olmayan; yerba mate'den, rokas jokubaitis'ten, olivia rodrigo'dan bahsedilen bir şey okumak isterseniz buyrun.
+hazirandan beri uğrayamadım buralara. bu sefer türkçe sesleneyim dedim halka. spesifik bir teması olmayan; yerba mate'den, rokas jokubaitis'ten, olivia rodrigo'dan bahsedilen bir çorba içmek isterseniz buyrun.
 
 ülke gündemi yine berbat ama pek değinmek istemiyorum zira sonu bitmiyor türkiye'deki rezilliklerin. insan gitgide tiksiniyor memleketin başındakilerden, senelerce bitmeyen aptallıklardan, usulsüzlüklerden fakat karşıdaki mutlak güç durmak bilmiyor. sanırım bilmeyecek de. ya kendi kendini yok edecek ya da ülkeyi nihai bir çöküşe sürükleyecek. göreceğiz.
 
