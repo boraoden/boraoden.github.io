@@ -30,4 +30,4 @@ olivia rodrigo'nun _guts_ albümüne sardım bu aralar. _bad idea right?_, _love
 
 değerli okuyucu bende durumlar böyle. biraz içimi dökeyim dedim. instagram'ı bir süreliğine kapattım, öyle de tutabilirsem güzel olur. youtube'u da azaltmaya çabalıyorum bu aralar. yorgunluk ve çocuklarla uğraşmaktan doğan ağır grip beni yatağa ve youtube'a daha bir bağımlı yaptı ama üstümdeki bu ölü toprağını atmam lazım. hayat böyle geçmez.
 
-yalnızlığı ise benimsedim yeniden. en azından kafam rahat, umarım öyledir yani.
+yalnızlığı ise benimsedim yeniden. en azından kafam rahat, galiba.
