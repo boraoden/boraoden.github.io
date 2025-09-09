@@ -1,3 +1,9 @@
+---
+layout: post
+categories: personal
+permalink: spor-gundemi-ve-biraz-bilinc-akisi-tr
+title: spor gündemi ve biraz bilinç akışı - tr
+---
 hazirandan beri uğramamışım buralara. bu sefer türkçe sesleneyim dedim halka. pek spesifik bir teması olmayan, hafif günlüğümsü bir yazı olacak bu.
 
 ülke gündemi yine berbat ama pek değinmek istemiyorum zira sonu bitmiyor türkiye'deki rezilliklerin. insan gitgide tiksiniyor memleketin başındakilerden, senelerce bitmeyen aptallıklardan, usulsüzlüklerden fakat karşıdaki mutlak güç durmak bilmiyor. sanırım bilmeycceekkde ya kendi kendini yok edecek ya da ülkeyi nihai bir çöküşe sürükleyecek. göreceğiz.
