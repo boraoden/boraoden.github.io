@@ -6,7 +6,7 @@ title: spor gündemi ve biraz bilinç akışı - tr
 ---
 hazirandan beri uğrayamadım buralara. bu sefer türkçe sesleneyim dedim halka. spesifik bir teması olmayan; yerba mate'den, rokas jokubaitis'ten, olivia rodrigo'dan bahsedilen bir çorba içmek isterseniz buyrun.
 
-ülke gündemi yine berbat ama pek değinmek istemiyorum zira sonu bitmiyor türkiye'deki rezilliklerin. insan gitgide tiksiniyor memleketin başındakilerden, senelerce bitmeyen aptallıklardan, usulsüzlüklerden fakat karşıdaki mutlak güç durmak bilmiyor. sanırım bilmeyecek de. ya kendi kendini yok edecek ya da ülkeyi nihai bir çöküşe sürükleyecek. göreceğiz.
+ülke gündemi yine berbat ama pek değinmek istemiyorum zira sonu bitmiyor türkiye'deki rezilliklerin. insan gitgide tiksiniyor memleketin başındakilerden, senelerce bitmeyen aptallıklardan, usulsüzlüklerden fakat karşıdaki mutlak güç durmak bilmiyor. sanırım bilmeyecek de. ya kendi kendini yok edecek ya da ülkeyi nihai bir çöküşe sürükleyecek. göreceğiz. yurt dışı çıkış harcı da 1000 lira olmuş. trajik.
 
 çocuk acil stajındayım şimdi, birkaç saate nöbet var. yetişkine göre daha soft olsa da tempo yine aynı derecede yorucu malum. akran ve dönemdaşların hepsi atandı bir yerlere. herkes daha bir yetişkin oldu. kritik bir sayfayı daha çevirdiler hayat defterlerinde, bense tıp fakültesi dekanlığının altı senedir muhtemelen oturmadığım tek koltuğu kalmamış kütüphanesindeyim yine. etraf cıvıl cıvıl. okulların açıldığını tümüyle unutmuşum. her yer genç ve hevesli öğrencilerle dolu. ne mutlu onlara. bense arkadaşlarla anlamsız tartışmalardan onun doğurduğu gereksiz dargınlıklardan üstüne emektar fiesta'mı feci şekilde ve aptalca çizmekten doğmuş kötü bir ruh halindeyim. bir hayli de üşüttüm.
 
