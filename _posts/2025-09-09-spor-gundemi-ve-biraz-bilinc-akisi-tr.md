@@ -24,7 +24,7 @@ geçen günlerde bizim oğlan la liga'da bir kafa golü atınca arjantinli genç
 
 kadınlarımızsa üzücü şekilde finalde yenildi italya'ya voleybolda. hak etmişlerdi de kazanmayı oysa. dünya ikinciliğine üzülür olmak absürt olsa da altın madalya çok yakındı, kötü kaçtı. önümüzdeki şampiyonalara bakmak lazım. takımın çekirdeği çok sağlam nihayetinde. elbette başarılar art arda gelecektir.
 
-son olarak ne yazık ki izleyememiş olsam da son zamanların klasiği sinner-alcaraz finali vardı pazar günü yine. wimbledon'da grand slam'lerin şahında bu sene sinner üstünlüğü görmüş olsak da amerika açık'ta nadal'ın varisi genç ispanyol, sinner'e acımadı bu sefer. ciddi bir sakatlık yaşamazlarsa önümüzdeki senelerde bu ikiliyi bolca göreceğimiz kesin.
+son olarak ne yazık ki izleyememiş olsam da son zamanların klasiği sinner-alcaraz finali vardı pazar günü yine. wimbledon'da, grand slam'lerin şahında bu sene sinner üstünlüğü görmüş olsak da amerika açık'ta nadal'ın varisi genç ispanyol, sinner'e acımadı bu sefer. ciddi bir sakatlık yaşamazlarsa önümüzdeki senelerde bu ikiliyi bolca göreceğimiz kesin.
 
 olivia rodrigo'nun _guts_ albümüne sardım bu aralar. _bad idea right?_, _love is embarrassing_, _stranger_, _vampire_ gibi şarkılar çok dolandı dilime. herhalde empati yapmaktandır. white girl pop music hiçbir şekilde tahtını devretmiyor başkalarına. sallanıyor belki arada popülaritesi ama müzik endüstrisini amerika'nın belirlediği şu 21. yüzyılda kolay kolay dinleyici kaybetmez herhalde. dandik gangster rap şarkılarından her türlü daha kaliteli söz yazarlığı ve besteler içerdikleri de tartışmaya açık değil nezdimde.
 
