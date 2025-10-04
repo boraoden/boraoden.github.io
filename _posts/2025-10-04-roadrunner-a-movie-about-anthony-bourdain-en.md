@@ -18,7 +18,7 @@ i told you that i liked the experiencer, storyteller, adventurer, taster bourdai
 
 oh, i was not expecting josh homme being close friends with bourdain at all either. he brought a smile on my face and a nice energy to the whole documentary in his limited minutes.  
 
-short parts where bourdain was walking by the beach in massachusetts were particulary beautiful scenes as well and reminded me beginning of his book i recenty read.
+short parts where bourdain was walking by the beach in massachusetts were particulary beautiful scenes as well and reminded me beginning of his book i recently read.
 
 finally, dear chef, anemone is an excellent song to have as a favourite.
 
