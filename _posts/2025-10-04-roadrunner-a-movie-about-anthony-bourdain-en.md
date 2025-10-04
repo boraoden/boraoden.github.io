@@ -1,3 +1,10 @@
+---
+published: true
+layout: post
+categories: cinema
+permalink: /roadrunner-a-movie-about-anthony-bourdain-en
+title: 'roadrunner: a movie about anthony bourdain'
+---
 i have recently read <i>kitchen confidential</i> from anthony bourdain and couldn't find the hype i have anticipated while i was reading it. with watching this mediocre yet explanatory documentary, i understand why i was disappointed by his book.
 
 with it being not a vivid memory, i remember watching bourdain, sitting in my living room as a really small kid, my parents were watching his shows from tv and i was sometimes accompanying them. this is the first bourdain moment in my mind and my parents were enjoying his show quite a lot. 
