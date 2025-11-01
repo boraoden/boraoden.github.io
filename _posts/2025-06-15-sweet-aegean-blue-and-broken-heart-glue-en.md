@@ -2,7 +2,7 @@
 layout: post
 categories: personal
 permalink: sweet-aegean-blue-and-broken-heart-glue-en
-title: sweet aegean blue and broken heart glue - en
+title: sweet aegean blue - en
 ---
 i truly believe with the melancholy and thoughtfulness; there comes the muse, inspiration and will to write, strong urge to solidify emotions with some medium. i felt this urge yesterday with some random blue moment and of course with alcohol in my blood. so, on this beautiful sunday morning with a fresh breeze hitting me smoothly, amazing blue waters of aegean sea and the little greek island farmakonisi are in front of me, latter one being just 18 kilometers away. rumours say julius caesar was held as a prison in farmakonisi and hippocrates of kos was coming to farmakonisi to collect some herb for pharmacological purposes, this is how the island got it name apparently. as you see, i certainly needed to write.
 
