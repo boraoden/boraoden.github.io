@@ -10,7 +10,7 @@ permalink: about
 
 <!--- <img src="images/medic.gif" alt="mediiic!" width="245" height="127"> --->
 
-hello there! i am just a fresh medical graduate from turkey who is enthusiastic about tech, books, cinema, sports, cats and coffee. yes, it is nine year old me down there.
+hello there! i am just a fresh medical graduate from turkey who is enthusiastic about linux, books, movies, sports and cats. yes, it is nine year old me down there.
 
 contact:
 
