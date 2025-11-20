@@ -2,8 +2,8 @@
 published: true
 layout: post
 categories: cinema
-permalink: /roadrunner-a-movie-about-anthony-bourdain-en
-title: anthony bourdain - en
+permalink: /roadrunner-a-film-about-anthony-bourdain-en
+title: 'roadrunner: a film about anthony bourdain - en'
 ---
 i have recently read <i>kitchen confidential</i> from anthony bourdain and couldn't have the joy i had anticipated while i heard about it. with watching this mediocre yet explanatory documentary, i understand why i was disappointed by his book.
 
