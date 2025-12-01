@@ -55,13 +55,10 @@ well these were the turkish ones. i am subscribed to some other podcasts too but
 
 - **locked on rockets** and **rockets launchpod** : specifically recommended for houston rockets and alperen şengün fans. 
 
+---
+
 ah, i got tired, i have been writing this for one hour and still could not finish all my suggestions at all. i could easily add **podsfordocs**, **in our time**, **the jordan b. peterson podcast**, **journey of ideas**, **history that doesn't suck**, **the happiness lab with dr. laurie santos**, **freakonomics radio**, **economist podcasts**, **the daily zeitgeist**, **chapo trap house** and **the chatterbox** but i don't listen these last ones as much as the ones i mentioned in the list, otherwise my whole day would be full of listening to podcasts. 
 
 so yeah, hope you found something cool.
 
 and dear emma chamberlain, text me sometime darling.
-
-
-
-
-
