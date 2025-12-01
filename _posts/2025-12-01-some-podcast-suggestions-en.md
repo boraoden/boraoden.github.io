@@ -15,15 +15,15 @@ recently i have increased my podcast consumption and want to share a couple sugg
 
 - **aposto altı otuz** : they are just posting a short news feed podcast everyday morning. good if you are into following news but also not dive into it deeply.
 
-- **mirgün cabas** : smart guy talking about random topics as well, also his other project involving "nereden başlasam" with can kozanoğlu is also great. he hosts guests from various areas in both of the podcasts.
+- **mirgün cabas** : smart guy talking about random topics as well, also his other project with can kozanoğlu, **nereden başlasam**, is also great. he hosts guests from various areas in both of the podcasts.
 
-- **nasıl olunur** : nilay örnek's guest hosting podcasts with 250 episodes, have some really cool episodes with nice guests.
+- **nasıl olunur** : nilay örnek's hosts guests. have some really cool episodes with turkish famous people.
 
-- **haddini aşan yaşam rehberi** : internet sheriff serdar kuzuloğlu's successful podcast. he always manages to entertain the audience while talking about great topics which applies to everyday life.
+- **haddini aşan yaşam rehberi** : serdar kuzuloğlu a.k.a "sheriff of internet" strikes back with another successful podcast. he always manages to entertain the audience while talking about great topics which applies to everyday life.
 
 - **fularsız entellik** : one must not forget the king of the podcasts. immanuel tolstoyevski is the goat of the turkish podcasts. not much need to endorse.
 
-well these were the turkish ones. i am subscribed to some other podcasts too but this post would not end at all if i try to mention them all. let's get into english ones which will take way more place than the above.
+well these were the turkish ones. i am subscribed to some other podcasts too but this post would not end at all if i try to mention them all. let's get into english ones which will take way more place than the turkish ones.
 
 - **anything goes with emma chamberlain** : i need to do a confession here. i was not having celebrity crushes for years but emma chamberlain changed it a bit. i don't know what but there is something that makes this girl attractive for me. her podcasts are not always my cup of tea but she is always funny. i don't follow her youtube account but podcastwise, she is great. i wish i was able to have a chat with her.
 
@@ -57,7 +57,7 @@ well these were the turkish ones. i am subscribed to some other podcasts too but
 
 ---
 
-ah, i got tired, i have been writing this for one hour and still could not finish all my suggestions at all. i could easily add **podsfordocs**, **in our time**, **the jordan b. peterson podcast**, **journey of ideas**, **history that doesn't suck**, **the happiness lab with dr. laurie santos**, **freakonomics radio**, **economist podcasts**, **the daily zeitgeist**, **chapo trap house** and **the chatterbox** but i don't listen these last ones as much as the ones i mentioned in the list, otherwise my whole day would be full of listening to podcasts. 
+ah, i got tired, i have been writing this post for more than one hour and still could not finish all my suggestions at all. i could easily add **podsfordocs**, **in our time**, **the jordan b. peterson podcast**, **journey of ideas**, **history that doesn't suck**, **the happiness lab with dr. laurie santos**, **freakonomics radio**, **economist podcasts**, **the daily zeitgeist**, **chapo trap house** and **the chatterbox** but i don't listen these last ones as much as the ones i mentioned in the list, otherwise my whole day would be full of listening to podcasts. 
 
 so yeah, hope you found something cool.
 
