@@ -15,7 +15,7 @@ recently i have increased my podcast consumption and want to share a couple sugg
 
 - **aposto altı otuz** : they are just posting a short news feed podcast everyday morning. good if you are into following news but also not dive into it deeply.
 
-- **mirgün cabas** : smart guy talking about random topics as well, also his other project with can kozanoğlu, **nereden başlasam**, is also great. he hosts guests from various areas in both of the podcasts.
+- **mirgün cabas** : smart guy talking about random topics. his other project with can kozanoğlu, **nereden başlasam**, is also great. he hosts guests from various areas in both of the podcasts.
 
 - **nasıl olunur** : nilay örnek's hosts guests. have some really cool episodes with turkish famous people.
 
