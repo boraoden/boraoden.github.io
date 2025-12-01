@@ -45,7 +45,7 @@ well these were the turkish ones. i am subscribed to some other podcasts too but
 
 - **divine intervention podcasts** : not for everyone but a really useful usmle reviews podcasts for the people who are getting ready for the mighty exam. 
 
-- **deep questions with cal newport** : productivity author cal newport's podcasts about technology, productivity and work life balance.
+- **deep questions with cal newport** : productivity author cal newport's podcast about technology, productivity and work life balance.
 
 - **speaking of psychology** : an unique suggestion for psychology enthusiasts. 
 
