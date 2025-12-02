@@ -31,11 +31,11 @@ well these were the turkish ones. i am subscribed to some other podcasts too but
 
 - **the standup**, **linux unplugged** and **ogg - mintcast**: if you are into linux and tech a bit these would fit you.
 
-- **global news podcast** : another news podcasts if you want to follow news from the perspective of british broadcasting corporation. 
+- **global news podcast**: another news podcasts if you want to follow news from the perspective of british broadcasting corporation. 
 
-- **today, explained** : vox's beautiful podcast which both talks about news and also interesting ideas.
+- **today, explained**: vox's beautiful podcast which both talks about news and also interesting ideas.
 
-- **huberman lab** : andrew huberman talking about science, productivity, health and more, usually with guests and sometimes alone. he loves to record podcasts and upload much, so if you are interested in these areas above, you would enjoy his podcast a lot!
+- **huberman lab**: andrew huberman talking about science, productivity, health and more, usually with guests and sometimes alone. he loves to record podcasts and upload much, so if you are interested in these areas above, you would enjoy his podcast a lot!
 
 - **lex fridman podcast**: lex fridman describes his podcast as "conversations about science, technology, history, philosophy, nature of intelligence, consciousness, love and power", which is completely true. smart and interesting guy hosting really valueable people. highly recommended but beware, almost every episode is 2-3 hours long at least.
 
@@ -57,7 +57,7 @@ well these were the turkish ones. i am subscribed to some other podcasts too but
 
 ---
 
-ah, i got tired, i have been writing this post for more than one hour and still could not finish all my suggestions at all. i could easily add **podsfordocs**, **in our time**, **the jordan b. peterson podcast**, **journey of ideas**, **history that doesn't suck**, **the happiness lab with dr. laurie santos**, **freakonomics radio**, **economist podcasts**, **the daily zeitgeist**, **chapo trap house** and **the chatterbox** but i don't listen these last ones as much as the ones i mentioned in the list, otherwise my whole day would be full of listening to podcasts. 
+ah, i got tired, i have been writing this post for more than one hour and still couldn't finish all my suggestions at all. i could easily add **podsfordocs**, **in our time**, **the jordan b. peterson podcast**, **journey of ideas**, **history that doesn't suck**, **the happiness lab with dr. laurie santos**, **freakonomics radio**, **economist podcasts**, **the daily zeitgeist**, **chapo trap house** and **the chatterbox** but i don't listen these last ones as much as the ones i mentioned in the list, otherwise my whole day would be full of listening to podcasts. 
 
 we are getting to the end, hope you found something for you here.
 
