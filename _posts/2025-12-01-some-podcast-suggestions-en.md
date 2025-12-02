@@ -53,7 +53,7 @@ well these were the turkish ones. i am subscribed to some other podcasts too but
 
 - **sky sports premier league podcast** and **football weekly**: two brilliant football podcast for the beautiful sport's dear fans, especially premier league enjoyers.
 
-- **locked on rockets** and **rockets launchpod** : specifically recommended for houston rockets and alperen şengün fans. 
+- **locked on rockets** and **rockets launchpod**: specifically recommended for houston rockets and alperen şengün fans. 
 
 ---
 
