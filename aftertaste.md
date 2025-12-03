@@ -7,5 +7,5 @@ well, i needed to make my homepage even more minimal so curated all my little "f
 ---
 
 <div style="text-align: center;">
-  <p><a href="/favourite-quotes">quotes</a> - <a href="/favourite-paintings">paintings</a> - <a href="https://www.goodreads.com/review/list/116783385?shelf=favorites&view=table">books</a> - <a href="https://letterboxd.com/wiseonn/list/favourite-ones/">movies</a> - <a href="https://boraoden.net/some-podcast-suggestions-en">podcasts</a></p>
+  <p><a href="/favourite-quotes">quote</a> <a href="/favourite-paintings">art</a> <a href="https://www.goodreads.com/review/list/116783385?shelf=favorites&view=table">book</a> <a href="https://letterboxd.com/wiseonn/list/favourite-ones/">movie</a> <a href="https://boraoden.net/some-podcast-suggestions-en">podcast</a></p>
 </div>
