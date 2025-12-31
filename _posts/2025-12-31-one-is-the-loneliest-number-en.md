@@ -22,6 +22,8 @@ also a really chill room,
 
 such a cold heart,
 
+salty drops on my cheeks,
+
 a vague future i guess,
 
 feeling distant to everyone, even myself,
@@ -43,13 +45,3 @@ a gesture, a simple text message perhaps,
 no is the saddest experience you'll ever know,
 
 it's just no good anymore.
-
-
-
-
-
-
-
-
-
-
