@@ -14,7 +14,7 @@ cat purring next to me,
 
 drank my second cup of coffee even though it's just 11 am,
 
-aimee mann's pretty [cover](https://youtu.be/Yf3LojyK7PA?si=dqXAr5LcOqCrEuxD) plays thanks to pta,
+aimee mann's pretty [cover](https://youtu.be/Yf3LojyK7PA?si=dqXAr5LcOqCrEuxD) rocks thanks to pta,
 
 have some beers for tonight, a bowl of popcorn maybe,
 
