@@ -40,6 +40,8 @@ something i forgot,
 
 a gesture, a simple text message perhaps,
 
+no is the saddest experience you'll ever know,
+
 it's just no good anymore.
 
 
