@@ -10,7 +10,7 @@ permalink: about
 
 <!--- <img src="images/medic.gif" alt="mediiic!" width="245" height="127"> --->
 
-welcome, i am just a fresh medical graduate from turkey who is enthusiastic about tech, books, movies, sports and cats. yes, it is nine year old me down there.
+welcome, i am just a fresh medical graduate from turkey who is enthusiastic about tech, books, movies, sports and cats. you can find a couple of relevant links and nine year old me down there.
 
 - <a href="/docs/CV_BoraOden_2026.pdf">cv</a> <a href="/docs/bora öden - past works.pdf">past works</a>
 - <a href="https://open.spotify.com/user/6atimpsh5xjmanqgunag33zry?si=0822978bdbab432c">spotify</a> <a href= "https://letterboxd.com/wiseonn">letterboxd</a> <a href= "https://www.goodreads.com/user/show/116783385-bora">goodreads</a> <a href="https://www.linkedin.com/in/boraoden/">linkedin</a> 
