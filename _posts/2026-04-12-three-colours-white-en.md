@@ -6,19 +6,19 @@ tags:
 bases:
   - "[[🎬 films-series reviews.base]]"
   - "[[🅱️ personal website.base]]"
-title: "three colors: white - en"
-permalink: /three-colors-white-en
+title: "three colours: white - en"
+permalink: /three-colours-white-en
 published: true
 layout: post
 categories: cinema
 ---
-it's a bit shame that i have postponed watching "three colors" for years but i believe everything happened in life needed to happen in that particular way for some reason that we cannot always comprehend.
+it's a bit shame that i have postponed watching "three colours" for years but i believe everything happened in life needed to happen in that particular way for some reason that we cannot always comprehend.
 
 all of the three movies in this beautiful trilogy show us a woman and a man. blue, i found pretty yet the most distant to me. julie had some kind of "liberty" at the end fortunately but it didn't stick with me much. red was prettier, more hopeful somehow. not for valentine particulary but for the two men of the movie, young and old judge. both got betrayed by the woman they love and valentine comes to the rescue at the grand finale! blue was the story of julie, red was feeling like story of valentine but it's judges' story. although it's not the only criteria when we are feeling a movie, book or a song but we unintentionally get drawn to art that we find relevant to our life.
 
 like i said above, i believe it's almost always hard for a man to relate to a female character and vice versa. so maybe white made the most influence over me, i am stating this because i saw that white is the least favourite of the three as far as i see. 
 
-among these three, i liked the white the most and watched with my full attention compared to first and third movies of three colors. from the movie poster, i initially thought it will be about julie delpy, which i wouldn't be sad if it was this way either, but it turned out to be about this random polish guy and i believe this is also one of the reasons i liked the white more compared to other ones. 
+among these three, i liked the white the most and watched with my full attention compared to first and third movies of three colours. from the movie poster, i initially thought it will be about julie delpy, which i wouldn't be sad if it was this way either, but it turned out to be about this random polish guy and i believe this is also one of the reasons i liked the white more compared to other ones. 
 
 totally broke guy in a foreign land but full of love he is. his ex-lover doesn't even respect him yet he is full of love, trying to find ways to get back together again, yet dominique, your pretty julie delpy, rejects him in the most radical ways, makes love with strangers. our miserable polish hairdresser guy decides to return to his homeland in a suitcase and his ascension begins.
 
