@@ -28,4 +28,8 @@ after that, we appreciate him though, he made a perfect plan to bring her to pol
 
 so, i am still confused about white, guys. i love the "redemption arc" side of the story yet the "revenge arc" part irritates me a bit. one can defend it's the pure love and effort for it but i ain't sure. stuff don't happen like this in real life. it doesn't have to be accurate to real life though i am aware. 
 
-karol, you are a smart and good guy, i would love to have some votka with you my fella.
+karol, you are a smart and good guy, i would love to have some votka with you my fella. 
+
+yeah, i praised karol but still had to to put julie delpy at the wedding to end.
+
+![]({{site.baseurl}}/images/white.jpg)
