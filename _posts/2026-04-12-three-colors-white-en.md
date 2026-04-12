@@ -20,7 +20,7 @@ like i said above, i believe it's almost always hard for a man to relate to a fe
 
 among these three, i liked the white the most and watched with my full attention compared to first and third movies of three colors. from the movie poster, i initially thought it will be about julie delpy, which i wouldn't be sad if it was this way either, but it turned out to be about this random polish guy and i believe this is also one of the reasons i liked the white more compared to other ones. 
 
-totally broke guy in a foreign land but full of love he is. his ex-lover doesn't even respect him yet he is full of love, trying to find ways to get back together again, yet dominique, your pretty julie delpy, rejects him in the most radical ways. our miserable polish hairdresser guy returns to his homeland in a suitcase and his ascension begins.
+totally broke guy in a foreign land but full of love he is. his ex-lover doesn't even respect him yet he is full of love, trying to find ways to get back together again, yet dominique, your pretty julie delpy, rejects him in the most radical ways, makes love with strangers. our miserable polish hairdresser guy decides to return to his homeland in a suitcase and his ascension begins.
 
 he somehow totally builds himself from zero. we see him happy doing his craft, he earns money, make great friends, he earns respect, he feels fulfilled. he is the perfect example of self made man. we feel proud for him, at least i felt that way until he literally "simped" for dominique who erased him from her life, she does not even talk to him when he calls. we feel pity for karol again, dude, you built a whole new life, you are rich, just broaden your vision a bit, lol. 
 
