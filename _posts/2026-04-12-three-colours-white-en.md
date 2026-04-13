@@ -30,6 +30,6 @@ so, i am still confused about white, guys. i love the "redemption arc" side of t
 
 karol, you are a smart and good guy, i would love to have some votka with you my fella. 
 
-yeah, i praised karol but still had to to put julie delpy smiling at the wedding to the end.
+yeah, i praised karol but still had to put julie delpy smiling at the wedding to the end.
 
 ![]({{site.baseurl}}/images/white.jpg)
