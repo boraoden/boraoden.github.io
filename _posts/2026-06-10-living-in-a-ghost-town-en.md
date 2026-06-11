@@ -15,7 +15,7 @@ published: true
 
 hello there, hope everything is fine with you all.
 
-it has been a while, when i came for mandatory service to ceylanpınar, i was planning to write a few posts here, to have some kind of diary-series at the end but i didn't stop by to write much. here i am though now, having a shift tomorrow, an istanbul trip and kasabian concert at the weekend.  i will leave urfa soon, one or two months i suppose, hope not anylonger. here is way hotter than mersin, desert-like sun, believe me. i am happy that i installed the air conditioner before it's too late.
+it has been a while, when i came for mandatory service to ceylanpınar, i was planning to write a few posts here, to have some kind of diary-series at the end but i didn't stop by to write much. here i am though now, having a shift tomorrow, an istanbul trip and kasabian concert at the weekend.  i will leave urfa soon, one or two months i suppose, hope not any longer. here is way hotter than mersin, desert-like sun, believe me. i am happy that i installed the air conditioner before it's too late.
 
 when the rolling stones published their song, living in a ghost town, in pandemic, it made a lot sense but i think this song does not get the credit it deserves years after covid. i find it quite pretty and relevant to my current state of mind. this mandatory service i mentioned above made me see this little uncivilized corner of turkey full of ignorance, dirt, weird traditions and more.
 
