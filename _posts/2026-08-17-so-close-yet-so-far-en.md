@@ -1,5 +1,5 @@
 ---
-date: 2026-08-17
+date: 2026-08-17T00:00:00.000Z
 tags:
   - writings/blog
 bases:
@@ -26,4 +26,4 @@ ankara era started a bit bitter as you see, have no home still, weird situations
 
 you will overcome eventually, bora. what you need is less external-dependency and more inner calmness. you just need to get closer to original bora, or a little bit to the "toxic hustle culture bora" perhaps. you should mind your own business, try to be the best at what you do, take care of your body, your mental health, eat well. read more, spend less time on internet. you have to detach your sense of self-worth from people the around you, especially those who unintentionally do quirky but saddening stuff to your heart.
 
-![[nbtbm.jpg]]
+![]({{site.baseurl}}/images/nbtbm.jpg)
