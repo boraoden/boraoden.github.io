@@ -10,11 +10,11 @@ layout: post
 categories: personal
 published: true
 ---
-*there's a hunger in my heart*  
-*it's full of promise, promise*  
-*there's an itch under my skin*  
-*it's under my skin, under my skin*
-*cause I, I just wanna feel something real*  
+> there's a hunger in my heart  
+> it's full of promise, promise  
+> there's an itch under my skin  
+> it's under my skin, under my skin
+> cause I, I just wanna feel something real  
 
 oh dude, i really just wanna feel something real. actually, i even want more to make someone feel something real for me. the most hurting part is the title dear reader. being able to see someone everyday yet not being able to do anything about it. feeling like a total ghost, a dumb teenager, an immature adolescent boy. a broken imitation of fifteen year old high-schooler bora who is shy to talk to the person behind him, maybe his first real crush. definitely not the last as you are reading this though.
 
