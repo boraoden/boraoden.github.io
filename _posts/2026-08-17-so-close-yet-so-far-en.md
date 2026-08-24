@@ -1,14 +1,12 @@
 ---
-date: 2026-08-17T00:00:00.000Z
-tags:
-  - writings/blog
-bases:
-  - "[[🅱️ boraoden.net.base]]"
 title: so close yet so far - en
-permalink: so-close-yet-so-far-en
-layout: post
+date: 2026-08-17
+bases: "[[🅱️ boraoden.net.base]]"
 categories: personal
-published: true
+layout: post
+permalink: so-close-yet-so-far-en
+published: "false"
+tags: writings/blog
 ---
 > there's a hunger in my heart  
 > it's full of promise, promise  
