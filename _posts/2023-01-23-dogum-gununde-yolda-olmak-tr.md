@@ -1,9 +1,9 @@
 ---
-published: true
-layout: post
-categories: personal diary
-permalink: dogum-gununde-yolda-olmak-tr
 title: doğum gününde yolda olmak - tr
+categories: personal diary
+layout: post
+permalink: dogum-gununde-yolda-olmak-tr
+published: "false"
 ---
 emektar bilgisayarın otobüsün her hareketinde tir tir titriyordur ama yazasın gelmiştir, o istek bastırdığında kendine yapabileceğin en rezil kötülük karşı koymaktır o samimi arzuna. önündeki teyze indirmişse de koltuğunu en arkaya, iki büklüm bir pozisyon bulur sığdırırsın bilgisayarı bir yerlere ve flörtleşmeye başlarsın klavyenle.
 
