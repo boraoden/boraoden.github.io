@@ -6,13 +6,12 @@ title: living in a ghost town - en
 tags:
   - areas/personal
   - writings/blog
-date: 2026-06-10
+date: 2026-06-10T00:00:00.000Z
 bases:
   - "[[🅱️ boraoden.net.base]]"
   - "[[👓 personal writings.base]]"
 published: true
 ---
-
 hello there, hope everything is fine with you all.
 
 it has been a while, when i came for mandatory service to ceylanpınar, i was planning to write a few posts here, to have some kind of diary-series at the end but i didn't stop by to write much. here i am though now, having a shift tomorrow, an istanbul trip and kasabian concert at the weekend.  i will leave urfa soon, one or two months i suppose, hope not any longer. here is way hotter than mersin, desert-like sun, believe me. i am happy that i installed the air conditioner before it's too late.
@@ -23,7 +22,7 @@ ceylanpınar is not particularly a ghost town, it is more like a ghoul-town. a s
 
 old kurdish ladies with tattoed faces come often, asking "hoca, kurmanci zane?" and i reply "hayır teyze, tınne kurmanci." you should see the disappointment in their faces, luckily they always have a children to translate. 
 
-i hate being a doctor in emergency service, especially in turkey where being a healthcare worker is some kind of torture no matter your profession. in shifts, examining and listening more than two hundred patient really tires me, consumes me to my every cell. dramatic young men with flu, endless pregnant women, kids who breaks their limbs constantly, losing a patient no matter how hard you try to rescue, doing an orthopedic reduction to a small kid with the consultant, tiring cardiopulmonary resuscitations, sutures, crying babies, vomiting kids, shouting men, people who try to cut the line and want to get examined quickly, people who are addiction to iv or im treatment for the smallest things, hospital security who gets paid to drink tea and watch reels and ask for a favour from you constantly while people shout at you...
+i hate being a doctor in emergency service, especially in turkey where being a healthcare worker is some kind of torture no matter your profession. in shifts, examining and listening more than two hundred patient really tires me, consumes me to my every cell. dramatic young men with flu, endless pregnant women, kids who break their limbs constantly, losing a patient no matter how hard you try to rescue, doing an orthopedic reduction to a small kid with the consultant, tiring cardiopulmonary resuscitations, sutures, crying babies, vomiting kids, shouting men, people who try to cut the line and want to get examined quickly, people who have addiction to iv or im treatment for the smallest things, hospital security who gets paid to drink tea and watch reels and ask for a favour from you constantly while people shout at you...
 
 while you may think, "oh it's urfa, at least you may have some good food there", i would say "nah dude, not at all." most of them are not even worth paying a single lira. majority of them are the worst i have seen in whole turkey. kebabs are not kebab but a weird looking shish full of fat.  yikes.
 
