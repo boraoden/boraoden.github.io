@@ -32,6 +32,6 @@ i know you will do the same mistakes again, bora. you dumb fuck. even if you do 
 
 don't let the good memories fool you, dear. they are your worst enemy. remember the betrayals and sadness that comes with it. 
 
-they call it "winter arc" nowadays. cliche but sounds appealing, empowering. you have a nice job, you earn decent, you look good, you have a cosy home. just focus on your body and your craft. those thyroid tumors won't get solved by themselves you old grumpy bastard. focus on your plans, neither to the sad people at work nor who are thousands of miles away from you. you have a brand new great life and enjoy it while it's lasting dude.
+internet call it "winter arc" nowadays. cliche but sounds appealing, empowering. you have a nice job, you earn decent, you look good, you have a cosy home. just focus on your body and your craft. those thyroid tumors won't get solved by themselves you old grumpy bastard. focus on your plans, neither to the sad people at work nor who are thousand kilometers away from you. you have a brand new great life and enjoy it while it's lasting dude.
 
 take care, they will say too and yeah, definitely take care, bora.
