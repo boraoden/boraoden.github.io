@@ -4,7 +4,7 @@ date: 2026-10-10
 bases: "[[🅱️ boraoden.net.base]]"
 layout: post
 permalink: 370-or-winter-arc-en
-published: "false"
+published: false
 tags: writings/blog
 ---
 i don't know man, i genuinely don't know. 
