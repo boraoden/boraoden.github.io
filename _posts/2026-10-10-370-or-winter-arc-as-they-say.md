@@ -1,14 +1,11 @@
 ---
-date: 2026-10-10
-tags:
-  - writings/blog
-bases:
-  - "[[🅱️ boraoden.net.base]]"
 title: +370 or winter arc, as they say - en
-permalink: 370-or-winter-arc-en
+date: 2026-10-10
+bases: "[[🅱️ boraoden.net.base]]"
 layout: post
-categories:
-published: true
+permalink: 370-or-winter-arc-en
+published: "false"
+tags: writings/blog
 ---
 i don't know man, i genuinely don't know. 
 
