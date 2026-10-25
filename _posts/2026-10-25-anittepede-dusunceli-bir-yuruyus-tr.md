@@ -1,14 +1,11 @@
 ---
-date: 2026-10-25T00:00:00.000Z
-tags:
-  - writings/blog
-bases:
-  - "[[🅱️ boraoden.net.base]]"
-title: anıttepe'de düşünceli bir yürüyüş - tr
-permalink: /anittepede-dusunceli-bir-yuruyus-tr
+title: anıttepe'de bir yürüyüş - tr
+date: 2026-10-25
+bases: "[[🅱️ boraoden.net.base]]"
 layout: post
-categories: null
-published: true
+permalink: /anittepede-bir-yuruyus-tr
+published: "true"
+tags: writings/blog
 ---
 epeydir türkçe yazmıyordum. 
 
@@ -16,7 +13,7 @@ dün, babamın teyzesi selma teyze beni akşam yemeğine davet etti bugün için
 
 düşünceliydim epey. yine özgüven dalgalanmaları yaşadığım, insan ilişkilerimi, hayatımı, genel olarak mizacımı ve karakterimi sıkça sorguladığım bir olay yaşadım çünkü dün. ne istediğini bilmeyen insanlar, hepimizi pek bir yıpratıyor ama galiba hiçbirimiz her zaman ne istediğimizi tam anlamıyla bilmeyebiliyoruz. o yüzden birbirimizi suçlamak da pek kabul edilebilir değil.
 
-![]({{site.baseurl}}/images/ay1.jpg)
+![]({{site.baseurl}}/images/ay3.jpg)
 
 primetime, dandik bir filmdi bence. rahatsız ediciydi oldukça. onu izlememe vesile olan olay ise daha da tuhaftı. şimdi ayrıntı vermek pek istemiyorum ama herhalde seneler sonra bu yazıya dönersem bir şekilde hatırlarım. sadece üst üste bu özdeğer hissiyatı düşüşleri yaşama durumumu pek sağlıklı bulmuyorum. özdeğerimi nelere bağladığımı gözden geçirsem fena olmaz gibi. en azından bütünüyle nahoş bir üç saate kesinlikle bağlamamalıyım.
 
@@ -32,4 +29,4 @@ neyse işte. bu da ne kıytırık bir yazı oldu ancak böyle kalsın. belki mes
 
 bunu okuyan herkese romantik hayatlarında başarılar, ben jubileye çok yakınım.
 
-![]({{site.baseurl}}/images/ay3.jpg)
+![]({{site.baseurl}}/images/ay1.jpg)
