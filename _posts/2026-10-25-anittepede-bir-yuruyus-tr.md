@@ -4,7 +4,7 @@ date: 2026-10-25
 bases: "[[🅱️ boraoden.net.base]]"
 layout: post
 permalink: /anittepede-bir-yuruyus-tr
-published: "true"
+published: false
 tags: writings/blog
 ---
 epeydir türkçe yazmıyordum. 
